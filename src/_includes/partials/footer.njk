@@ -1,0 +1,19 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-disclaimer">
+      <p><strong>This site is for information only. It is not medical advice.</strong> Please make any decision about treatment, supplements or trials with a doctor who knows your history. If you are in crisis or need to talk to someone now, call <a href="tel:131114">Lifeline on 13 11 14</a> (Australia) or your local emergency number.</p>
+    </div>
+    <div class="footer-grid">
+      {% for sec in nav %}
+      <div>
+        <p class="footer-head"><a href="{{ sec.url }}">{{ sec.title }}</a></p>
+        <ul>{% for it in sec.items %}<li><a href="{{ it.url }}">{{ it.title }}</a></li>{% endfor %}</ul>
+      </div>
+      {% endfor %}
+    </div>
+    <p class="footer-meta">
+      <span>© {{ site.today | truncate(4, true, "") }} {{ site.name }} · Written by {{ site.author }}</span>
+      <span>Content last reviewed {{ site.lastReviewed | readableDate }}</span>
+    </p>
+  </div>
+</footer>

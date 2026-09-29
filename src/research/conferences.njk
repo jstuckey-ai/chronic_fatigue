@@ -1,0 +1,75 @@
+---
+hideReadTime: true
+title: Conferences & events
+description: Upcoming ME/CFS and Long COVID research conferences, patient events and awareness days, plus recordings of past conferences you can watch from home.
+reviewed: 2026-09-29
+brief:
+  - Many research conferences now **stream online** or post **free recordings**, which is ideal if travel isn't possible.
+  - '**12 May** is International ME/CFS Awareness Day.'
+  - Dates can change. Always check the organiser's website before making plans.
+---
+{%- set months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"] -%}
+{%- set upcoming = conferences | upcoming(site.today) -%}
+{%- set past = conferences | past(site.today) -%}
+
+{% macro event(c) %}
+<article class="item-card event" data-item data-format="{{ c.format_key }}">
+  {%- set y = c.start_date | truncate(4, true, "") -%}
+  {%- set m = c.start_date.split("-")[1] | int -%}
+  {%- set d = c.start_date.split("-")[2] -%}
+  <div class="date-badge" aria-hidden="true">
+    <span class="d-mon">{{ months[m - 1] }}</span>
+    <span class="d-day">{% if c.date_precise %}{{ d | int }}{% else %}–{% endif %}</span>
+    <span class="d-yr">{{ y }}</span>
+  </div>
+  <div class="event-body">
+    <div class="item-top">
+      {% if c.format %}<span class="chip">{{ c.format }}</span>{% endif %}
+      {% if c.audience %}<span class="chip">{{ c.audience }}</span>{% endif %}
+      {% if c.country == "Australia" %}<span class="chip chip-au">Australia</span>{% endif %}
+    </div>
+    <h3>{{ c.name }}</h3>
+    <dl class="item-meta">
+      <dt>When</dt><dd>{{ c.dates }}</dd>
+      {% if c.location %}<dt>Where</dt><dd>{{ c.location }}</dd>{% endif %}
+      {% if c.organiser %}<dt>Organiser</dt><dd>{{ c.organiser }}</dd>{% endif %}
+      {% if c.patient_access %}<dt>Can patients join?</dt><dd>{{ c.patient_access | md | safe }}</dd>{% endif %}
+    </dl>
+    {% if c.description %}<p>{{ c.description | md | safe }}</p>{% endif %}
+    <div class="item-actions">
+      {% if c.url %}<a class="btn btn-sm" href="{{ c.url }}" rel="noopener">Event website</a>{% endif %}
+      {% if c.recordings_url %}<a class="btn btn-sm btn-soft" href="{{ c.recordings_url }}" rel="noopener">Watch recordings</a>{% endif %}
+    </div>
+    {% if c.notes or not c.verified %}
+    <p class="item-note">{% if not c.verified %}<span class="unverified">Dates not yet confirmed by the organiser.</span> {% endif %}{{ c.notes | md | safe }}</p>
+    {% endif %}
+  </div>
+</article>
+{% endmacro %}
+
+<h2 id="upcoming">Upcoming</h2>
+<div class="listing">
+  {% for c in upcoming %}{{ event(c) }}{% else %}<p>No upcoming events listed right now.</p>{% endfor %}
+</div>
+
+<h2 id="past-events-and-recordings">Past events & recordings</h2>
+<p>Missed something? Many conferences post talks online for free.</p>
+<div class="listing">
+  {% for c in past %}{{ event(c) }}{% endfor %}
+</div>
+
+{% markdown %}
+## Watching from home
+
+Conferences are long and demanding, even online. Some tips:
+
+- **Watch in short pieces.** Recordings don't go anywhere, so one talk a day is plenty.
+- **Start with the summaries.** Charities like ME Research UK, the ME Association, Emerge Australia and news sites like *The Sick Times* publish plain-language write-ups after major conferences.
+- **Turn on subtitles** and lower playback speed if processing is hard.
+
+## Finding more events
+
+- **Emerge Australia** and **ME/CFS Australia** post Australian events and webinars, especially around **12 May** each year.
+- **Solve M.E.** and **Open Medicine Foundation** run regular free webinars.
+- **The Sick Times** covers major conferences as they happen.
+{% endmarkdown %}

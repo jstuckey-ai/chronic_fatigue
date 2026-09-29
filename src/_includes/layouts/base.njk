@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title and page.url != "/" %}{{ title }} · {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{{ description or site.tagline }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.tagline }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="theme-color" content="#fbf7f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1c1a17" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <script>
+    // Apply saved reading-comfort settings before first paint to avoid a flash.
+    (function () {
+      try {
+        var t = localStorage.getItem("cfs-theme"); if (t) document.documentElement.dataset.theme = t;
+        var s = localStorage.getItem("cfs-size"); if (s) document.documentElement.dataset.size = s;
+        if (localStorage.getItem("cfs-calm") === "1") document.documentElement.dataset.calm = "1";
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  {% include "partials/header.njk" %}
+  <main id="main" tabindex="-1">
+    {% block main %}{{ content | safe }}{% endblock %}
+  </main>
+  {% include "partials/footer.njk" %}
+  <script src="/assets/js/main.js" defer></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

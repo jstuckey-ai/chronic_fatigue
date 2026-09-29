@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+title: Search
+description: Search everything on chronicfatigue.support.
+eleventyExcludeFromCollections: true
+---
+<div class="page-hero">
+  <div class="wrap">
+    <h1>Search</h1>
+    <p class="lead">Search every page, including trials, treatments, tests and the glossary.</p>
+  </div>
+</div>
+<div class="wrap search-shell">
+  <div id="search"></div>
+  <noscript><p>Search needs JavaScript. Try the <a href="/">home page</a> sections instead.</p></noscript>
+</div>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    const ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false, resetStyles: false,
+      translations: { placeholder: "Search e.g. pacing, LDN, sleep study, trials in Australia" } });
+    const q = new URLSearchParams(location.search).get("q");
+    if (q) ui.triggerSearch(q);
+    setTimeout(() => document.querySelector("#search input")?.focus(), 50);
+  });
+</script>

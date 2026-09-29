@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers static-assets deployment. Build first with `npm run build`.
+  "name": "chronicfatigue-support",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./_site",
+    "not_found_handling": "404-page"
+  }
+}

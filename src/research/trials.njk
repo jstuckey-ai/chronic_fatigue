@@ -1,0 +1,128 @@
+---
+hideReadTime: true
+title: Clinical trials & studies
+description: ME/CFS and related trials and studies recruiting or under way around the world, with eligibility and who to contact about taking part.
+reviewed: 2026-09-29
+brief:
+  - Filter by **country, status and type** to find studies you might be able to join.
+  - Each listing shows **who to contact**. Always check the official registry page for the latest details.
+  - Some **Long COVID** trials are included where they're relevant to ME/CFS.
+  - Trials change often. If a contact doesn't work, try the registry link.
+  - Contacts were checked against official registries on **29 September 2026**.
+---
+{%- set statusLabels = { "recruiting": "Recruiting", "not-yet": "Not yet recruiting", "active": "Under way, not recruiting", "invite": "By invitation", "completed": "Completed", "unknown": "Status unclear" } -%}
+{%- set countries = trials | flatMap("countries") | unique -%}
+{%- set types = trials | flatMap("typeList") | unique -%}
+
+<div data-filterable>
+  <div class="filters" role="search" aria-label="Filter trials">
+    <div>
+      <label for="f-text">Search trials</label>
+      <input id="f-text" type="search" data-filter="text" placeholder="e.g. LDN, Long COVID, Brisbane">
+    </div>
+    <div>
+      <label for="f-country">Country</label>
+      <select id="f-country" data-filter="country">
+        <option value="">All countries</option>
+        {% for c in countries %}<option>{{ c }}</option>{% endfor %}
+      </select>
+    </div>
+    <div>
+      <label for="f-status">Status</label>
+      <select id="f-status" data-filter="status">
+        <option value="">Any status</option>
+        <option value="recruiting">Recruiting now</option>
+        <option value="not-yet">Not yet recruiting</option>
+        <option value="invite">By invitation</option>
+        <option value="active">Under way, not recruiting</option>
+        <option value="unknown">Status unclear</option>
+      </select>
+    </div>
+    <div>
+      <label for="f-type">Type</label>
+      <select id="f-type" data-filter="type">
+        <option value="">All types</option>
+        {% for t in types %}<option>{{ t }}</option>{% endfor %}
+      </select>
+    </div>
+  </div>
+  <p class="filter-count" data-count data-noun="studies" aria-live="polite"></p>
+
+  <div class="listing">
+    {% for t in trials %}
+    <article class="item-card" data-item
+      data-country="{{ t.countries | join('|') }}"
+      data-status="{{ t.status }}"
+      data-type="{{ t.typeList | join('|') }}">
+      <div class="item-top">
+        <span class="chip {% if t.status == 'recruiting' %}chip-recruiting{% elif t.status == 'not-yet' %}chip-soon{% else %}chip-closed{% endif %}">{{ statusLabels[t.status] or t.status }}</span>
+        {% for c in t.countries %}<span class="chip{% if c == 'Australia' %} chip-au{% endif %}">{{ c }}</span>{% endfor %}
+        {% for ty in t.typeList %}<span class="chip">{{ ty }}</span>{% endfor %}
+        {% if t.condition %}<span class="chip">{{ t.condition }}</span>{% endif %}
+      </div>
+      <h3 id="{{ t.id }}">{{ t.name }}</h3>
+      {% if t.title %}<p class="muted small">{{ t.title }}</p>{% endif %}
+      <p>{{ t.summary | md | safe }}</p>
+      <dl class="item-meta">
+        {% if t.intervention %}<dt>Testing</dt><dd>{{ t.intervention | md | safe }}</dd>{% endif %}
+        {% if t.phase %}<dt>Design</dt><dd>{{ t.phase }}</dd>{% endif %}
+        {% if t.locations %}<dt>Where</dt><dd>{{ t.locations }}</dd>{% endif %}
+        {% if t.eligibility %}<dt>Who can join</dt><dd>{{ t.eligibility | md | safe }}</dd>{% endif %}
+        {% if t.sponsor %}<dt>Run by</dt><dd>{{ t.sponsor }}</dd>{% endif %}
+        {% if t.contact_name %}<dt>Contact</dt><dd>{{ t.contact_name }}</dd>{% endif %}
+      </dl>
+      <div class="item-actions">
+        {% if t.contact_email %}<a class="btn btn-sm" href="mailto:{{ t.contact_email }}?subject={{ ('Enquiry about ' + t.name) | urlencode }}">Email {{ t.contact_email }}</a>{% endif %}
+        {% if t.contact_phone %}<a class="btn btn-sm{% if t.contact_email %} btn-soft{% endif %}" href="tel:{{ t.contact_phone | replace(' ', '') | replace('(', '') | replace(')', '') }}">Call {{ t.contact_phone }}</a>{% endif %}
+        {% if t.contact_url %}<a class="btn btn-sm btn-soft" href="{{ t.contact_url }}" rel="noopener">Study website</a>{% endif %}
+        {% if t.registry_url %}<a class="btn btn-sm btn-soft" href="{{ t.registry_url }}" rel="noopener">Registry{% if t.registry_id %}: {{ t.registry_id }}{% endif %}</a>{% endif %}
+      </div>
+      {% if t.notes or not t.verified %}
+      <p class="item-note">
+        {% if not t.verified %}<span class="unverified">Details not yet confirmed against the official registry.</span> {% endif %}
+        {{ t.notes | md | safe }}
+      </p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  <div class="callout callout-note" data-empty hidden>
+    <p>No studies match those filters. <button class="btn btn-sm btn-soft" type="button" data-reset>Clear filters</button></p>
+  </div>
+</div>
+
+<div class="prose">
+{% markdown %}
+## How to join
+
+<ol class="steps">
+<li><strong>Check the basics.</strong> Read the eligibility summary above, then the full criteria on the registry page. Many ME/CFS trials require a formal diagnosis (often the Canadian Consensus Criteria) and set age limits.</li>
+<li><strong>Get in touch.</strong> Email or call the study contact. Say you're interested, where you live, your diagnosis and how long you've been unwell. You don't need a doctor's referral for most studies.</li>
+<li><strong>Screening.</strong> The team will check whether you're eligible, usually by phone and questionnaire, and sometimes with blood tests.</li>
+<li><strong>Consent.</strong> You'll be given a participant information sheet. Take your time, and ask questions. You can withdraw at any time.</li>
+</ol>
+
+### Questions to ask the study team
+
+- How many visits are there, and can any be done from home or by telehealth?
+- How physically demanding are the visits? Can I lie down during them? **Is there any exercise testing?**
+- What's the chance I'll get a placebo? Can I get the real treatment afterwards?
+- Will I need to stop any of my current medications or supplements?
+- Are travel costs covered? Is there payment?
+- Will I get my own test results?
+- Who do I contact if I crash or feel unwell during the trial?
+
+{% callout "tip", "Weighing it up" %}
+**Upsides:** free testing (some trials include immune panels or MRI), close monitoring, possible access to a new treatment, and helping future patients.
+
+**Downsides:** you may get a placebo, visits can trigger PEM, and you may need to stop or avoid other treatments (e.g. LDN trials usually exclude people already taking LDN).
+{% endcallout %}
+
+### Find more trials yourself
+
+- **Australia & New Zealand:** [ANZCTR](https://www.anzctr.org.au/), search "chronic fatigue" or "myalgic encephalomyelitis"
+- **Worldwide:** [ClinicalTrials.gov](https://clinicaltrials.gov/search?cond=Myalgic%20Encephalomyelitis) and the [WHO trials search portal](https://trialsearch.who.int/)
+- **UK:** [ISRCTN registry](https://www.isrctn.com/) and [Be Part of Research](https://bepartofresearch.nihr.ac.uk/)
+- **Emerge Australia** and **NCNED (Griffith University)** post Australian research opportunities
+{% endmarkdown %}
+</div>

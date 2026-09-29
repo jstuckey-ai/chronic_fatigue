@@ -1,0 +1,943 @@
+[
+  {
+    "id": "tri-me",
+    "name": "TRI-ME: trimetazidine for ME/CFS",
+    "title": "Trimetazidine to treat ME/CFS: a double-blind, randomised, placebo-controlled efficacy trial",
+    "summary": "Tests whether **trimetazidine**, a heart medicine that helps cells burn fuel more efficiently (approved for angina in Europe and Asia), improves ME/CFS symptoms. Participants take tablets for 8 weeks and complete questionnaires.",
+    "intervention": "Trimetazidine 35 mg twice daily for 8 weeks vs placebo",
+    "phase": "Phase 2/3, randomised, double-blind, placebo-controlled (target 290 people)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "Barwon Health, Geelong VIC; Swinburne University, Hawthorn VIC",
+    "eligibility": "Age 18+, meets the **Canadian Consensus Criteria** for ME/CFS, and has a current treating doctor. Not eligible: pregnancy or breastfeeding, severe kidney disease, Parkinson's or other movement disorders (including restless legs), MAOI medications, or being in another trial.",
+    "sponsor": "Deakin University (IMPACT) · funded by the NHMRC",
+    "contact_name": "TRI-ME study team",
+    "contact_email": "TRI-ME@deakin.edu.au",
+    "contact_phone": "0482 869 599",
+    "contact_url": "https://impact-trials.deakin.edu.au/trial/tri-me-trial-a-new-treatment-trial-for-myalgic-encephalomyelitis-chronic-fatigue-syndrome-me-cfs/",
+    "registry_id": "ACTRN12625000095460",
+    "registry_url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12625000095460",
+    "verified": true,
+    "notes": "Recruiting until 2029. Currently Victoria only. It's worth asking whether interstate participation is possible."
+  },
+  {
+    "id": "treatmelc",
+    "name": "TreatMELC: low-dose naltrexone for ME/CFS and Long COVID",
+    "title": "Low Dose Naltrexone for ME/CFS and Long COVID (Griffith University NCNED)",
+    "summary": "A placebo-controlled trial of **low-dose naltrexone (LDN)** from Griffith University's NCNED, the team behind the TRPM3 ion channel research. It will also look at immune, ion channel and brain measures to find a treatment biomarker. Capsules are posted to participants.",
+    "intervention": "LDN starting at 1.5 mg/day, increasing weekly to 4.5–6 mg/day, for 12 weeks vs placebo",
+    "phase": "Phase 1, placebo-controlled (target 56 people)",
+    "status": "not-yet",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "Recruiting from NSW, QLD and VIC",
+    "eligibility": "Age 18–65, BMI 18.5–29.9. Either ME/CFS diagnosed by a doctor and meeting the Canadian and/or International Consensus Criteria, **or** Long COVID with brain fog, sleep problems and/or body pain. You're likely to be ineligible if you already take LDN.",
+    "sponsor": "Griffith University · funded by the Stafford Fox Medical Research Foundation",
+    "contact_name": "Prof Sonya Marshall-Gradisnik",
+    "contact_email": "s.marshall-gradisnik@griffith.edu.au",
+    "contact_phone": "(07) 5678 0725",
+    "contact_url": "https://redcap.link/NCNEDresearchregistry",
+    "registry_id": "ACTRN12624001162505",
+    "registry_url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=387311",
+    "verified": true,
+    "notes": "NCNED confirmed in September 2026 that this trial **hasn't started yet**. To hear when it opens, join the [NCNED research registry](https://redcap.link/NCNEDresearchregistry). The general NCNED line, (07) 5678 9283 or ncned@griffith.edu.au, can also help."
+  },
+  {
+    "id": "ncned-studies",
+    "name": "Griffith NCNED research studies & surveys",
+    "summary": "Griffith University's National Centre for Neuroimmunology and Emerging Diseases runs a rolling programme of **mechanism studies** (blood tests of ion channels and genetics, brain MRI) and **online surveys** (quality of life, economic impact, gut symptoms). Some include free immune testing or MRI. **Join NCNED's research registry** (the \"Study website\" button) to be contacted about studies you may be eligible for.",
+    "intervention": "Blood tests, MRI and surveys. No treatment.",
+    "phase": "Observational (several studies)",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "Gold Coast QLD; surveys online",
+    "eligibility": "Usually age 18–60 or 18–65, Australian resident, non-smoker, not pregnant. People with ME/CFS, Long COVID or healthy volunteers, depending on the study.",
+    "sponsor": "Griffith University NCNED",
+    "contact_name": "NCNED",
+    "contact_email": "ncned@griffith.edu.au",
+    "contact_phone": "(07) 5678 9283",
+    "contact_url": "https://redcap.link/NCNEDresearchregistry",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": "The research registry link was provided directly by NCNED (September 2026)."
+  },
+  {
+    "id": "ausme",
+    "name": "AusME Registry & Biobank",
+    "summary": "Australia's national ME/CFS and Long COVID **registry and biobank**, run by Emerge Australia. You fill in online surveys every few months, with optional blood donation, and your data supports Australian research. More than 2,700 people have joined.",
+    "intervention": "Online surveys; optional blood sample",
+    "phase": "Registry / biobank",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Registry"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "Online, Australia-wide",
+    "eligibility": "Age 12+ living in Australia with ME/CFS or Long COVID, or healthy volunteers.",
+    "sponsor": "Emerge Australia with La Trobe University",
+    "contact_name": "Emerge Australia (AusME)",
+    "contact_email": "information.ausme@emerge.org.au",
+    "contact_phone": "1800 865 321",
+    "contact_url": "https://ausmeregistry.org/",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": "When calling, **press 3** for research and biobank (Tue–Thu, 8am–3:30pm AEDT)."
+  },
+  {
+    "id": "nalcovid",
+    "name": "NALCOVID: low-dose naltrexone for Long COVID",
+    "summary": "Griffith University's placebo-controlled trial of LDN for Long COVID brain fog, sleep problems and pain. **People previously diagnosed with ME/CFS are excluded.**",
+    "intervention": "LDN 1.5 mg/day, increasing to 4–6 mg/day, nightly for 12 weeks vs placebo",
+    "phase": "Phase 1, placebo-controlled (target 56 people)",
+    "status": "unknown",
+    "condition": "Long COVID",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "National, remote participation",
+    "eligibility": "Age 18–65 with Long COVID plus brain fog, sleep problems and/or body pain. **Excludes anyone diagnosed with ME/CFS.**",
+    "sponsor": "Griffith University NCNED",
+    "contact_name": "NCNED",
+    "contact_email": "ncned@griffith.edu.au",
+    "contact_phone": "(07) 5678 9283",
+    "contact_url": "",
+    "registry_id": "ACTRN12623001042639",
+    "registry_url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=386522",
+    "verified": true,
+    "notes": "The registry still says recruiting but hasn't been updated since June 2024, so recruitment has probably finished. Placebo participants can start LDN afterwards."
+  },
+  {
+    "id": "reverse-lc",
+    "name": "REVERSE-LC: baricitinib for Long COVID",
+    "summary": "A large NIH-funded trial of **baricitinib**, an anti-inflammatory drug (JAK inhibitor), mainly for Long COVID thinking and memory problems. Researchers note that EBV reactivation is linked to Long COVID fatigue.",
+    "intervention": "Baricitinib 4 mg daily for 24 weeks vs placebo",
+    "phase": "Phase 3, randomised, double-blind, placebo-controlled (target 550)",
+    "status": "recruiting",
+    "condition": "Long COVID",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "17 US sites including Vanderbilt, UCLA, UCSF, Yale, Emory and Brigham & Women's",
+    "eligibility": "Age 18+, confirmed COVID infection at least 6 months ago, with Long COVID symptoms (mainly thinking and memory problems) for 6+ months that affect daily life. In-person visits required.",
+    "sponsor": "Vanderbilt University Medical Center · NIH RECOVER-TLC",
+    "contact_name": "Study coordinating centre",
+    "contact_email": "vccrvlcstudy@vumc.org",
+    "contact_phone": "+1 615 343 8010",
+    "contact_url": "https://www.reversinglongcovid.org/",
+    "registry_id": "NCT06631287",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06631287",
+    "verified": true,
+    "notes": "Results expected 2027."
+  },
+  {
+    "id": "recover-tlc",
+    "name": "RECOVER-TLC: NIH Long COVID treatment trials",
+    "summary": "The US National Institutes of Health programme of Long COVID treatment trials. REVERSE-LC (above) is enrolling now. Three more are **expected to open later in 2026**: **Brave-LC** (low-dose naltrexone, ages 6–25), **Tame-LC** (semaglutide) and **Block-LC** (stellate ganglion block).",
+    "intervention": "Several drugs and procedures",
+    "phase": "Programme of randomised trials",
+    "status": "not-yet",
+    "condition": "Long COVID",
+    "typeList": [
+      "Drug trial",
+      "Procedure"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Multiple US sites",
+    "eligibility": "Depends on the trial. Full criteria for the three new trials haven't been published yet.",
+    "sponsor": "NIH / Foundation for the NIH",
+    "contact_name": "RECOVER research team",
+    "contact_email": "RECOVERresearch@duke.edu",
+    "contact_phone": "",
+    "contact_url": "https://recovercovid.org/studies/clinical-trials",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "id": "pioneer",
+    "name": "PIONEER: inebilizumab (B-cell depletion)",
+    "title": "CD19 B-cell depletion with inebilizumab in PAIS-ME/CFS (Charité Berlin)",
+    "summary": "Tests **inebilizumab**, which removes antibody-producing B cells, in people with ME/CFS who improved after immunoadsorption (blood filtering) and then relapsed. It tests the idea that autoantibodies drive the illness in some patients.",
+    "intervention": "Inebilizumab vs placebo",
+    "phase": "Phase 2b, randomised, double-blind, placebo-controlled (target 38)",
+    "status": "not-yet",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "locations": "Charité, Berlin",
+    "eligibility": "Age 18–65, post-infectious ME/CFS with raised β2-adrenergic receptor autoantibodies. **Only people who took part in Charité's earlier immunoadsorption studies** and improved, then worsened.",
+    "sponsor": "Charité – Universitätsmedizin Berlin",
+    "contact_name": "Dr Judith Bellmann-Strobl",
+    "contact_email": "judith.bellmann-strobl@charite.de",
+    "contact_phone": "+49 30 450 540 258",
+    "contact_url": "",
+    "registry_id": "NCT07724834",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07724834",
+    "verified": true,
+    "notes": "Expected to start December 2026."
+  },
+  {
+    "id": "pais-arise",
+    "name": "PAIS-AriSE: low-dose aripiprazole",
+    "summary": "The first placebo-controlled trial of **low-dose aripiprazole** (1 mg), after a Stanford clinic review suggested it helped fatigue, brain fog and sleep. For people with post-infectious syndromes, including post-COVID.",
+    "intervention": "Aripiprazole 1 mg vs placebo",
+    "phase": "Phase 2a, randomised, double-blind, placebo-controlled (target 138)",
+    "status": "not-yet",
+    "condition": "Post-infectious / Long COVID",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "locations": "Charité, Berlin",
+    "eligibility": "Adults with a post-infectious syndrome or post-COVID condition for 3+ months, with neuropsychiatric symptoms such as brain fog. Excludes Bell score below 30, current antipsychotic use, or serious psychiatric illness in the past 10 years.",
+    "sponsor": "Charité – Universitätsmedizin Berlin",
+    "contact_name": "PD Dr Christiana Franke; Dr Fabian Bösl",
+    "contact_email": "christiana.franke@charite.de",
+    "contact_phone": "+49 30 450 560 883",
+    "contact_url": "",
+    "registry_id": "NCT07714213",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07714213",
+    "verified": true,
+    "notes": "Expected to start October 2026. ME/CFS isn't a formal entry requirement."
+  },
+  {
+    "id": "impact-charite",
+    "name": "IMPACT: immunoadsorption in autoantibody-positive ME/CFS",
+    "summary": "Follows people with post-infectious ME/CFS who test positive for certain autoantibodies and receive **immunoadsorption** (5 days of blood filtering to remove antibodies) as part of their care. This is the patient-selection approach researchers now favour.",
+    "intervention": "Immunoadsorption as part of routine care",
+    "phase": "Observational (target 50)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "locations": "Charité, Berlin",
+    "eligibility": "Age 18–65, Canadian Consensus Criteria, PEM lasting 14+ hours, Bell score below 60, positive for certain autoantibodies, and immunoadsorption covered by German health insurance.",
+    "sponsor": "Charité – Universitätsmedizin Berlin",
+    "contact_name": "Dr Elisa Stein",
+    "contact_email": "elisa.stein@charite.de",
+    "contact_phone": "",
+    "contact_url": "",
+    "registry_id": "NCT07529197",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07529197",
+    "verified": true,
+    "notes": "Mainly relevant to people in Germany."
+  },
+  {
+    "id": "access-hannover",
+    "name": "ACCESS: home-based care for housebound ME/CFS",
+    "summary": "Tests **outreach care at home plus online visits** for people with severe ME/CFS who can't get to a clinic. It's one of very few studies designed for housebound and bedbound patients.",
+    "intervention": "Home-based outreach care vs usual care",
+    "phase": "Interventional (target 100)",
+    "status": "recruiting",
+    "condition": "ME/CFS (severe)",
+    "typeList": [
+      "Care model"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "locations": "Hannover Medical School",
+    "eligibility": "Age 18–69, Canadian Consensus Criteria, **severe** (Bell score 30 or below), PEM over 14 hours.",
+    "sponsor": "Hannover Medical School",
+    "contact_name": "Dr Meike Dirks",
+    "contact_email": "access-patienten@mh-hannover.de",
+    "contact_phone": "+49 511 532 3145",
+    "contact_url": "",
+    "registry_id": "NCT07352254",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07352254",
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "id": "mecfs-r",
+    "name": "MECFS-R: German ME/CFS registry",
+    "summary": "A multi-centre registry of ME/CFS at **all ages**, including children, recording symptoms, course and care.",
+    "intervention": "Registry",
+    "phase": "Observational registry (target 650)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Registry"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "locations": "MRI Chronic Fatigue Center for Young People, TU Munich",
+    "eligibility": "Any age with an ME/CFS diagnosis based on international criteria.",
+    "sponsor": "Technical University of Munich",
+    "contact_name": "Prof Uta Behrends",
+    "contact_email": "register.mcfc@mri.tum.de",
+    "contact_phone": "+49 89 3068 2632",
+    "contact_url": "",
+    "registry_id": "NCT05778006",
+    "registry_url": "https://clinicaltrials.gov/study/NCT05778006",
+    "verified": true,
+    "notes": "The registry record was last updated January 2025."
+  },
+  {
+    "id": "reenergizeme",
+    "name": "REenergizeME: intermittent hypoxia-hyperoxia (IHHT)",
+    "summary": "Tests **breathing alternating low- and high-oxygen air** through a mask, a treatment designed to stimulate the cell's energy factories. Includes blood and skin samples to study how it works.",
+    "intervention": "IHHT (HypoxBreath device) vs placebo device",
+    "phase": "Randomised, placebo-controlled (target 104)",
+    "status": "not-yet",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Device trial"
+    ],
+    "countries": [
+      "Denmark"
+    ],
+    "locations": "Aarhus University",
+    "eligibility": "**Women** aged 20–59 with mild or moderate ME/CFS (International Consensus Criteria) for 6+ months, with PEM. BMI 18–30. Severe ME/CFS excluded.",
+    "sponsor": "Aarhus University · Independent Research Fund Denmark",
+    "contact_name": "Rikke Olsen; Mastaneh Nochi",
+    "contact_email": "rikke.olsen@clin.au.dk",
+    "contact_phone": "+45 61 26 24 71",
+    "contact_url": "",
+    "registry_id": "NCT07317401",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07317401",
+    "verified": true,
+    "notes": "The planned June 2026 start has passed, so check the current status with the team."
+  },
+  {
+    "id": "pem-groningen",
+    "name": "PEM: a starting point to investigate ME/CFS",
+    "summary": "Studies what happens in the body during **post-exertional malaise**, comparing people with ME/CFS and healthy controls.",
+    "intervention": "Physiology of PEM. No treatment.",
+    "phase": "Observational (target 100)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "locations": "UMC Groningen",
+    "eligibility": "Age 18–65, International or Canadian Consensus Criteria, no immune-modulating drugs in the past 3 months.",
+    "sponsor": "University Medical Center Groningen",
+    "contact_name": "Dr Inge Zijdewind",
+    "contact_email": "c.a.t.zijdewind@umcg.nl",
+    "contact_phone": "06 2564 7190",
+    "contact_url": "",
+    "registry_id": "NCT07715838",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07715838",
+    "verified": true,
+    "notes": "Studies of PEM usually involve an exertion task. Ask the team what's involved before agreeing."
+  },
+  {
+    "id": "heritage",
+    "name": "HERITAGE: long-term follow-up of Long COVID and ME/CFS (UK)",
+    "summary": "Follows people with Long COVID and/or ME/CFS for 12 months to compare NHS specialist services, using questionnaires (app or paper). You **don't need to be a clinic patient** to join.",
+    "intervention": "Questionnaires on symptoms, quality of life and care",
+    "phase": "Observational cohort (target 3,060)",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "locations": "Leeds, Leicester, Hertfordshire, Cornwall, plus a national remote group",
+    "eligibility": "Adults 18+ with Long COVID or ME/CFS symptoms for more than 2 years. GP-diagnosed or self-reported is fine.",
+    "sponsor": "University of Leeds · NIHR",
+    "contact_name": "HERITAGE study team",
+    "contact_email": "heritage-studyteam@leeds.ac.uk",
+    "contact_phone": "",
+    "contact_url": "",
+    "registry_id": "ISRCTN15375673",
+    "registry_url": "https://www.isrctn.com/ISRCTN15375673",
+    "verified": true,
+    "notes": "Recruiting until December 2028."
+  },
+  {
+    "id": "sequence-me",
+    "name": "Sequence ME & Long Covid",
+    "summary": "The follow-on to DecodeME: reading the **full genomes** of up to 9,000 people with ME/CFS and 9,000 with Long COVID to find rare genetic variants.",
+    "intervention": "Whole-genome sequencing",
+    "phase": "Genetic study (not a clinical trial)",
+    "status": "invite",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Genetics"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "locations": "University of Edinburgh (lead)",
+    "eligibility": "ME/CFS: **existing DecodeME participants only**. Long COVID: UK residents, criteria still being set.",
+    "sponsor": "University of Edinburgh, EMBL-EBI, Action for ME · £4.75m UK government funding",
+    "contact_name": "Action for ME Information & Support",
+    "contact_email": "infosupport@actionforme.org.uk",
+    "contact_phone": "+44 117 927 9551",
+    "contact_url": "https://www.actionforme.org.uk/research-campaigns/our-research-work/sequenceme-long-covid/",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": "Action for ME will announce how to register interest for the Long COVID arm. People outside the UK are unlikely to be able to take part."
+  },
+  {
+    "id": "omf-studyme",
+    "name": "StudyME research registry (Open Medicine Foundation)",
+    "summary": "A free **worldwide registry** that matches people with ME/CFS, Long COVID and related illnesses (and healthy volunteers) to studies that are recruiting. More than 15,000 people in 85 countries have signed up.",
+    "intervention": "Study matching",
+    "phase": "Registry",
+    "status": "recruiting",
+    "condition": "ME/CFS + related illnesses",
+    "typeList": [
+      "Registry"
+    ],
+    "countries": [
+      "International"
+    ],
+    "locations": "Online, worldwide",
+    "eligibility": "Anyone with ME/CFS or a related illness, or healthy volunteers.",
+    "sponsor": "Open Medicine Foundation",
+    "contact_name": "Open Medicine Foundation",
+    "contact_email": "studyme@omf.ngo",
+    "contact_phone": "",
+    "contact_url": "https://www.omf.ngo/signup-studyme/",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": false,
+    "notes": "A good way for people outside the US and Europe to hear about new studies."
+  },
+  {
+    "id": "lift",
+    "name": "LIFT: pyridostigmine + low-dose naltrexone",
+    "title": "Life Improvement Trial",
+    "summary": "Tests **pyridostigmine** and **LDN**, alone and together, in people with ME/CFS who also have orthostatic intolerance. The idea is to treat both circulation and immune/inflammation drivers.",
+    "intervention": "Pyridostigmine and/or LDN vs placebo (four groups)",
+    "phase": "Phase 2, randomised, double-blind, placebo-controlled (target 160)",
+    "status": "unknown",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Brigham and Women's Hospital, Boston",
+    "eligibility": "Age 18–70, meets both IOM and Canadian criteria, with orthostatic intolerance; symptoms began before December 2023; no opioid use; needs a smartphone.",
+    "sponsor": "Brigham and Women's Hospital · Open Medicine Foundation",
+    "contact_name": "Research coordinator (PI Dr David Systrom)",
+    "contact_email": "jsquires1@bwh.harvard.edu",
+    "contact_phone": "+1 617 525 6797",
+    "contact_url": "",
+    "registry_id": "NCT06366724",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06366724",
+    "verified": true,
+    "notes": "The registry says recruiting but hasn't been updated since October 2025, and completion was expected around September 2026. Recruitment has probably closed."
+  },
+  {
+    "id": "nih-effort",
+    "name": "NIH brain imaging of pain and effort",
+    "summary": "A brain-scan study at the NIH Clinical Center looking at how the brain processes **effort and unpleasant sensations** in ME/CFS.",
+    "intervention": "fMRI during heat-pain and physical-effort tasks. No treatment.",
+    "phase": "Early phase, mechanistic (target 47)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "NIH Clinical Center, Bethesda, Maryland",
+    "eligibility": "Age 18–50 with ME/CFS, or healthy controls. Must be able to travel to Bethesda.",
+    "sponsor": "NIH / NINDS",
+    "contact_name": "Dr Nicholas Madian",
+    "contact_email": "nicholas.madian@nih.gov",
+    "contact_phone": "+1 301 480 9787",
+    "contact_url": "",
+    "registry_id": "NCT06472622",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06472622",
+    "verified": true,
+    "notes": "Includes effort tasks, so ask what's involved."
+  },
+  {
+    "id": "chiime",
+    "name": "CHIIME: chronic infections and inflammation in ME/CFS",
+    "summary": "Takes repeated samples over time to look for **infection and inflammation** drivers of ME/CFS, such as viral reactivation.",
+    "intervention": "Blood and other samples. No treatment.",
+    "phase": "Observational (target 200)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Zuckerberg San Francisco General Hospital",
+    "eligibility": "Adults 18+ reporting an ME/CFS diagnosis, or healthy controls. Excludes HIV, hepatitis B or C, and severe anaemia.",
+    "sponsor": "University of California, San Francisco",
+    "contact_name": "CHIIME program manager",
+    "contact_email": "chiime@ucsf.edu",
+    "contact_phone": "+1 415 502 2449",
+    "contact_url": "",
+    "registry_id": "NCT07227441",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07227441",
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "id": "ldn-dose-uab",
+    "name": "Low-dose naltrexone dose-finding (UAB)",
+    "summary": "Compares **four LDN doses** (1.5, 3, 4.5 and 6 mg) to find the best dose for ME/CFS. Run remotely by Dr Jarred Younger's lab.",
+    "intervention": "LDN at four doses",
+    "phase": "Phase 2 (target 75)",
+    "status": "not-yet",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "University of Alabama at Birmingham (remote)",
+    "eligibility": "Age 18–65, **Alabama residents only**, International Consensus Criteria. Excludes opioid use, autoimmune disease and pregnancy.",
+    "sponsor": "University of Alabama at Birmingham",
+    "contact_name": "Younger Lab",
+    "contact_email": "youngerlab@uab.edu",
+    "contact_phone": "+1 205 975 5821",
+    "contact_url": "",
+    "registry_id": "NCT07285473",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07285473",
+    "verified": true,
+    "notes": "Planned start October 2026."
+  },
+  {
+    "id": "mayo-voice",
+    "name": "Voice analysis to diagnose and track ME/CFS (Mayo Clinic)",
+    "summary": "Tests whether **smartphone voice recordings** can help diagnose and monitor ME/CFS. It's done entirely through an app, with no travel.",
+    "intervention": "Voice recordings over 12 weeks",
+    "phase": "Observational (target 40)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Mayo Clinic, Rochester (remote via app)",
+    "eligibility": "Adults with ME/CFS confirmed by an ME/CFS specialist; smartphone, tablet or laptop.",
+    "sponsor": "Mayo Clinic",
+    "contact_name": "Katie Cruz",
+    "contact_email": "Cruz.Katie@mayo.edu",
+    "contact_phone": "+1 507 284 5404",
+    "contact_url": "",
+    "registry_id": "NCT07551999",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07551999",
+    "verified": true,
+    "notes": "Remote, but check whether non-US participants are accepted."
+  },
+  {
+    "id": "fareon",
+    "name": "Fareon magnetic device for brain fog (Mount Sinai)",
+    "summary": "A pilot of a **head-worn microtesla magnetic device** used at home twice a week. An earlier randomised trial of the technology in Long COVID reported improved thinking and wellbeing.",
+    "intervention": "Fareon microtesla magnetic therapy device",
+    "phase": "Open-label pilot, single group (target 30). Not a randomised trial.",
+    "status": "not-yet",
+    "condition": "Long COVID / cognitive impairment",
+    "typeList": [
+      "Device trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Mount Sinai CoRE, New York",
+    "eligibility": "Age 16+, English-speaking, with at least mild thinking or memory problems linked to a confirmed diagnosis such as Long COVID. No cranial implants, pacemaker or seizure history.",
+    "sponsor": "Icahn School of Medicine at Mount Sinai",
+    "contact_name": "Mount Sinai CoRE research team",
+    "contact_email": "CoreResearch@mountsinai.org",
+    "contact_phone": "+1 212 241 7658",
+    "contact_url": "",
+    "registry_id": "NCT07600320",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07600320",
+    "verified": true,
+    "notes": "ME/CFS is mentioned but isn't a formal entry requirement."
+  },
+  {
+    "id": "lumbrokinase",
+    "name": "Lumbrokinase for Long COVID, post-Lyme and ME/CFS",
+    "summary": "A pilot trial of **lumbrokinase**, an enzyme supplement thought to break down micro-clots, in three separate groups, one of which is ME/CFS.",
+    "intervention": "Lumbrokinase",
+    "phase": "Phase 1/2 pilot (target 120)",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Supplement trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Mount Sinai CoRE, New York",
+    "eligibility": "Adults with only one of Long COVID, post-treatment Lyme disease or ME/CFS, rating their current health 70/100 or lower.",
+    "sponsor": "Icahn School of Medicine at Mount Sinai",
+    "contact_name": "Mount Sinai CoRE research team",
+    "contact_email": "CoreResearch@mountsinai.org",
+    "contact_phone": "+1 212 241 8454",
+    "contact_url": "",
+    "registry_id": "NCT06511050",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06511050",
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "id": "hydrogen-water",
+    "name": "Hydrogen water for ME/CFS (Stony Brook)",
+    "summary": "A 16-week placebo-controlled trial of **molecular hydrogen** tablets dissolved in water, an antioxidant approach. Partly remote.",
+    "intervention": "Hydrogen tablets in water vs placebo",
+    "phase": "Randomised, placebo-controlled (target 80)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Supplement trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Stony Brook University, New York (partly remote)",
+    "eligibility": "Age 18–65, meets ME/CFS criteria on a phone screen, has internet access. Excludes current or past depression.",
+    "sponsor": "Stony Brook University",
+    "contact_name": "Dr Fred Friedberg",
+    "contact_email": "Fred.Friedberg@stonybrookmedicine.edu",
+    "contact_phone": "+1 631 638 1931",
+    "contact_url": "",
+    "registry_id": "NCT07753122",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07753122",
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "id": "stanford-imaging",
+    "name": "Stanford ME/CFS imaging & biomarker studies",
+    "summary": "Brain MRI, **whole-body PET/MRI** scans looking for inflammation (moderate to severe ME/CFS), and blood biomarker studies, from the team behind the 2026 muscle PET findings.",
+    "intervention": "Imaging and blood tests. No treatment.",
+    "phase": "Observational",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Stanford, Palo Alto, California",
+    "eligibility": "Imaging: age 18–65, able to make two visits to Palo Alto (paid). Biomarker study: ME/CFS or Long COVID.",
+    "sponsor": "Stanford ME/CFS Initiative",
+    "contact_name": "Stanford ME/CFS research team",
+    "contact_email": "tlieb@stanford.edu",
+    "contact_phone": "",
+    "contact_url": "https://med.stanford.edu/chronicfatiguesyndrome/research.html",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": false,
+    "notes": "Stanford's page is undated. Confirm the study is still open before travelling."
+  },
+  {
+    "id": "bhc-biobank",
+    "name": "Bateman Horne Center biobank",
+    "summary": "Collects saliva, blood and urine samples linked to clinical information, for ME/CFS, POTS and Long COVID research.",
+    "intervention": "Samples at three visits, 3 months apart",
+    "phase": "Biobank",
+    "status": "recruiting",
+    "condition": "ME/CFS + POTS + Long COVID",
+    "typeList": [
+      "Registry"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Bateman Horne Center, Salt Lake City, Utah",
+    "eligibility": "People who have, or think they may have, ME/CFS. Three in-person visits needed.",
+    "sponsor": "Bateman Horne Center with ChronicleBio",
+    "contact_name": "BHC research coordinators",
+    "contact_email": "research@batemanhornecenter.org",
+    "contact_phone": "+1 801 532 8311",
+    "contact_url": "https://batemanhornecenter.org/research/",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "id": "simmaron-rapamycin",
+    "name": "Low-dose rapamycin study (Simmaron Research)",
+    "summary": "Tracks symptoms and cell clean-up (autophagy) markers in patients whose own doctor prescribes **weekly low-dose rapamycin**. Early results: 74% of 70 patients improved (no placebo group). A placebo-controlled follow-up is planned for mid-2027.",
+    "intervention": "Low-dose rapamycin (sirolimus), prescribed clinically",
+    "phase": "Observational (target 150). Not randomised.",
+    "status": "invite",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Palo Alto CA, Mayo Clinic MN, Incline Village NV, Bateman Horne Center UT, Seattle WA",
+    "eligibility": "Must already be a patient of a participating clinician and be approved for rapamycin.",
+    "sponsor": "Simmaron Research",
+    "contact_name": "Simmaron Research",
+    "contact_email": "trials@simmaron.com",
+    "contact_phone": "",
+    "contact_url": "https://www.simmaronresearch.com/rapamycin-trial",
+    "registry_id": "NCT06257420",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06257420",
+    "verified": true,
+    "notes": "Enrolment is by invitation through participating clinicians. Email trials@simmaron.com to ask about adding your clinician."
+  },
+  {
+    "id": "jhu-bbb",
+    "name": "Blood-brain barrier study (Johns Hopkins)",
+    "summary": "Uses brain imaging, cognitive tests and blood immune markers to test whether a **leaky blood-brain barrier** drives cognitive problems. It compares ME/CFS that began before COVID with ME/CFS that began after.",
+    "intervention": "Imaging and blood tests. No treatment.",
+    "phase": "Observational (target 200)",
+    "status": "invite",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Johns Hopkins Hospital, Baltimore",
+    "eligibility": "Age 18–70, IOM 2015 criteria. Illness began before July 2019, or after a COVID infection.",
+    "sponsor": "Johns Hopkins University · NINDS",
+    "contact_name": "",
+    "contact_email": "",
+    "contact_phone": "",
+    "contact_url": "",
+    "registry_id": "NCT07256795",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07256795",
+    "verified": true,
+    "notes": "Invitation only, with no public contact."
+  },
+  {
+    "id": "miles",
+    "name": "MILES: online mind-body programme (Alberta)",
+    "summary": "A randomised trial of the **Dynamic Neural Retraining System (DNRS)**, an online \"brain retraining\" programme, in Long COVID and ME/CFS.",
+    "intervention": "DNRS online programme",
+    "phase": "Randomised (target 200)",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Behavioural programme"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "locations": "Edmonton and Calgary (online programme)",
+    "eligibility": "Adults with ME/CFS (IOM 2015) for 6+ months; internet access; English speaker.",
+    "sponsor": "University of Alberta",
+    "contact_name": "MILES trial team",
+    "contact_email": "rctmiles@ualberta.ca",
+    "contact_phone": "+1 780 680 8907",
+    "contact_url": "",
+    "registry_id": "NCT06933173",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06933173",
+    "verified": true,
+    "notes": "Brain-retraining programmes are **controversial** in the ME/CFS community. Listed for completeness; see [What to avoid](/treatment/avoid/#how-to-spot-hype)."
+  },
+  {
+    "id": "star-co",
+    "name": "STAR-CO: stellate ganglion block for Long COVID",
+    "summary": "A single nerve-block injection in the neck vs a placebo injection, for Long COVID symptoms. **People with a prior ME or fibromyalgia diagnosis are excluded.**",
+    "intervention": "Right stellate ganglion block vs saline injection",
+    "phase": "Randomised, single-blind (target 40)",
+    "status": "recruiting",
+    "condition": "Long COVID",
+    "typeList": [
+      "Procedure"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "locations": "Trois-Rivières, Québec",
+    "eligibility": "Adults with Long COVID for 12+ weeks with breathlessness; must understand French. **Excludes diagnosed ME/CFS.**",
+    "sponsor": "CIUSSS de la Mauricie-et-du-Centre-du-Québec",
+    "contact_name": "Marie-Claude Lehoux",
+    "contact_email": "marie-claude.lehoux@ssss.gouv.qc.ca",
+    "contact_phone": "+1 819 697 3333 ext. 60753",
+    "contact_url": "",
+    "registry_id": "NCT07374562",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07374562",
+    "verified": true,
+    "notes": "Not suitable for people with ME/CFS. Listed because stellate ganglion block is a treatment many people ask about."
+  },
+  {
+    "id": "hbot-israel",
+    "name": "Hyperbaric oxygen for ME/CFS (Israel)",
+    "summary": "A sham-controlled trial of **60 hyperbaric oxygen sessions** over 3 months. It follows Charité's observation that benefit appeared only with more sessions.",
+    "intervention": "HBOT vs sham",
+    "phase": "Randomised, sham-controlled (target 74)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Procedure"
+    ],
+    "countries": [
+      "Israel"
+    ],
+    "locations": "Sagol Center for Hyperbaric Medicine, Shamir Medical Center",
+    "eligibility": "Adults with mild to moderate ME/CFS diagnosed 1+ years ago. Severe excluded. Many clinic visits needed.",
+    "sponsor": "Shamir Medical Center",
+    "contact_name": "Dr Eli Kravchik",
+    "contact_email": "elikr@shamir.gov.il",
+    "contact_phone": "+972 8 977 9241",
+    "contact_url": "",
+    "registry_id": "NCT07621068",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07621068",
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "id": "rituximab-japan",
+    "name": "Rituximab in ME/CFS (Japan)",
+    "summary": "An exploratory placebo-controlled crossover trial of **rituximab**, a B-cell-depleting drug. A large Norwegian trial of rituximab was negative, but interest remains in autoimmune subgroups.",
+    "intervention": "Rituximab vs placebo",
+    "phase": "Phase 2, crossover (target 30)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "locations": "National Center of Neurology and Psychiatry, Tokyo",
+    "eligibility": "Age 18–65, Canadian criteria, performance status 4 or more, able to be admitted to hospital.",
+    "sponsor": "National Center of Neurology and Psychiatry",
+    "contact_name": "Clinical research office",
+    "contact_email": "tmc-crso@ncnp.go.jp",
+    "contact_phone": "+81 42 341 2711",
+    "contact_url": "",
+    "registry_id": "NCT06952413",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06952413",
+    "verified": true,
+    "notes": "The registry was last updated April 2025."
+  },
+  {
+    "id": "lingzhi-hk",
+    "name": "Lingzhi (reishi) for ME/CFS or post-COVID fatigue",
+    "summary": "A randomised trial of a **lingzhi mushroom capsule** compared with a waitlist.",
+    "intervention": "Lingzhi capsule vs waitlist",
+    "phase": "Phase 2/3 (target 130)",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Supplement trial"
+    ],
+    "countries": [
+      "Hong Kong"
+    ],
+    "locations": "School of Chinese Medicine, University of Hong Kong",
+    "eligibility": "Age 40–60 with CFS (broad Fukuda criteria) or post-COVID fatigue; no herbal medicine in the past 6 months.",
+    "sponsor": "University of Hong Kong",
+    "contact_name": "Tung Leong Fong",
+    "contact_email": "tlfong@hku.hk",
+    "contact_phone": "+852 5660 4020",
+    "contact_url": "",
+    "registry_id": "NCT06739720",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06739720",
+    "verified": true,
+    "notes": "Uses a broad definition of CFS that doesn't require PEM."
+  },
+  {
+    "id": "resetme",
+    "name": "RESETME: daratumumab (plasma-cell therapy)",
+    "summary": "Tests **daratumumab**, which removes antibody-producing plasma cells, in moderate to severe ME/CFS. In the pilot, 6 of 10 people responded, some dramatically, and 5 stayed well 2–3 years later.",
+    "intervention": "Daratumumab injections (5 doses) vs placebo",
+    "phase": "Phase 2, randomised, double-blind, placebo-controlled (66 people)",
+    "status": "active",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "locations": "Haukeland University Hospital, Bergen; Oslo University Hospital",
+    "eligibility": "Age 18–64, Canadian criteria, moderate to severe, ill for 2+ years after an infection or immune trigger.",
+    "sponsor": "Helse Bergen (Fluge & Mella)",
+    "contact_name": "",
+    "contact_email": "",
+    "contact_phone": "",
+    "contact_url": "https://www.helse-bergen.no/kliniske-studier/plasmacelle-rettet-behandling-med-daratumumab-ved-mecfs/",
+    "registry_id": "EU CT 2024-520094-13-00",
+    "registry_url": "https://euclinicaltrials.eu/ctis-public/view/2024-520094-13-00",
+    "verified": true,
+    "notes": "**Closed to new applicants.** The hospital has long waiting lists and asks people not to send health information by email. Listed so you can follow the results."
+  },
+  {
+    "id": "stimpact",
+    "name": "STIMPACT: at-home ear vagus nerve stimulation",
+    "summary": "A fully remote crossover trial comparing two types of **vagus nerve stimulation** through the ear, each used for 4 weeks at home.",
+    "intervention": "Transcutaneous auricular vagus nerve stimulation (device)",
+    "phase": "Randomised crossover (target 48)",
+    "status": "active",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Device trial"
+    ],
+    "countries": [
+      "Luxembourg"
+    ],
+    "locations": "University of Luxembourg (remote)",
+    "eligibility": "Age 18–65 with post-COVID syndrome and/or ME/CFS (Canadian criteria); German or English speaker.",
+    "sponsor": "University of Luxembourg",
+    "contact_name": "",
+    "contact_email": "",
+    "contact_phone": "",
+    "contact_url": "",
+    "registry_id": "NCT06968104",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06968104",
+    "verified": true,
+    "notes": "**Recruitment has closed.** Listed so you can follow the results."
+  }
+]

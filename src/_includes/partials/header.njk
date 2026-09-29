@@ -1,0 +1,82 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/" aria-label="{{ site.name }} home">
+      <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true">
+        <circle cx="20" cy="20" r="19" fill="var(--brand-soft)"/>
+        <path d="M11 25c3-7 6-10 9-10s6 3 9 10" fill="none" stroke="var(--brand)" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="20" cy="12" r="3.2" fill="var(--accent)"/>
+      </svg>
+      <span class="brand-text">chronicfatigue<span class="brand-tld">.support</span></span>
+    </a>
+
+    <nav class="main-nav" aria-label="Main">
+      <ul>
+        {% for sec in nav %}
+        <li class="nav-item{% if page.url.startsWith(sec.url) %} is-current{% endif %}">
+          <a href="{{ sec.url }}">{{ sec.title }}</a>
+          <div class="nav-drop">
+            <ul>
+              {% for it in sec.items %}<li><a href="{{ it.url }}"{% if page.url == it.url %} aria-current="page"{% endif %}>{{ it.title }}</a></li>{% endfor %}
+            </ul>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="header-tools">
+      <a class="icon-btn" href="/search/" aria-label="Search the site">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <span class="icon-btn-label">Search</span>
+      </a>
+      <button class="icon-btn" type="button" data-open="comfort" aria-haspopup="dialog" aria-label="Reading comfort settings">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 18 9 6l5 12M5.8 14h6.4"/><path d="M15 18l3-7 3 7M15.8 16h4.4"/></svg>
+        <span class="icon-btn-label">Comfort</span>
+      </button>
+      <button class="icon-btn menu-btn" type="button" data-open="menu" aria-haspopup="dialog" aria-label="Open menu">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        <span class="icon-btn-label">Menu</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<dialog class="sheet" id="menu" aria-label="Site menu">
+  <div class="sheet-head">
+    <p class="sheet-title">Menu</p>
+    <button class="icon-btn" type="button" data-close aria-label="Close menu"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <a class="btn btn-block" href="/search/">Search the site</a>
+  {% for sec in nav %}
+  <section class="menu-sec">
+    <p class="menu-sec-title"><a href="{{ sec.url }}">{{ sec.title }}</a></p>
+    <ul>{% for it in sec.items %}<li><a href="{{ it.url }}"{% if page.url == it.url %} aria-current="page"{% endif %}>{{ it.title }}</a></li>{% endfor %}</ul>
+  </section>
+  {% endfor %}
+</dialog>
+
+<dialog class="sheet sheet-small" id="comfort" aria-label="Reading comfort">
+  <div class="sheet-head">
+    <p class="sheet-title">Reading comfort</p>
+    <button class="icon-btn" type="button" data-close aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <p class="muted small">Adjust the site to suit your eyes and energy today. Your choices are saved on this device.</p>
+  <fieldset class="seg">
+    <legend>Text size</legend>
+    <button type="button" data-set="size" data-value="">Standard</button>
+    <button type="button" data-set="size" data-value="lg">Large</button>
+    <button type="button" data-set="size" data-value="xl">Extra large</button>
+  </fieldset>
+  <fieldset class="seg">
+    <legend>Colours</legend>
+    <button type="button" data-set="theme" data-value="">Match device</button>
+    <button type="button" data-set="theme" data-value="light">Light</button>
+    <button type="button" data-set="theme" data-value="dark">Dim</button>
+  </fieldset>
+  <fieldset class="seg">
+    <legend>Calm mode</legend>
+    <button type="button" data-set="calm" data-value="">Off</button>
+    <button type="button" data-set="calm" data-value="1">On</button>
+    <p class="muted small seg-help">Lower contrast, no animation, softer colours. Helpful with light sensitivity or headaches.</p>
+  </fieldset>
+</dialog>

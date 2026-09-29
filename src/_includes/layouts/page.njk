@@ -1,0 +1,64 @@
+{% extends "layouts/base.njk" %}
+
+{% block main %}
+{%- set sec = null -%}
+{%- set idx = -1 -%}
+{%- for s in nav -%}
+  {%- for it in s.items -%}
+    {%- if it.url == page.url -%}{%- set sec = s -%}{%- set idx = loop.index0 -%}{%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- set headings = content | toc -%}
+
+<div class="page-hero{% if hero %} page-hero-{{ hero }}{% endif %}">
+  <div class="wrap">
+    {% if sec %}
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span aria-hidden="true">/</span>
+      <a href="{{ sec.url }}">{{ sec.title }}</a>
+    </nav>
+    {% endif %}
+    <h1>{{ title }}</h1>
+    {% if description %}<p class="lead">{{ description }}</p>{% endif %}
+    <p class="page-meta">
+      {% if not hideReadTime %}<span>{{ content | readingTime }} read</span>{% endif %}
+      <span>By {{ site.author }}</span>
+      <span>Last reviewed {{ (reviewed or site.lastReviewed) | readableDate }}</span>
+    </p>
+  </div>
+</div>
+
+<div class="wrap page-grid{% if headings.length < 3 %} no-toc{% endif %}">
+  <article class="prose" data-pagefind-body>
+    {% if brief %}
+    <aside class="callout callout-brief" aria-label="In brief">
+      <p class="callout-title">In brief</p>
+      <ul>{% for b in brief %}<li>{{ b | md | safe }}</li>{% endfor %}</ul>
+    </aside>
+    {% endif %}
+    {{ content | safe }}
+  </article>
+
+  {% if headings.length >= 3 %}
+  <aside class="toc" aria-label="On this page">
+    <details class="toc-box" open>
+      <summary>On this page</summary>
+      <ol>{% for h in headings %}<li><a href="#{{ h.id }}">{{ h.text }}</a></li>{% endfor %}</ol>
+    </details>
+  </aside>
+  {% endif %}
+</div>
+
+{% if sec %}
+<div class="wrap">
+  <nav class="pager" aria-label="More in {{ sec.title }}">
+    {% if idx > 0 %}{% set p = sec.items[idx - 1] %}
+    <a class="pager-link pager-prev" href="{{ p.url }}"><span class="pager-dir">Previous</span><span>{{ p.title }}</span></a>
+    {% else %}<span></span>{% endif %}
+    {% if idx < sec.items.length - 1 %}{% set n = sec.items[idx + 1] %}
+    <a class="pager-link pager-next" href="{{ n.url }}"><span class="pager-dir">Next</span><span>{{ n.title }}</span></a>
+    {% endif %}
+  </nav>
+</div>
+{% endif %}
+{% endblock %}

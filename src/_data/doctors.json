@@ -1,0 +1,21 @@
+[
+  { "name": "Karen Oswald", "practice": "The Cottage Surgery", "suburb": "Manly Vale", "state": "NSW", "ldn": true, "note": "The practice website lists an interest in LDN." },
+  { "name": "Dr Mark Goss", "practice": "Dr M Cosmetic & Wellness Clinics", "suburb": "Hamilton", "state": "QLD", "ldn": true, "note": "Prescribes LDN" },
+  { "name": "Dr Pete Smith", "practice": "Queensland Allergy Services", "suburb": "Southport", "state": "QLD", "sees": true, "note": "Sees ME/CFS and Long COVID patients" },
+  { "name": "Dr Kevin Lee", "practice": "Banyo Clinic", "suburb": "Banyo", "state": "QLD" },
+  { "name": "Dr Ian Mitchell", "practice": "Runaway Bay Medical", "suburb": "Runaway Bay", "state": "QLD" },
+  { "name": "Dr Gary Deed", "practice": "Healthcare Plus Medical Centre", "suburb": "Carindale", "state": "QLD", "sees": true, "note": "Sees ME/CFS and Long COVID patients" },
+  { "name": "Dr David Shaw", "practice": "Tweed City Family Practice", "suburb": "Tweed Heads", "state": "NSW" },
+  { "name": "Dr Nimrod Smit", "practice": "Vitality Medical Centre", "suburb": "Bundall", "state": "QLD" },
+  { "name": "Dr Aung Thura", "practice": "Southport Park Shopping Centre", "suburb": "Southport", "state": "QLD" },
+  { "name": "Dr Elizabeth McGregor", "practice": "Goonellabah Medical Centre", "suburb": "Goonellabah", "state": "NSW" },
+  { "name": "Dr William Pham", "practice": "Morphett Vale Family Practice", "suburb": "Morphett Vale", "state": "SA" },
+  { "name": "Dr Peter Hopkins", "practice": "Marketown Health", "suburb": "Newcastle", "state": "NSW" },
+  { "name": "Dr Rama Spencer", "practice": "Limestone Medical Centre", "suburb": "Ipswich", "state": "QLD" },
+  { "name": "Dr Kieren Brown", "practice": "Greenslopes Private Hospital", "suburb": "Greenslopes", "state": "QLD" },
+  { "name": "Dr Elena Douse", "practice": "My HealthCity Medical Centre", "suburb": "Hope Island", "state": "QLD" },
+  { "name": "Dr Marek Ciarkowski", "practice": "Robina Specialist Suites, 5/18 Campus Crescent", "suburb": "Robina", "state": "QLD" },
+  { "name": "Dr Sarah Morrison-Gardiner", "practice": "", "suburb": "Palm Beach", "state": "QLD", "ldn": true, "note": "LDN prescriber" },
+  { "name": "Dr Boni Lelina", "practice": "Mermaid Beach Medical Centre", "suburb": "Mermaid Beach", "state": "QLD", "ldn": true, "note": "LDN prescriber" },
+  { "name": "Dr Graham Exelby", "practice": "Mermaid Central Medical Clinic", "suburb": "Mermaid Beach", "state": "QLD", "ldn": true, "sees": true, "note": "LDN prescriber. Noted by NCNED as very helpful for ME/CFS patients." }
+]

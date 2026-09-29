@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Understand",
+    "url": "/understanding/",
+    "blurb": "What ME/CFS is, what causes it and what it does to the body",
+    "items": [
+      { "title": "What is ME/CFS?", "url": "/understanding/" },
+      { "title": "Symptoms", "url": "/understanding/symptoms/" },
+      { "title": "Causes & triggers", "url": "/understanding/causes/" },
+      { "title": "After COVID vs glandular fever", "url": "/understanding/triggers-compared/" },
+      { "title": "ME, CFS, POTS & related conditions", "url": "/understanding/related-conditions/" },
+      { "title": "How it affects people", "url": "/understanding/impact/" },
+      { "title": "The science", "url": "/understanding/science/" }
+    ]
+  },
+  {
+    "title": "Living with it",
+    "url": "/living/",
+    "blurb": "Pacing, standing up, sleep, tracking and help for families",
+    "items": [
+      { "title": "Pacing", "url": "/living/pacing/" },
+      { "title": "Dizziness on standing & POTS", "url": "/living/orthostatic-intolerance/" },
+      { "title": "Sleep", "url": "/living/sleep/" },
+      { "title": "Wearables & tracking", "url": "/living/wearables/" },
+      { "title": "For family & carers", "url": "/living/family/" }
+    ]
+  },
+  {
+    "title": "Treatment",
+    "url": "/treatment/",
+    "blurb": "Tests to ask for, supplements, medications and what to avoid",
+    "items": [
+      { "title": "Tests to ask your GP for", "url": "/treatment/testing/" },
+      { "title": "Supplements", "url": "/treatment/supplements/" },
+      { "title": "Medications", "url": "/treatment/medications/" },
+      { "title": "What to avoid", "url": "/treatment/avoid/" }
+    ]
+  },
+  {
+    "title": "Research",
+    "url": "/research/",
+    "blurb": "Trials you can join, conferences and the latest results",
+    "items": [
+      { "title": "Clinical trials & studies", "url": "/research/trials/" },
+      { "title": "Conferences & events", "url": "/research/conferences/" },
+      { "title": "2026 results", "url": "/research/results/" },
+      { "title": "Who's working on it", "url": "/research/who/" }
+    ]
+  },
+  {
+    "title": "Support",
+    "url": "/support/",
+    "blurb": "Where to get care, words explained and our sources",
+    "items": [
+      { "title": "Getting care in Australia", "url": "/support/australia/" },
+      { "title": "Find a doctor", "url": "/support/find-a-doctor/" },
+      { "title": "Glossary", "url": "/support/glossary/" },
+      { "title": "Sources & updates", "url": "/support/sources/" },
+      { "title": "About this site", "url": "/support/about/" }
+    ]
+  }
+]

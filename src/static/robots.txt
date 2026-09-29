@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chronicfatigue.support/sitemap.xml

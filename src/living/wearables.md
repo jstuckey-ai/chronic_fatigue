@@ -1,0 +1,67 @@
+---
+title: Wearables & tracking
+description: Which heart rate and HRV trackers help with pacing, what to look for, and a simple daily log you can start today.
+reviewed: 2026-09-29
+brief:
+  - The most useful pacing feature is a **real-time alert when your heart rate goes over a set limit**.
+  - A **drop in morning HRV** can warn of a crash 1–2 days ahead.
+  - '**Avoid apps that push you to do more** on "green" days. That''s boom-bust in app form.'
+  - You don't need a device to start. **A 30-second nightly log** works.
+---
+
+## What to track
+
+The signals that matter most in ME/CFS are ones that can **warn of a crash a day or two before it hits**, or flag an infection early:
+
+- **Overnight heart rate variability (HRV).** A drop often comes before PEM.
+- **Resting heart rate.** A rise can signal over-exertion or illness.
+- **Respiratory rate and skin temperature.** Useful for spotting infections early.
+- **Sleep**
+- **Real-time heart rate during activity.** This is the key pacing tool.
+
+## A simple daily log
+
+You don't need a device. Each night, record:
+
+1. **Energy** today (0–10)
+2. **Brain fog** today (0–10)
+3. **Crash?** (yes/no)
+4. **What I did.** A few words.
+5. **Sleep quality**
+6. **Changes.** Any new supplement, medication or dose, with the date.
+
+After **4–8 weeks**, compare weekly averages. You'll start to see which activities cost the most and whether any treatment is helping. It's also powerful evidence to show a doctor.
+
+{% callout "tip", "For the technically minded" %}
+With 4–6 weeks of wearable data plus your symptom log, even a simple model can flag "you're over your envelope today" *before* a crash. Garmin and Whoop both offer data access for building your own analysis.
+{% endcallout %}
+
+## Devices compared
+
+Prices are in Australian dollars as at September 2026 and change often.
+
+| Device | Price (AUD) | Good for ME/CFS | Watch out for |
+|---|---|---|---|
+| **Visible app + Polar armband** | Paid tier includes armband | **Built for ME/CFS and Long COVID pacing.** Real-time heart rate alerts, a daily "PacePoints" energy budget, HRV, symptom and medication tracking, monthly reports for doctors, optional research participation. | Armband form factor |
+| **Garmin Cirqa** (screenless band, launched July 2026) | ~$300, no subscription | "Body Battery" and stress tracking are widely used for pacing in the ME/CFS community. Up to ~10 days of battery. Accurate heart rate in reviews. | The Garmin Connect app is dense, which is hard on brain-fog days. New product. |
+| **Whoop 5.0** | Membership only; renewals ~$299–$629/year after year one | Mature HRV and recovery tracking; comfortable to wear 24/7 | **No ME/CFS mode.** Its "Strain/Recovery" model assumes an athlete, so a "green" day prompts you to push harder. No PEM concept or real-time stop alert. |
+| **Google Fitbit Air** | ~$199; Premium $14.99/month or $99.99/year | Cheapest option. Light, ~1 week of battery, good sleep tracking, SpO₂, HRV, breathing rate, skin temperature | Limited without Premium. The AI coach sets activity goals that may not suit pacing. |
+
+### Before you buy, check it has
+
+- **Real-time high heart rate alerts during activity.** The single most useful feature.
+- **Overnight SpO₂ (blood oxygen).** Not diagnostic, but trends can support a request for a [sleep study](/living/sleep/).
+- **A simple app** you can use on a foggy day
+
+{% callout "warn", "Ignore the fitness coaching" %}
+Most wearables are designed for athletes. Scores like "strain", step goals and "you're recovered, push harder" can lead straight into the [boom-bust cycle](/living/pacing/#boom-bust-and-the-good-day-trap). Use the raw data, not the coaching.
+{% endcallout %}
+
+## Signs a treatment might be working
+
+When something helps in ME/CFS, it usually shows up in your data **a week or two before you notice it**:
+
+- Resting heart rate trending down a few beats
+- Morning HRV trending up
+- Fewer over-limit days at the same activity level
+- Fewer and shorter crashes

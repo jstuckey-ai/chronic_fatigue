@@ -1,0 +1,84 @@
+---
+title: Find a doctor
+description: GPs in Australia with experience in ME/CFS, Long COVID and low-dose naltrexone (LDN), from a list shared by Griffith University's NCNED, plus how to find others.
+hideReadTime: true
+brief:
+  - These GPs were recommended by **Griffith University's NCNED** research team, mostly in **south-east Queensland and northern NSW**.
+  - Some are marked as **LDN prescribers** or as **seeing ME/CFS and Long COVID patients**.
+  - This is **not an endorsement**. Please call the practice first to check the doctor is still there and taking new patients.
+  - Many other doctors across Australia can help. **Emerge Australia** keeps a wider list.
+---
+{%- set states = doctors | flatMap("state") | unique -%}
+
+<div data-filterable>
+  <div class="filters" role="search" aria-label="Filter doctors" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
+    <div>
+      <label for="d-text">Search by name or suburb</label>
+      <input id="d-text" type="search" data-filter="text" placeholder="e.g. Southport, Graham">
+    </div>
+    <div>
+      <label for="d-state">State</label>
+      <select id="d-state" data-filter="state">
+        <option value="">All states</option>
+        {% for s in states %}<option>{{ s }}</option>{% endfor %}
+      </select>
+    </div>
+    <div>
+      <label for="d-tag">Show</label>
+      <select id="d-tag" data-filter="tag">
+        <option value="">All doctors</option>
+        <option value="ldn">LDN prescribers</option>
+        <option value="sees">Sees ME/CFS & Long COVID</option>
+      </select>
+    </div>
+  </div>
+  <p class="filter-count" data-count data-noun="doctors" aria-live="polite"></p>
+
+  <div class="card-grid" style="margin-top:0">
+    {% for d in doctors %}
+    <article class="item-card" data-item data-state="{{ d.state }}" data-tag="{% if d.ldn %}ldn{% endif %}|{% if d.sees %}sees{% endif %}">
+      <div class="item-top">
+        <span class="chip chip-au">{{ d.state }}</span>
+        {% if d.ldn %}<span class="chip chip-recruiting">LDN</span>{% endif %}
+        {% if d.sees %}<span class="chip chip-soon">ME/CFS & Long COVID</span>{% endif %}
+      </div>
+      <h3 style="font-size:1.15rem">{{ d.name }}</h3>
+      <p style="margin:0">{% if d.practice %}{{ d.practice }}<br>{% endif %}<span class="muted">{{ d.suburb }}, {{ d.state }}</span></p>
+      {% if d.note %}<p class="item-note">{{ d.note }}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  <div class="callout callout-note" data-empty hidden><p>No doctors match those filters. <button class="btn btn-sm btn-soft" type="button" data-reset>Clear filters</button></p></div>
+</div>
+
+{% markdown %}
+{% callout "warn", "Please read" %}
+This list was shared by Griffith University's National Centre for Neuroimmunology and Emerging Diseases (NCNED) in September 2026. **It isn't an endorsement** by this site or by Griffith University, and it may go out of date. Doctors move practices and books close, so **call ahead** before booking. Search the practice name for current phone numbers and opening hours.
+{% endcallout %}
+
+## Tips for your first appointment
+
+- **Book a long appointment.** ME/CFS can't be covered in 10 minutes.
+- **Bring a one-page summary:** when you got sick, what triggered it, your main symptoms, what makes them worse, tests you've had and medications you take.
+- **Bring evidence:** a few weeks of [symptom tracking](/living/wearables/#a-simple-daily-log) and your [lean test numbers](/living/orthostatic-intolerance/#the-home-lean-test-nasa-10-minute-lean-test).
+- **Use our [GP script](/treatment/testing/#a-script-for-your-gp-appointment)** for tests and referrals to ask about.
+- **Asking about LDN?** See [what the evidence says](/treatment/medications/#low-dose-naltrexone-ldn) first. It's cheap and generally safe, but not a sure thing.
+- **Telehealth** can save a lot of energy for follow-up appointments. Ask whether the doctor offers it.
+
+## Finding a doctor elsewhere in Australia
+
+Many doctors across Australia can help with ME/CFS. Good places to look:
+
+- **Emerge Australia:** keeps a list of ME/CFS-experienced GPs and specialists. Call [1800 865 321](tel:1800865321) (press 1) or visit [emerge.org.au](https://emerge.org.au).
+- **ME/CFS Australia** and state-based ME/CFS groups often know local doctors.
+- **Compounding pharmacies** that make LDN can often tell you which local doctors prescribe it.
+- **Support groups:** other patients are often the best source of local recommendations.
+
+## Join the NCNED research registry
+
+If you'd like to hear about **Griffith University's studies**, including their next LDN trial (which hasn't started yet), you can fill in NCNED's online research registry questionnaire:
+
+<p><a class="btn" href="https://redcap.link/NCNEDresearchregistry" rel="noopener">NCNED research registry questionnaire</a></p>
+
+See all [trials in Australia](/research/trials/?country=Australia).
+{% endmarkdown %}

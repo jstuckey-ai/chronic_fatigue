@@ -1,0 +1,29 @@
+{% extends "layouts/base.njk" %}
+
+{% block main %}
+{%- set sec = null -%}
+{%- for s in nav -%}{%- if s.url == page.url -%}{%- set sec = s -%}{%- endif -%}{%- endfor -%}
+<div class="page-hero">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a></nav>
+    <h1>{{ title }}</h1>
+    {% if description %}<p class="lead">{{ description }}</p>{% endif %}
+  </div>
+</div>
+<div class="wrap page-grid no-toc">
+  <div class="prose" data-pagefind-body>{{ content | safe }}</div>
+</div>
+<div class="wrap">
+  <div class="section-cards" style="margin-bottom:3rem">
+    {% for it in sec.items %}
+      {%- set target = null -%}
+      {%- for p in collections.all -%}{%- if p.url == it.url -%}{%- set target = p -%}{%- endif -%}{%- endfor -%}
+      <div class="sec-card">
+        <h3><a href="{{ it.url }}">{{ it.title }}</a></h3>
+        {% if target and target.data.description %}<p>{{ target.data.description }}</p>{% endif %}
+        <a class="btn btn-soft btn-sm" href="{{ it.url }}">Read →</a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

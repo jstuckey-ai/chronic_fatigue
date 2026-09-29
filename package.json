@@ -1,0 +1,24 @@
+{
+  "name": "chronicfatigue-support",
+  "version": "1.0.0",
+  "private": true,
+  "description": "chronicfatigue.support: plain-language ME/CFS information, current research, clinical trials and conferences.",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy && pagefind --site _site",
+    "start": "eleventy --serve",
+    "preview": "npm run build && npx @11ty/eleventy-dev-server --dir=_site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstuckey-ai/chronic_fatigue.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "markdown-it": "^15.0.2",
+    "pagefind": "^1.5.2"
+  }
+}
