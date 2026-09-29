@@ -22,6 +22,8 @@ npm run preview    # full build including the search index, served at http://loc
 | Home page | `src/index.njk` |
 | **Clinical trials list** | `src/_data/trials.json` |
 | **Conferences & events** | `src/_data/conferences.json` |
+| Emerge Australia directory listings (snapshot) | `src/_data/emerge.json` |
+| GPs recommended by Griffith NCNED | `src/_data/doctors.json` |
 | Glossary terms | `src/_data/glossary.json` |
 | Navigation menu | `src/_data/nav.json` |
 | Site name, "last reviewed" date, contact email | `src/_data/site.json` |

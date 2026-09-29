@@ -55,7 +55,7 @@
       items.forEach((el) => {
         const ok = Object.entries(q).every(([k, v]) => {
           if (!v) return true;
-          if (k === "text") return el.textContent.toLowerCase().includes(v);
+          if (k.endsWith("text")) return el.textContent.toLowerCase().includes(v);
           return (el.dataset[k] || "").toLowerCase().split("|").includes(v);
         });
         el.hidden = !ok;

@@ -1,17 +1,67 @@
 ---
 title: Find a doctor
-description: GPs in Australia with experience in ME/CFS, Long COVID and low-dose naltrexone (LDN), from a list shared by Griffith University's NCNED, plus how to find others.
+description: Doctors and clinics in Australia for ME/CFS and Long COVID, from Emerge Australia's national directory and a list of GPs shared by Griffith University's NCNED.
 hideReadTime: true
 brief:
-  - These GPs were recommended by **Griffith University's NCNED** research team, mostly in **south-east Queensland and northern NSW**.
-  - Some are marked as **LDN prescribers** or as **seeing ME/CFS and Long COVID patients**.
-  - This is **not an endorsement**. Please call the practice first to check the doctor is still there and taking new patients.
-  - Many other doctors across Australia can help. **Emerge Australia** keeps a wider list.
+  - '**Emerge Australia''s directory** lists 339 practices and services across every state. Each links to its Emerge listing.'
+  - '**Griffith University''s NCNED** shared a further list of GPs, mostly in **south-east Queensland and northern NSW**, including **LDN prescribers**.'
+  - The two lists **don't overlap**. None of the NCNED doctors appear in Emerge's directory.
+  - Neither list is an endorsement. **Call the practice first** to check the doctor is available and taking new patients.
 ---
 {%- set states = doctors | flatMap("state") | unique -%}
+{%- set eStates = emerge | flatMap("states") | unique -%}
+{%- set eTypes = emerge | flatMap("type") | unique -%}
+
+<p><a class="btn btn-soft btn-sm" href="#emerge-australia-directory">Emerge directory ({{ emerge.length }})</a> <a class="btn btn-soft btn-sm" href="#gps-recommended-by-griffith-university-ncned">NCNED list ({{ doctors.length }})</a></p>
+
+<h2 id="emerge-australia-directory">Emerge Australia directory</h2>
+<p>Emerge Australia, the national ME/CFS organisation, keeps a directory of GPs, medical clinics, allied health professionals and support services that have told Emerge they see people with ME/CFS or Long COVID. Emerge notes that it doesn't endorse or certify the clinicians listed. Select a listing to see the full details on Emerge's site.</p>
 
 <div data-filterable>
-  <div class="filters" role="search" aria-label="Filter doctors" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
+  <div class="filters" role="search" aria-label="Filter the Emerge directory" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
+    <div>
+      <label for="e-text">Search by name, suburb or postcode</label>
+      <input id="e-text" type="search" data-filter="etext" placeholder="e.g. Geelong, 4217, psychologist">
+    </div>
+    <div>
+      <label for="e-state">State or territory</label>
+      <select id="e-state" data-filter="estate">
+        <option value="">All</option>
+        {% for s in eStates %}<option>{{ s }}</option>{% endfor %}
+      </select>
+    </div>
+    <div>
+      <label for="e-type">Type</label>
+      <select id="e-type" data-filter="etype">
+        <option value="">All types</option>
+        {% for t in eTypes %}<option>{{ t }}</option>{% endfor %}
+      </select>
+    </div>
+  </div>
+  <p class="filter-count" data-count data-noun="listings" aria-live="polite"></p>
+
+  <div class="card-grid" style="margin-top:0">
+    {% for e in emerge %}
+    <article class="item-card" data-item data-estate="{{ e.states | join('|') }}" data-etype="{{ e.type | join('|') }}" style="padding:1rem 1.1rem">
+      <div class="item-top">
+        {% if e.national %}<span class="chip chip-au">Australia-wide</span>{% else %}{% for s in e.states %}<span class="chip chip-au">{{ s }}</span>{% endfor %}{% endif %}
+        {% for t in e.type %}<span class="chip">{{ t }}</span>{% endfor %}
+      </div>
+      <h3 style="font-size:1.08rem;margin:.1rem 0 .3rem"><a href="{{ e.url }}" rel="noopener">{{ e.name }}</a></h3>
+      {% if e.address %}<p class="small muted" style="margin:0 0 .3rem">{{ e.address }}</p>{% endif %}
+      {% if e.description %}<p class="small" style="margin:0 0 .3rem">{{ e.description }}</p>{% endif %}
+      <p class="small" style="margin:0">{% if e.phone %}<a href="tel:{{ e.phone | replace(' ', '') | replace('(', '') | replace(')', '') }}">{{ e.phone }}</a> · {% endif %}<a href="{{ e.url }}" rel="noopener">View on Emerge ↗</a></p>
+    </article>
+    {% endfor %}
+  </div>
+  <div class="callout callout-note" data-empty hidden><p>No listings match those filters. <button class="btn btn-sm btn-soft" type="button" data-reset>Clear filters</button></p></div>
+  <p class="muted small">Directory data from <a href="https://directory.emerge.org.au/" rel="noopener">directory.emerge.org.au</a>, collected {{ site.lastReviewed | readableDate }}. For the most current listings, search Emerge's directory directly.</p>
+</div>
+
+<h2 id="gps-recommended-by-griffith-university-ncned">GPs recommended by Griffith University (NCNED)</h2>
+<p>Griffith University's National Centre for Neuroimmunology and Emerging Diseases shared this list of GPs in September 2026. It's mostly Gold Coast, Brisbane and northern NSW. Several prescribe low-dose naltrexone (LDN).</p>
+<div data-filterable>
+  <div class="filters" role="search" aria-label="Filter NCNED doctors" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
     <div>
       <label for="d-text">Search by name or suburb</label>
       <input id="d-text" type="search" data-filter="text" placeholder="e.g. Southport, Graham">
@@ -53,7 +103,7 @@ brief:
 
 {% markdown %}
 {% callout "warn", "Please read" %}
-This list was shared by Griffith University's National Centre for Neuroimmunology and Emerging Diseases (NCNED) in September 2026. **It isn't an endorsement** by this site or by Griffith University, and it may go out of date. Doctors move practices and books close, so **call ahead** before booking. Search the practice name for current phone numbers and opening hours.
+The NCNED list was shared by Griffith University's National Centre for Neuroimmunology and Emerging Diseases in September 2026. **Neither list is an endorsement** by this site, Griffith University or Emerge Australia, and it may go out of date. Doctors move practices and books close, so **call ahead** before booking. Search the practice name for current phone numbers and opening hours.
 {% endcallout %}
 
 ## Tips for your first appointment
@@ -69,7 +119,7 @@ This list was shared by Griffith University's National Centre for Neuroimmunolog
 
 Many doctors across Australia can help with ME/CFS. Good places to look:
 
-- **Emerge Australia:** keeps a list of ME/CFS-experienced GPs and specialists. Call [1800 865 321](tel:1800865321) (press 1) or visit [emerge.org.au](https://emerge.org.au).
+- **Emerge Australia:** their [online directory](https://directory.emerge.org.au/) is listed above, and their nurses can also help. Call [1800 865 321](tel:1800865321) (press 1) or visit [emerge.org.au](https://emerge.org.au).
 - **ME/CFS Australia** and state-based ME/CFS groups often know local doctors.
 - **Compounding pharmacies** that make LDN can often tell you which local doctors prescribe it.
 - **Support groups:** other patients are often the best source of local recommendations.
