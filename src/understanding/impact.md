@@ -13,16 +13,16 @@ brief:
 
 | | Estimate |
 |---|---|
-| **Worldwide** | Around 17–24 million people had ME/CFS before COVID-19. Long COVID has added substantially to that. |
-| **United States** | 836,000 to 2.5 million people (Institute of Medicine, 2015), with newer estimates higher since COVID |
-| **Australia** | Estimated at up to 250,000 people before COVID-19 |
-| **Undiagnosed** | The Institute of Medicine estimated 84–91% of people with ME/CFS had not been diagnosed |
+| **Worldwide** | A 2020 meta-analysis of 46 studies put prevalence at roughly 0.4–0.7% of people, which means **tens of millions** worldwide; advocacy groups cite 17–24 million before COVID-19. Long COVID has added substantially to that.{% ref "lim-2020-cpet", "solve-about" %} |
+| **United States** | 836,000 to 2.5 million people (Institute of Medicine, 2015); the CDC now says up to 3.3 million{% ref "iom-2015", "cdc-mecfs" %} |
+| **Australia** | The NHMRC estimates 0.2–1% of the population, or **48,000 to 250,000 people**{% ref "nhmrc-mecfs" %} |
+| **Undiagnosed** | The Institute of Medicine estimated 84–91% of people with ME/CFS had not been diagnosed; in one US study only 16% of people meeting criteria had a diagnosis{% ref "iom-2015", "solomon-2004" %} |
 
-These numbers are estimates. ME/CFS is under-diagnosed, and counting it depends on which diagnostic criteria are used.
+These numbers are estimates. ME/CFS is under-diagnosed, and counting it depends on which diagnostic criteria are used. Around **one in four** people with ME/CFS are housebound or bedbound at some point.{% ref "iom-2015", "pendergrast-2016" %} The economic cost to Australia has been estimated at between $1.4 billion and $14.5 billion a year.{% ref "zhao-2023", "close-2020" %}
 
 ## Quality of life
 
-Studies that measure quality of life have found people with ME/CFS score **lower than people with many other serious chronic illnesses**, including multiple sclerosis, rheumatoid arthritis, heart failure, kidney disease and some cancers. The biggest hits are to physical function, energy and the ability to carry out usual roles.
+Studies that measure quality of life have found people with ME/CFS score **lower than people with many other serious chronic illnesses**. A Danish study of 20 conditions found ME/CFS had the lowest quality-of-life score of all, below multiple sclerosis and stroke; a UK study found physical function scores lower than in cancer, diabetes, heart disease and rheumatoid arthritis.{% ref "falk-hvidberg-2015", "nacul-2011", "kingdon-2018" %} The biggest hits are to physical function, energy and the ability to carry out usual roles.
 
 ## Everyday impact
 
@@ -62,7 +62,7 @@ For decades, many people with ME/CFS were told their illness was psychological, 
 - **Isolation:** not being believed by doctors, employers or family
 - **Mental health strain:** the grief and isolation of a serious illness that others dismiss
 
-Things are changing. Major health bodies, including the US CDC, the UK's NICE (2021) and Australia's NHMRC, have moved away from exercise-based treatment. New Australian clinical guidelines are being developed.
+Things are changing. The US CDC dropped graded exercise and CBT from its recommendations in 2017, and the UK's NICE guideline (2021) says not to offer exercise as a cure.{% ref "stat-cdc-2017", "nice-ng206" %} Australia's NHMRC is developing the country's first ME/CFS clinical guideline, funded with $1.1 million, with a draft expected in 2027.{% ref "butler-2024", "nhmrc-guideline-dev" %}
 
 ## Severe ME/CFS
 
@@ -73,7 +73,7 @@ People with severe and very severe ME/CFS are often invisible because they can't
 - need help with eating, washing and toileting
 - have trouble swallowing or need tube feeding
 
-Care for people with severe ME/CFS has to be adapted: shorter visits, reduced sensory load, and home-based care where possible.
+Care for people with severe ME/CFS has to be adapted: shorter visits, reduced sensory load, and home-based care where possible. See [Severe & very severe ME/CFS](/living/severe/).
 
 ## Impact on carers and families
 

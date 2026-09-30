@@ -5,7 +5,7 @@ description: Which heart rate and HRV trackers help with pacing, what to look fo
 reviewed: 2026-09-29
 brief:
   - The most useful pacing feature is a **real-time alert when your heart rate goes over a set limit**.
-  - A **drop in morning HRV** can warn of a crash 1–2 days ahead.
+  - A **drop in morning HRV** predicts a worse day. Many patients say it warns them a day or two ahead.
   - '**Avoid apps that push you to do more** on "green" days. That''s boom-bust in app form.'
   - You don't need a device to start. **A 30-second nightly log** works.
 ---
@@ -14,7 +14,7 @@ brief:
 
 The signals that matter most in ME/CFS are ones that can **warn of a crash a day or two before it hits**, or flag an infection early:
 
-- **Overnight heart rate variability (HRV).** A drop often comes before PEM.
+- **Overnight heart rate variability (HRV).** In a study of 4,244 people with Long COVID, ME/CFS and related illnesses using the Visible app, a higher morning heart rate and lower HRV predicted worse fatigue, brain fog and crashes later that day.{% ref "aitken-2026" %} Another study found HRV among the best predictors of next-day fatigue,{% ref "aboagye-2025" %} and in Long COVID, HRV stays depressed for about 24 hours after exertion.{% ref "ruijgt-2026" %} Many patients report the warning comes a day or two ahead; the published evidence so far shows same-day and next-day prediction.
 - **Resting heart rate.** A rise can signal over-exertion or illness.
 - **Respiratory rate and skin temperature.** Useful for spotting infections early.
 - **Sleep**
@@ -39,14 +39,14 @@ With 4–6 weeks of wearable data plus your symptom log, even a simple model can
 
 ## Devices compared
 
-Prices are in Australian dollars as at September 2026 and change often.
+Prices are as at September 2026 and change often; check the maker's site.
 
 | Device | Price (AUD) | Good for ME/CFS | Watch out for |
 |---|---|---|---|
-| **Visible app + Polar armband** | Paid tier includes armband | **Built for ME/CFS and Long COVID pacing.** Real-time heart rate alerts, a daily "PacePoints" energy budget, HRV, symptom and medication tracking, monthly reports for doctors, optional research participation. | Armband form factor |
-| **Garmin Cirqa** (screenless band, launched July 2026) | ~$300, no subscription | "Body Battery" and stress tracking are widely used for pacing in the ME/CFS community. Up to ~10 days of battery. Accurate heart rate in reviews. | The Garmin Connect app is dense, which is hard on brain-fog days. New product. |
-| **Whoop 5.0** | Membership only; renewals ~$299–$629/year after year one | Mature HRV and recovery tracking; comfortable to wear 24/7 | **No ME/CFS mode.** Its "Strain/Recovery" model assumes an athlete, so a "green" day prompts you to push harder. No PEM concept or real-time stop alert. |
-| **Google Fitbit Air** | ~$199; Premium $14.99/month or $99.99/year | Cheapest option. Light, ~1 week of battery, good sleep tracking, SpO₂, HRV, breathing rate, skin temperature | Limited without Premium. The AI coach sets activity goals that may not suit pacing. |
+| **Visible app + armband**{% ref "visible", "mea-visible-2024" %} | Paid tier includes a Polar-made armband | **Built for ME/CFS and Long COVID pacing.** Real-time heart rate alerts, a daily "PacePoints" energy budget, HRV, symptom and medication tracking, monthly reports for doctors, optional research participation (its data has produced peer-reviewed studies). In a survey of 1,301 users, 77% reported improvement, though with no comparison group.{% ref "sawyer-2025" %} | Armband form factor |
+| **Garmin Cirqa** (screenless band, launched July 2026){% ref "garmin-cirqa" %} | US$199.99 RRP, no subscription | "Body Battery" and stress tracking are widely used for pacing in the ME/CFS community. Up to ~10 days of battery. Wristband or armband. | The Garmin Connect app is dense, which is hard on brain-fog days. New product. |
+| **Whoop 5.0** | Membership only (annual plans; check current pricing) | Mature HRV and recovery tracking; comfortable to wear 24/7 | **No ME/CFS mode.** Its "Strain/Recovery" model assumes an athlete, so a "green" day prompts you to push harder. No PEM concept or real-time stop alert. |
+| **Google Fitbit Air**{% ref "fitbit-air" %} | A$199, includes 3 months of Google Health Premium | Cheapest option. Screenless, light, ~1 week of battery, sleep tracking, HRV, breathing rate, skin temperature | Limited without the paid Premium tier. The AI coach sets activity goals that may not suit pacing. |
 
 ### Before you buy, check it has
 

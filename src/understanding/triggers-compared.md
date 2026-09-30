@@ -22,7 +22,7 @@ But there are some real differences, and they may matter for which treatments wo
 |---|---|---|
 | **The virus** | **Epstein-Barr virus**, a herpes virus. It infects immune cells (B cells) and **stays in the body for life**, usually dormant. | **SARS-CoV-2**, a coronavirus. It usually clears, but fragments of the virus have been found in some people's tissues months later. |
 | **Who it typically affects** | Most often **teenagers and young adults**, the peak age for glandular fever | **All ages**, most commonly adults aged 30–60. Women are more affected. |
-| **How often it leads to ME/CFS** | In a study of US college students, about **13%** met CFS criteria 6 months after glandular fever, **7%** at 12 months and **4%** at 2 years {% ev "observational" %} | At a Berlin clinic, about **45%** of people still unwell with moderate to severe fatigue after COVID met ME/CFS criteria {% ev "observational" %} |
+| **How often it leads to ME/CFS** | In a study of 301 US adolescents, about **13%** met CFS criteria 6 months after glandular fever, **7%** at 12 months and **4%** at 2 years {% ev "observational" %}{% ref "katz-2009" %} | Across all infected adults in the large US RECOVER study, **4.5%** met ME/CFS criteria (versus 0.6% of uninfected people).{% ref "vernon-2025" %} Among people referred to a Berlin clinic with post-COVID fatigue, about **45%** met ME/CFS criteria {% ev "observational" %}{% ref "kedor-2022" %} |
 | **Onset** | Often a clear start: a severe glandular fever illness that never fully resolves | Can follow a mild infection. Some people develop symptoms after a second or third infection. |
 | **Extra symptoms more common** | Recurrent sore throats, tender glands, flu-like flares | Breathlessness, chest pain, palpitations, loss of smell or taste, and **clotting problems** in some |
 | **Organ damage** | Uncommon | Possible in some people: lungs, heart, blood vessels. **These need to be checked for separately.** |
@@ -34,8 +34,8 @@ But there are some real differences, and they may matter for which treatments wo
 EBV turns up in both stories:
 
 - EBV **remains dormant** in the body after glandular fever. Under stress, such as another infection, it can **reactivate**.
-- Several studies have found signs of **EBV reactivation in people with Long COVID**, and it's been linked to Long COVID fatigue. {% ev "observational" %}
-- EBV is known to trigger autoimmunity. It's the main risk factor for **multiple sclerosis**, which strengthens the case that it can set off long-term immune problems.
+- Several studies have found signs of **EBV reactivation in people with Long COVID**: one found it in 67% of Long COVID patients versus 10% of controls, and larger studies found EBV markers predicted who developed Long COVID. {% ev "observational" %}{% ref "gold-2021", "su-2022", "klein-2023" %}
+- EBV is known to trigger autoimmunity. In a study of 10 million people, the risk of **multiple sclerosis** rose 32-fold after EBV infection, which strengthens the case that it can set off long-term immune problems.{% ref "bjornevik-2022" %}
 - That's why the [tests page](/treatment/testing/) recommends full **EBV serology** (VCA IgM and IgG, EBNA, early antigen), especially if your illness began after glandular fever.
 
 ## Does the trigger change treatment?
@@ -43,8 +43,8 @@ EBV turns up in both stories:
 Possibly, and researchers are paying attention:
 
 - **Low-dose naltrexone:** the 2026 Canadian placebo-controlled trial included **only post-COVID** patients and didn't reach its goal. Griffith University's lab work used **classic ME/CFS** patients. The results may not transfer between groups. See [LDN](/treatment/medications/#low-dose-naltrexone-ldn).
-- **Low-dose rapamycin:** people whose illness began **after an infection** responded better than those with non-viral onset. {% ev "open" %}
-- **Johns Hopkins** is directly comparing ME/CFS that began **before the pandemic with ME/CFS that began after COVID**. See [trials](/research/trials/#jhu-bbb).
+- **Low-dose rapamycin:** in the researchers' preliminary analysis, people whose illness began **after an infection** responded better than those with non-viral onset. {% ev "open" %}{% ref "simmaron-rapamycin" %}
+- **Johns Hopkins** is directly comparing ME/CFS that began **before the pandemic with ME/CFS that began after COVID**.{% ref "jhu-bbb-nct" %} See [trials](/research/trials/#jhu-bbb).
 - **Many trials only accept one group.** Some Long COVID trials exclude anyone previously diagnosed with ME/CFS, while some ME/CFS trials exclude people whose illness started after COVID. Check eligibility carefully.
 
 ## Why do some people get ME/CFS after an infection and others don't?
@@ -53,21 +53,21 @@ Most people recover fully from glandular fever or COVID. Why do some go on to de
 
 ### 1. What makes someone more vulnerable (predisposing)
 
-- **Genes.** DecodeME found eight genetic regions linked to ME/CFS, mostly in the immune and nervous systems. See [Causes](/understanding/causes/#genetics-the-decodeme-study).
-- **Sex.** Women are affected around three times as often as men.
+- **Genes.** DecodeME found eight genetic regions linked to ME/CFS, mostly in the immune and nervous systems.{% ref "decodeme-2025" %} See [Causes](/understanding/causes/#genetics-the-decodeme-study).
+- **Sex.** Women are affected around two to four times as often as men.{% ref "bakken-2014" %}
 - **Age.** Onset peaks in adolescence and again in the 30s–40s.
 - **Family history** of ME/CFS or related conditions
 - **Other conditions** such as hypermobility (hEDS), allergies or autoimmune disease may play a part. {% ev "hypothesis" %}
 
 ### 2. What sets it off (precipitating)
 
-- **The infection itself**, and especially **how severe it was**. The Australian Dubbo study followed people after glandular fever, Q fever and Ross River virus. About **1 in 10** developed a lasting post-infective fatigue syndrome, whatever the germ. **The severity of the initial illness predicted who did**, not their personality or mental health beforehand. {% ev "observational" %}
+- **The infection itself**, and especially **how severe it was**. The Australian Dubbo study followed 253 people after glandular fever, Q fever and Ross River virus. About **11%** met criteria for chronic fatigue syndrome at 6 months, whatever the germ. **The severity of the initial illness predicted who did**, not their personality or mental health beforehand. {% ev "observational" %}{% ref "hickie-2006" %}
 - **Repeated infections**, such as COVID reinfection
 - Occasionally surgery, physical trauma or other major stress on the body
 
 ### 3. What keeps it going (perpetuating)
 
-- **Pushing through too early.** Many patients describe returning to work, study or exercise too soon after the infection, before a major decline. Patient surveys consistently report this, though it's hard to study rigorously. {% ev "observational" %}
+- **Pushing through too early.** Many patients describe returning to work, study or exercise too soon after the infection, before a major decline. Patient surveys consistently report exertion as the main relapse trigger, though this is hard to study rigorously. {% ev "observational" %}{% ref "davis-2021" %}
 - **Repeated crashes** from the boom-bust cycle
 - **Poor sleep, untreated orthostatic intolerance** or other untreated conditions
 - **New infections**

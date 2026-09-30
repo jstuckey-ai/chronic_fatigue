@@ -53,14 +53,14 @@ They don't interfere with each other. **They don't add energy. They raise the po
 ### CoQ10 (ubiquinol) {% ev "rct" %}
 
 - **What it does:** carries electrons in the mitochondria and protects them from damage
-- **Evidence:** Spanish trials (Castro-Marrero, 2015–2021) of **CoQ10 200 mg + NADH 20 mg** found modest but significant reductions in fatigue and better sleep over 8–12 weeks. People with ME/CFS tend to have lower CoQ10. *Note:* CoQ10 didn't help in a Long COVID trial.
+- **Evidence:** Spanish trials (Castro-Marrero, 2015 and 2021, 73 and 207 people) of **CoQ10 200 mg + NADH 20 mg** found modest but significant reductions in fatigue over 8–12 weeks, with better sleep in the treated group.{% ref "castro-marrero-2015", "castro-marrero-2021" %} People with ME/CFS tend to have lower CoQ10.{% ref "maes-2009" %} *Note:* high-dose CoQ10 alone (500 mg) didn't help in a Long COVID trial of 121 people.{% ref "hansen-2023" %}
 - **Typical dose:** 200 mg ubiquinol with a meal that contains fat (e.g. dinner)
 - **Cautions:** generally well tolerated. It may interact with blood thinners like warfarin.
 
 ### NADH {% ev "rct" %}
 
 - **What it does:** delivers the electrons CoQ10 carries. Low NAD⁺ is a suspected bottleneck in ME/CFS.
-- **Evidence:** a 1999 crossover trial (10 mg/day) found modest improvement in about a third of patients. The best evidence is the combination with CoQ10 above. The effect is "noticeably less bad", not recovery.
+- **Evidence:** a 1999 crossover trial (10 mg/day, 26 people) found 31% responded on NADH versus 8% on placebo.{% ref "forsyth-1999" %} The best evidence is the combination with CoQ10 above. The effect is "noticeably less bad", not recovery.
 - **Typical dose:** 20 mg on waking, on an empty stomach. Enteric-coated or sublingual forms absorb better, and stabilised forms last longer.
 - **Cautions:** mildly stimulating, so it can cause insomnia if taken late.
 
@@ -74,21 +74,21 @@ They don't interfere with each other. **They don't add energy. They raise the po
 ### Creatine monohydrate {% ev "adjacent" %}
 
 - **What it does:** stores quick energy (phosphocreatine), buffering sudden demands like standing, stairs or a hard conversation without tipping into the backup engine
-- **Evidence:** a small 6-month trial (12 people) of 4 g/day in **post-COVID fatigue** reduced fatigue and brain fog, with measurable rises in brain and muscle creatine on scans. A creatine precursor improved muscle strength in ME/CFS.
+- **Evidence:** a small 6-month trial (12 people) of 4 g/day in **post-COVID fatigue** reduced fatigue, with measurable rises in brain and muscle creatine on scans.{% ref "slankamenac-2023" %} A creatine precursor improved muscle creatine and strength in women with ME/CFS, but not fatigue.{% ref "ostojic-2016" %} In fibromyalgia, creatine improved strength but not pain.{% ref "alves-2013" %}
 - **Typical dose:** 3–5 g daily with food. Skip the "loading phase" (it causes stomach upset and has no long-term advantage).
 - **Cautions:** expect a 0.5–1 kg water-weight gain in the first fortnight. It **raises serum creatinine slightly**, so tell your GP. Check your kidney function is normal first. **Check flavoured products for caffeine and stimulants.** Plain monohydrate is safest.
 
 ### Acetyl-L-carnitine (ALC) {% ev "open" %}
 
 - **What it does:** shuttles fuel into mitochondria. The acetyl form also reaches the brain and is used for brain fog.
-- **Evidence:** small, mostly open-label trials reported modest fatigue improvement. A 2024 review called the evidence low quality but consistently positive.
+- **Evidence:** small, mostly open-label trials from the 1990s and 2000s reported modest fatigue improvement.{% ref "plioplys-1997", "vermeulen-2004" %} Some studies have found lower carnitine-related compounds in ME/CFS blood.{% ref "reuter-2011" %} A 2025 systematic review of supplements in ME/CFS rated the carnitine evidence as small and at high risk of bias.{% ref "dorczok-2025" %}
 - **Typical dose:** 1–2 g daily in the morning for 8–12 weeks. One 500 mg capsule a day is under-dosed.
 - **Cautions:** stomach upset, a fishy body odour. **Take care with an underactive thyroid** (it can blunt thyroid hormone), warfarin or a seizure history. Ideally test carnitine levels first.
 
 ### Oxaloacetate {% ev "rct" %}
 
-- **Evidence:** the one supplement with a randomised trial in ME/CFS. 82 people took 2,000 mg/day for 3 months. It was well tolerated and reduced fatigue.
-- **Cautions:** the trial was industry-funded, and it's expensive (roughly US$300+ a month).
+- **Evidence:** the one supplement with a randomised trial in ME/CFS. 82 people took 2,000 mg/day for 3 months. It was well tolerated and reduced fatigue more than the control.{% ref "cash-2024" %}
+- **Cautions:** the trial was industry-funded and led by an officer of the manufacturer, and it's expensive (roughly US$300+ a month).
 
 ## Quick comparison
 
@@ -114,7 +114,7 @@ Injectable L-carnitine is popular in athletic circles, but **there are no ME/CFS
 
 ## Iron, electrolytes and B12
 
-- **Iron:** only if your stores are low. **Alternate-day dosing absorbs better** than daily. Take it with vitamin C, away from tea and coffee, and at least 2 hours apart from electrolyte powders. Recheck levels after 3 months.
+- **Iron:** only if your stores are low. **Alternate-day dosing absorbs better** than daily, because a daily dose raises a hormone that blocks the next one.{% ref "stoffel-2017", "stoffel-2020" %} Take it with vitamin C, away from tea and coffee, and at least 2 hours apart from electrolyte powders. Recheck levels after 3 months.
 - **Electrolytes and salt:** only clearly useful if [orthostatic intolerance](/living/orthostatic-intolerance/) is confirmed.
 - **B12:** if active B12 and homocysteine are normal, extra B12 is unlikely to help.
 

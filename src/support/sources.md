@@ -29,23 +29,9 @@ Every trial on our [trials page](/research/trials/) links to its official regist
 
 ### Studies referenced
 
-- DecodeME genome-wide association study, 2025
-- Edinburgh blood biomarker study, 2025 (*EMBO Molecular Medicine*)
-- Neuroimaging meta-analysis, 2023 (65 studies)
-- White matter neuroinflammation study, March 2026 (*Human Brain Mapping*)
-- Griffith University glymphatic study, July 2026
-- Brigham & Women's Hospital autonomic study, January 2026
-- Komaroff review, September 2026
-- Stanford whole-body PET study (Michelle James), presented May 2026
-- Cabanas et al. 2021 (*Frontiers in Immunology*); Eaton-Fitch et al. 2022 (*Journal of Translational Medicine*); Sasso et al. 2024 (*Frontiers in Immunology*); Sasso et al. 2025 (*Frontiers in Molecular Biosciences*): TRPM3 and naltrexone
-- Canadian LDN trial for post-COVID fatigue (Nacul, UBC), [NCT05430152](https://clinicaltrials.gov/study/NCT05430152), presented May 2026
-- ADDRESS-LC bezisterim trial, [NCT06847191](https://clinicaltrials.gov/study/NCT06847191), topline results 15 September 2026
-- Simmaron low-dose rapamycin study, [NCT06257420](https://clinicaltrials.gov/study/NCT06257420)
-- Castro-Marrero et al., CoQ10 + NADH in ME/CFS, 2015–2021
-- Forsyth et al., NADH in CFS, 1999 (*Annals of Allergy, Asthma & Immunology*)
-- Ostojic et al., creatine in post-COVID fatigue, 2023
-- US Institute of Medicine, *Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness*, 2015
-- NICE guideline NG206: *Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management*, 2021
+Every research claim on this site now carries a numbered citation linking to the study, registry entry or official page it comes from. You'll find the full list at the bottom of each page under **References**, with the evidence type labelled. The site cites more than 350 sources in total.
+
+The most important include: the US Institute of Medicine report *Beyond ME/CFS: Redefining an Illness* (2015); the UK NICE guideline NG206 (2021); the DecodeME genetic study (2025 preprint); the Griffith University TRPM3 and glymphatic studies; the Canadian LDN trial (NCT05430152); the ADDRESS-LC bezisterim trial (NCT06847191); the Simmaron rapamycin study; the Charité care-model study (2026); the Castro-Marrero CoQ10 + NADH trials; the RESTORE ME oxaloacetate trial; and the Royal Children's Hospital Melbourne long-term follow-up of young people.
 
 ## Spotted something out of date?
 

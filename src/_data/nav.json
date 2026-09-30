@@ -10,6 +10,10 @@
       { "title": "Causes & triggers", "url": "/understanding/causes/" },
       { "title": "After COVID vs glandular fever", "url": "/understanding/triggers-compared/" },
       { "title": "ME, CFS, POTS & related conditions", "url": "/understanding/related-conditions/" },
+      { "title": "Long COVID in Australia", "url": "/understanding/long-covid-australia/" },
+      { "title": "Children & teenagers", "url": "/understanding/children/" },
+      { "title": "Long COVID in Australia", "url": "/understanding/long-covid-australia/" },
+      { "title": "Children & teenagers", "url": "/understanding/children/" },
       { "title": "How it affects people", "url": "/understanding/impact/" },
       { "title": "The science", "url": "/understanding/science/" }
     ]
@@ -23,6 +27,7 @@
       { "title": "Dizziness on standing & POTS", "url": "/living/orthostatic-intolerance/" },
       { "title": "Sleep", "url": "/living/sleep/" },
       { "title": "Wearables & tracking", "url": "/living/wearables/" },
+      { "title": "Severe & very severe ME/CFS", "url": "/living/severe/" },
       { "title": "For family & carers", "url": "/living/family/" }
     ]
   },
@@ -55,6 +60,8 @@
     "items": [
       { "title": "Getting care in Australia", "url": "/support/australia/" },
       { "title": "Find a doctor", "url": "/support/find-a-doctor/" },
+      { "title": "Centrelink & the DSP", "url": "/support/centrelink/" },
+      { "title": "ME/CFS and the NDIS", "url": "/support/ndis/" },
       { "title": "Glossary", "url": "/support/glossary/" },
       { "title": "Sources & updates", "url": "/support/sources/" },
       { "title": "About this site", "url": "/support/about/" }

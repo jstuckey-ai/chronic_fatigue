@@ -12,12 +12,12 @@ brief:
 ## Treatments and programmes
 
 {% callout "stop", "Graded exercise therapy (GET)" %}
-GET, which means steadily increasing exercise regardless of symptoms, was standard advice for decades. It's now **recognised as harmful for ME/CFS** by the UK's NICE guideline (2021), the US CDC and others. Watch for GET under other names: "graded activity", "reconditioning", or "building tolerance" programmes that push on despite symptoms.
+GET, which means steadily increasing exercise regardless of symptoms, was standard advice for decades. The UK's NICE guideline (2021) now says not to offer any exercise programme as a cure, including graded exercise therapy, and the US CDC dropped GET from its advice in 2017.{% ref "nice-ng206", "stat-cdc-2017" %} A reanalysis of the largest GET trial (PACE) found recovery rates of just 4% with GET, no better than usual care,{% ref "wilshire-2018" %} and in surveys of more than 16,000 patients, between half and four-fifths reported getting worse after GET.{% ref "geraghty-2019", "oxford-brookes-2019" %} Watch for GET under other names: "graded activity", "reconditioning", or "building tolerance" programmes that push on despite symptoms.
 {% endcallout %}
 
 - **CBT framed as a *cure*.** Supportive counselling for coping with a serious illness can help. Programmes that claim ME/CFS is maintained by "unhelpful beliefs", and that changing them will cure you, are not supported.
-- **High-dose steroids.** The PoCoVIT trial was **stopped early after five serious blood clotting events**, with no benefit.
-- **Immunoadsorption outside a trial.** It showed no benefit in unselected patients (Charité, 2026). It may help some people with specific autoantibodies, but only in a research setting for now.
+- **High-dose steroids.** The PoCoVIT trial was **stopped early after five serious blood clotting events**, with no benefit.{% ref "pocovit-nct", "sicktimes-berlin-2026" %}
+- **Immunoadsorption outside a trial.** It showed no benefit in unselected patients (Charité, 2026).{% ref "iapacs-nct", "sicktimes-berlin-2026" %} It may help some people with specific autoantibodies,{% ref "stein-2025" %} but only in a research setting for now.
 - **Expensive "protocols" and clinics** that promise recovery, especially with upfront packages.
 
 ## Tests

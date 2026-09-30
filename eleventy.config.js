@@ -246,6 +246,40 @@ export default function (eleventyConfig) {
       .trim();
   });
 
+
+  // ---------- Citations ----------
+  // {% ref "decodeme-2025" %} renders a numbered superscript link and collects the
+  // reference for a per-page list rendered by {% refList %} in the page layout.
+  const refStore = new Map(); // inputPath -> [ids]
+  eleventyConfig.on("eleventy.before", () => refStore.clear());
+  eleventyConfig.addShortcode("ref", function (...ids) {
+    const refs = readData("references");
+    const key = this.page.inputPath;
+    if (!refStore.has(key)) refStore.set(key, []);
+    const list = refStore.get(key);
+    const out = ids.map((id) => {
+      const r = refs[id];
+      if (!r) throw new Error(`Unknown reference id "${id}" in ${key}`);
+      let n = list.indexOf(id);
+      if (n === -1) { list.push(id); n = list.length - 1; }
+      const label = [r.author, r.year].filter(Boolean).join(" ");
+      return `<a href="#ref-${n + 1}" id="cite-${n + 1}-${Math.random().toString(36).slice(2, 6)}" class="cite" title="${(label + ": " + r.title).replace(/"/g, "&quot;")}">${n + 1}</a>`;
+    });
+    return `<sup class="cites">${out.join(",")}</sup>`;
+  });
+  eleventyConfig.addShortcode("refList", function () {
+    const refs = readData("references");
+    const list = refStore.get(this.page.inputPath) || [];
+    if (!list.length) return "";
+    const items = list.map((id, i) => {
+      const r = refs[id];
+      const meta = [r.author, r.journal ? `<i>${r.journal}</i>` : "", r.year].filter(Boolean).join(", ");
+      const kind = r.type ? ` <span class="ev ev-${r.type}">${{ rct: "RCT", controlled: "Controlled", open: "Open-label", observational: "Observational", lab: "Lab study", adjacent: "Adjacent field", hypothesis: "Hypothesis", guideline: "Guideline", report: "Report", registry: "Registry", news: "News" }[r.type] || r.type}</span>` : "";
+      return `<li id="ref-${i + 1}"><a href="${r.url}" rel="noopener">${r.title}</a>${kind}<br><span class="ref-meta">${meta}${r.note ? `. ${r.note}` : ""}</span></li>`;
+    });
+    return `<section class="references" aria-labelledby="references-heading"><h2 id="references-heading">References</h2><ol class="ref-list">${items.join("")}</ol></section>`;
+  });
+
   // Plain-text outputs (llms.txt) shouldn't contain HTML entities.
   eleventyConfig.addTransform("decodeTxt", (content, outputPath) => {
     if (!outputPath || !outputPath.endsWith(".txt")) return content;

@@ -24,7 +24,7 @@ Most people with ME/CFS can point to an infection when their illness began. Comm
 - Influenza and other respiratory viruses
 - Other infections, including Ross River virus, Q fever and giardia
 
-A new infection is also the most common trigger for a **relapse** in someone who had improved. That's why [infection avoidance](/living/pacing/#avoiding-infections) is part of managing the illness.
+A new infection is also a common trigger for a **relapse** in someone who had improved, and reinfection with COVID worsens fatigue and PEM in people who already have Long COVID.{% ref "soares-2024" %} That's why [infection avoidance](/living/pacing/#avoiding-infections) is part of managing the illness.
 
 ### Other reported triggers
 
@@ -37,20 +37,21 @@ How does ME/CFS after COVID compare with ME/CFS after glandular fever, and why d
 ## Who gets ME/CFS?
 
 - **Anyone can.** It affects all ages, ethnicities and income levels, including children and teenagers.
-- **Women are affected about three times as often as men**, a pattern shared with many immune-related illnesses.
-- Onset is most common in the **teenage years** and **30s to 40s**.
+- **Women are affected about two to four times as often as men**, a pattern shared with many immune-related illnesses. A Norwegian registry study found 3.2 women for every man, and about 4 in 5 DecodeME participants were women.{% ref "bakken-2014", "decodeme-2025" %}
+- Onset is most common in the **teenage years** and **30s to 40s**.{% ref "bakken-2014" %}
 - **Family history:** ME/CFS is more common in relatives of people who have it.
 
 ## Genetics: the DecodeME study
 
-**DecodeME** is the largest genetic study of ME/CFS ever done. It compared DNA from more than **15,000 people with ME/CFS** against about **260,000 people without it**. {% ev "observational" %}
+**DecodeME** is the largest genetic study of ME/CFS ever done. It compared DNA from more than **15,000 people with ME/CFS** against about **260,000 people without it**. The initial results were released as a preprint in August 2025 and are still awaiting peer review. {% ev "observational" %}{% ref "decodeme-2025", "meruk-decodeme-2025" %}
 
 It found:
 
 - **Eight regions of the genome** linked to ME/CFS, mostly involving the **immune system and nervous system**, with a focus on neurons rather than supporting brain cells
 - ME/CFS is **polygenic**: many genes each add a small amount of risk. No single gene causes it.
-- A genetic overlap with fibromyalgia
-- **No link to the HLA genes** usually tied to classic autoimmune disease, which suggests ME/CFS isn't a typical autoimmune illness (though autoimmunity may matter in some subgroups)
+- One signal (near the CA10 gene) overlaps with **chronic pain**
+- **Only a tentative link to the HLA genes** usually tied to classic autoimmune disease: a single HLA variant appeared protective and needs confirming. This suggests ME/CFS isn't a typical autoimmune illness, though autoimmunity may matter in some subgroups.
+- **No shared genetic variants with depression or anxiety**
 
 The next phase, **Sequence ME & Long Covid**, will read the full genomes of up to 9,000 people with ME/CFS and 9,000 with Long COVID. It's on our [trials page](/research/trials/).
 
@@ -58,10 +59,10 @@ The next phase, **Sequence ME & Long Covid**, will read the full genomes of up t
 
 This is the most active area of research. Several ideas fit together:
 
-- **A sickness response that won't switch off.** When you have an infection, your brain deliberately makes you tired, achy, foggy and sleepy so you rest. A major 2026 review (Komaroff) proposed that in ME/CFS, inflammation keeps brain circuits in the hypothalamus and brainstem locked in this "sickness mode" after the infection has gone. {% ev "hypothesis" %}
+- **A sickness response that won't switch off.** When you have an infection, your brain deliberately makes you tired, achy, foggy and sleepy so you rest. A 2025 review (Komaroff and Dantzer) proposed that in ME/CFS and Long COVID, neuroinflammation keeps these brain circuits locked in "sickness mode" after the infection has gone. {% ev "hypothesis" %}{% ref "komaroff-2025" %}
 - **Problems with blood flow.** Reduced blood flow to the brain, especially when upright, is common and measurable.
 - **An energy production problem.** Cells switch to an inefficient backup way of making energy far too easily.
-- **Immune dysfunction.** Including an ion channel called TRPM3 on immune cells that doesn't work properly (Griffith University research), and autoantibodies in some patients.
+- **Immune dysfunction.** Including an ion channel called TRPM3 on immune cells that doesn't work properly (Griffith University research),{% ref "cabanas-2018" %} and autoantibodies in some patients.
 - **Viral reactivation.** Viruses like EBV that stay in the body after the first infection may reactivate in some people.
 
 These are explained in plain language on [The science](/understanding/science/).

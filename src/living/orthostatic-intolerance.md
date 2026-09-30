@@ -28,7 +28,7 @@ Symptoms can include:
 
 ## The home "lean test" (NASA 10-minute lean test)
 
-You can do a version of this at home. Do it with someone else there in case you feel faint, and stop if you feel unwell.
+This test was developed by NASA and adapted for ME/CFS by the Bateman Horne Center; in a study of 150 patients, at least 5 minutes of standing was needed to reveal the abnormal responses.{% ref "bhc-lean-test", "lee-2020" %} You can do a version of this at home. Do it with someone else there in case you feel faint, and stop if you feel unwell.
 
 <ol class="steps">
 <li><strong>Do it in the morning, before caffeine.</strong></li>
@@ -40,7 +40,7 @@ You can do a version of this at home. Do it with someone else there in case you 
 </ol>
 
 {% callout "warn", "A normal result doesn't rule it out" %}
-Research from Brigham & Women's Hospital (2026) found that blood flow to the brain can drop when upright **without any rise in heart rate or drop in blood pressure**. The cause is over-breathing, which lowers carbon dioxide ("hypocapnic cerebral hypoperfusion"). If your symptoms are strong but the test is negative, ask about a referral to an **autonomic clinic**, ideally one that measures end-tidal CO₂.
+Research from Brigham & Women's Hospital (2026) found that blood flow to the brain can drop when upright **without any rise in heart rate or drop in blood pressure**. The cause is over-breathing, which lowers carbon dioxide ("hypocapnic cerebral hypoperfusion").{% ref "novak-2026" %} If your symptoms are strong but the test is negative, ask about a referral to an **autonomic clinic**, ideally one that measures end-tidal CO₂.
 {% endcallout %}
 
 ## Managing it
@@ -50,8 +50,8 @@ Talk to your doctor before starting any of these. Salt in particular isn't right
 | What | Details |
 |---|---|
 | **Fluids** | 2–3 litres a day |
-| **Salt** | 2–3 g of *extra* sodium a day. Many electrolyte powders contain little sodium, so check the label. Higher-sodium products or salt tablets may be needed. **Only if OI is confirmed.** Without it, extra salt just raises blood pressure. |
-| **Compression** | Waist-high compression garments. 20–30 mmHg is the usual starting strength. Talk to your doctor before going to 30–40 mmHg. |
+| **Salt** | 2–3 g of *extra* sodium a day. In a controlled study, a high-salt diet raised blood volume and lowered standing heart rate in people with POTS.{% ref "garland-2021" %} Many electrolyte powders contain little sodium, so check the label. Higher-sodium products or salt tablets may be needed. **Only if OI is confirmed.** Without it, extra salt just raises blood pressure. |
+| **Compression** | Waist-high compression garments. In a randomised crossover study, abdominal plus leg compression lowered standing heart rate from 109 to 92 beats per minute and reduced symptoms; leg-only compression helped much less.{% ref "bourne-2021" %} 20–30 mmHg is the usual starting strength. Talk to your doctor before going to 30–40 mmHg. |
 | **Bed** | Raise the head of the bed slightly |
 | **Everyday tricks** | Sit to shower and to do tasks; avoid standing still for long; cross your legs or clench your calves when you must stand; avoid heat and large carb-heavy meals; get up slowly |
 | **Medications** (prescribed) | Options include pyridostigmine, fludrocortisone and ivabradine. See the notes below. |
@@ -59,12 +59,12 @@ Talk to your doctor before starting any of these. Salt in particular isn't right
 
 **Notes on medications:**
 
-- **Pyridostigmine** has ME/CFS-specific data: a placebo-controlled trial found it improved how the heart and circulation respond to exercise. {% ev "rct" %} See [Medications](/treatment/medications/#pyridostigmine-mestinon).
-- **Ivabradine** lowered heart rate but **did not improve symptoms** in the large RECOVER-AUTONOMIC Long COVID trial (381 patients). {% ev "adjacent" %}
+- **Pyridostigmine** has ME/CFS-specific data: a placebo-controlled trial found it improved how the heart and circulation respond to exercise. {% ev "rct" %}{% ref "joseph-2022" %} See [Medications](/treatment/medications/#pyridostigmine-mestinon).
+- **Ivabradine** lowered heart rate but **did not improve symptoms** in the RECOVER-AUTONOMIC Long COVID trial (181 patients). {% ev "rct" %} {% ev "adjacent" %}{% ref "recover-autonomic-2026" %}
 
 ## Choosing compression garments
 
-**Why waist-high?** Much of the problem in POTS is blood pooling in the **abdomen and pelvis**. Knee- or thigh-high stockings don't address that.
+**Why waist-high?** Much of the problem in POTS is blood pooling in the **abdomen and pelvis**. Knee- or thigh-high stockings don't address that, and the trial above found abdominal compression did most of the work.{% ref "bourne-2021" %}
 
 **Tips:**
 

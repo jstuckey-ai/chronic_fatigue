@@ -30,19 +30,19 @@ No major pharmaceutical company is developing an ME/CFS drug. The work is being 
 | Company | Treatment | Status (Sept 2026) |
 |---|---|---|
 | **BioVie** | Bezisterim (oral anti-inflammatory that reaches the brain) | Phase 2 Long COVID results in Sept 2026; Phase 3 planned |
-| **Simmaron Research** (non-profit) | Low-dose rapamycin | Placebo-controlled follow-up planned for mid-2027 |
-| **APTA Therapeutics** (Germany) | Rovunaptabin (formerly BC007), an autoantibody neutraliser | Restarting after earlier failure; new trial planned |
-| **Mitodicure** (Germany) | MDC002, targeting muscle energy and PEM | Preclinical; no human trials yet |
-| **AIM ImmunoTech** | Ampligen (rintatolimod), IV | Long history; US access programme paused since Oct 2025 |
+| **Simmaron Research** (non-profit) | Low-dose rapamycin{% ref "ruan-2025" %} | Placebo-controlled follow-up planned for mid-2027 |
+| **APTA Therapeutics** (Germany) | Rovunaptabin (formerly BC007), an autoantibody neutraliser{% ref "apta-2025", "hohberger-2025" %} | Acquired Berlin Cures' assets after the company's insolvency; new Long COVID trial planned in Coimbra, Portugal |
+| **Mitodicure** (Germany) | MDC002, targeting muscle energy and PEM{% ref "mitodicure" %} | Preclinical; no human trials yet |
+| **AIM ImmunoTech** | Ampligen (rintatolimod), IV | 30+ years of development; not approved anywhere for ME/CFS |
 | **Fareon** (Mount Sinai spin-out) | Wearable magnetic device | Long COVID randomised trial completed; pilot planned |
 
 ## Funders
 
-- **Solve M.E.** (US): funds research including Simmaron's
+- **Solve M.E.** (US): funds research including Simmaron's rapamycin work{% ref "solve-simmaron-2025" %}
 - **Open Medicine Foundation** (US/international): funds the LIFT trial (Boston), the StudyME registry and more
-- **ME/CFS Research Foundation** (Germany): €1.5M clinical funding round in 2026
+- **ME/CFS Research Foundation** (Germany): €2.4 million to seven projects in its 2026 funding round{% ref "mecfs-rf-funding-2026" %}
 - **ME Research UK** and the **ME Association** (UK)
-- **Stafford Fox Medical Research Foundation** (Australia): major funder of Griffith's LDN trials
-- **NHMRC** (Australia): funds TRI-ME and new clinical guidelines
+- **Stafford Fox Medical Research Foundation** (Australia): $6.4 million over five years to Griffith NCNED, including its LDN trials{% ref "griffith-stafford-fox-2023" %}
+- **NHMRC** (Australia): funds TRI-ME, and is developing the first Australian ME/CFS clinical guideline with $1.1 million from the Federal Government{% ref "butler-2024", "nhmrc-guideline-dev" %}
 - **NIH RECOVER-TLC** (US): Long COVID trials
 - **Canadian Institutes of Health Research**

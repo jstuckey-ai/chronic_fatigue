@@ -1,0 +1,3120 @@
+{
+ "polo-2019": {
+  "title": "Low-dose naltrexone in the treatment of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)",
+  "author": "Polo O, Pesonen P, Tuominen E",
+  "journal": "Fatigue: Biomedicine, Health & Behavior",
+  "year": 2019,
+  "url": "https://doi.org/10.1080/21641846.2019.1692770",
+  "type": "open",
+  "note": "Retrospective series of 218 patients; 73.9% reported a positive response"
+ },
+ "okelly-2022": {
+  "title": "Safety and efficacy of low dose naltrexone in a long covid cohort; an interventional pre-post study",
+  "author": "O'Kelly B et al.",
+  "journal": "Brain, Behavior, & Immunity – Health",
+  "year": 2022,
+  "url": "https://doi.org/10.1016/j.bbih.2022.100485",
+  "type": "open",
+  "note": "52 enrolled, 38 started LDN, 36 completed"
+ },
+ "duebruun-2024": {
+  "title": "Naltrexone 6 mg once daily versus placebo in women with fibromyalgia: a randomised, double-blind, placebo-controlled trial",
+  "author": "Due Bruun K et al.",
+  "journal": "Lancet Rheumatology",
+  "year": 2024,
+  "url": "https://doi.org/10.1016/S2665-9913(23)00278-3",
+  "type": "rct",
+  "note": "99 women, 12 weeks; primary pain endpoint not met; memory improved (secondary outcome)"
+ },
+ "younger-2013": {
+  "title": "Low-dose naltrexone for the treatment of fibromyalgia: findings of a small, randomized, double-blind, placebo-controlled, counterbalanced, crossover trial",
+  "author": "Younger J, Noor N, McCue R, Mackey S",
+  "journal": "Arthritis & Rheumatism",
+  "year": 2013,
+  "url": "https://doi.org/10.1002/art.37734",
+  "type": "rct",
+  "note": "n=31; pain reduced 28.8% vs 18.0% on placebo"
+ },
+ "nacul-nct": {
+  "title": "A Double Blind Randomized Trial of Low-dose Naltrexone for Post-COVID Fatigue Syndrome (NCT05430152)",
+  "author": "Nacul L, University of British Columbia",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT05430152",
+  "type": "registry",
+  "note": "160 enrolled; pre-existing ME/CFS excluded; primary outcome fatigue at 16 weeks"
+ },
+ "sicktimes-berlin-2026": {
+  "title": "International ME/CFS conference roundup: setbacks and new hopes for therapeutic research",
+  "author": "Rücker M, The Sick Times",
+  "journal": null,
+  "year": 2026,
+  "url": "https://thesicktimes.org/2026/05/26/international-me-cfs-conference-roundup-setbacks-and-new-hopes-for-therapeutic-research/",
+  "type": "news",
+  "note": "Coverage of the International ME/CFS Conference, Berlin, 7–8 May 2026"
+ },
+ "mea-ldn-2026": {
+  "title": "Treatment: clinical trials into the use of LDN in ME/CFS, long COVID and fibromyalgia",
+  "author": "ME Association",
+  "journal": null,
+  "year": 2026,
+  "url": "https://meassociation.org.uk/2026/08/treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyalgia/",
+  "type": "news"
+ },
+ "nalcovid-anzctr": {
+  "title": "Low Dose Naltrexone for the treatment of long COVID-19 (ACTRN12623001042639)",
+  "author": "Griffith University NCNED",
+  "journal": "ANZCTR",
+  "year": 2023,
+  "url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=386522",
+  "type": "registry",
+  "note": "Background cites unpublished NCNED retrospective data reporting improvement in 83% of ME/CFS patients on LDN"
+ },
+ "treatmelc-anzctr": {
+  "title": "Low Dose Naltrexone for ME/CFS and Long COVID (ACTRN12624001162505)",
+  "author": "Griffith University NCNED",
+  "journal": "ANZCTR",
+  "year": 2024,
+  "url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=387311",
+  "type": "registry"
+ },
+ "younger-2014": {
+  "title": "The use of low-dose naltrexone (LDN) as a novel anti-inflammatory treatment for chronic pain",
+  "author": "Younger J, Parkitny L, McLain D",
+  "journal": "Clinical Rheumatology",
+  "year": 2014,
+  "url": "https://doi.org/10.1007/s10067-014-2517-2",
+  "type": "hypothesis",
+  "note": "Review of proposed mechanisms: TLR4 antagonism on microglia and endorphin upregulation"
+ },
+ "conti-1998": {
+  "title": "Beta-endorphin levels in peripheral blood mononuclear cells of patients with chronic fatigue syndrome",
+  "author": "Conti F et al.",
+  "journal": "Clinical and Experimental Rheumatology",
+  "year": 1998,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/9844768/",
+  "type": "observational",
+  "note": "16 CFS patients vs 10 controls; beta-endorphin markedly lower"
+ },
+ "ruan-2025": {
+  "title": "Low-dose rapamycin alleviates clinical symptoms of fatigue and PEM in ME/CFS patients via improvement of autophagy: a pilot study",
+  "author": "Ruan BT et al. (Simmaron Research)",
+  "journal": "Journal of Translational Medicine",
+  "year": 2025,
+  "url": "https://doi.org/10.1186/s12967-025-07213-8",
+  "type": "open",
+  "note": "109 enrolled; 52 of 70 (74%) who reached day 30 were responders; 6 mg weekly; no placebo group"
+ },
+ "simmaron-rapamycin": {
+  "title": "Low-dose rapamycin trial",
+  "author": "Simmaron Research",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.simmaronresearch.com/rapamycin-trial",
+  "type": "news"
+ },
+ "joseph-2022": {
+  "title": "Neurovascular dysregulation and acute exercise intolerance in ME/CFS: a randomized, placebo-controlled trial of pyridostigmine",
+  "author": "Joseph P et al. (Systrom DM)",
+  "journal": "Chest",
+  "year": 2022,
+  "url": "https://doi.org/10.1016/j.chest.2022.04.146",
+  "type": "rct",
+  "note": "n=45; single 60 mg dose; peak VO2 rose on pyridostigmine and fell on placebo"
+ },
+ "crosby-2021": {
+  "title": "Off label use of aripiprazole shows promise as a treatment for ME/CFS: a retrospective study of 101 patients",
+  "author": "Crosby LD et al.",
+  "journal": "Journal of Translational Medicine",
+  "year": 2021,
+  "url": "https://doi.org/10.1186/s12967-021-02721-9",
+  "type": "open",
+  "note": "75 of 101 (74%) improved at 0.2–2.0 mg/day"
+ },
+ "eckey-2025": {
+  "title": "Patient-reported treatment outcomes in ME/CFS and long COVID",
+  "author": "Eckey M et al.",
+  "journal": "PNAS",
+  "year": 2025,
+  "url": "https://doi.org/10.1073/pnas.2426874122",
+  "type": "observational",
+  "note": "TREATME survey, n=3,925"
+ },
+ "pais-arise-nct": {
+  "title": "PAIS-AriSE: Post-acute Infectious Syndrome – Aripiprazole Symptom Evaluation (NCT07714213)",
+  "author": "Charité – Universitätsmedizin Berlin",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT07714213",
+  "type": "registry"
+ },
+ "fesharaki-2022": {
+  "title": "Clinical experience with the α2A-adrenoceptor agonist, guanfacine, and N-acetylcysteine for the treatment of cognitive deficits in 'Long-COVID19'",
+  "author": "Fesharaki-Zadeh A, Lowe N, Arnsten AFT",
+  "journal": "Neuroimmunology Reports",
+  "year": 2022,
+  "url": "https://doi.org/10.1016/j.nerep.2022.100154",
+  "type": "open",
+  "note": "12 patients; 8 improved"
+ },
+ "recover-autonomic-2026": {
+  "title": "RECOVER-AUTONOMIC clinical trial results shared at 2026 ACC conference",
+  "author": "NIH RECOVER Initiative",
+  "journal": null,
+  "year": 2026,
+  "url": "https://recovercovid.org/news/recover-autonomic-clinical-trial-results-shared-2026-acc-conference",
+  "type": "rct",
+  "note": "Ivabradine vs placebo, n=181; heart rate on standing fell but symptoms did not improve"
+ },
+ "kim-2026-hbot": {
+  "title": "Hyperbaric oxygen therapy improves clinical symptoms and functional capacity and modulates thalamic connectivity in ME/CFS: a prospective cohort study",
+  "author": "Kim L et al. (Scheibenbogen C)",
+  "journal": "Journal of Translational Medicine",
+  "year": 2026,
+  "url": "https://doi.org/10.1186/s12967-026-08324-6",
+  "type": "observational",
+  "note": "30 patients completed 40 sessions; the 20-session comparison was presented at the Berlin conference (May 2026)"
+ },
+ "stimpact-nct": {
+  "title": "STIMPACT: transcutaneous auricular vagus nerve stimulation in post-COVID and ME/CFS (NCT06968104)",
+  "author": "University of Luxembourg",
+  "journal": "ClinicalTrials.gov",
+  "year": 2025,
+  "url": "https://clinicaltrials.gov/study/NCT06968104",
+  "type": "registry"
+ },
+ "rtms-nct": {
+  "title": "rTMS for Long COVID cognitive symptoms (NCT06586398)",
+  "author": "UCLA",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT06586398",
+  "type": "registry",
+  "note": "Completed March 2026, n=10; no results published"
+ },
+ "sathyamoorthy-2022": {
+  "title": "Enhanced external counterpulsation for management of symptoms associated with long COVID",
+  "author": "Sathyamoorthy M et al.",
+  "journal": "American Heart Journal Plus",
+  "year": 2022,
+  "url": "https://doi.org/10.1016/j.ahjo.2022.100105",
+  "type": "open"
+ },
+ "fareon-2026": {
+  "title": "Fareon announces oral presentation of first-in-class biophysics treatment",
+  "author": "Fareon",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.fareon.co/news/2026-08-25-fareon-announces-oral-presentation-of-first-in-class-biophysics-treat",
+  "type": "news",
+  "note": "Sham-controlled pilot NCT06739668, n=30, Long COVID"
+ },
+ "canori-2026": {
+  "title": "Microtesla magnetic therapy for cognitive impairment in Long COVID: a sham-controlled pilot study (preprint)",
+  "author": "Canori A et al. (Putrino D)",
+  "journal": "medRxiv",
+  "year": 2026,
+  "url": "https://doi.org/10.64898/2026.03.18.26348530",
+  "type": "rct",
+  "note": "Preprint; not yet peer reviewed"
+ },
+ "reenergizeme-nct": {
+  "title": "REenergizeME: intermittent hypoxia-hyperoxia treatment in ME/CFS (NCT07317401)",
+  "author": "Aarhus University",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT07317401",
+  "type": "registry"
+ },
+ "biovie-2026": {
+  "title": "BioVie announces topline results from Phase 2 ADDRESS-LC trial of bezisterim in Long COVID",
+  "author": "BioVie Inc.",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.globenewswire.com/news-release/2026/09/15/3361943/0/en/",
+  "type": "rct",
+  "note": "n=203; no endpoint significant overall; significant in pre-specified high-fatigue, high-PEM and high-cognitive-impairment subgroups (about 78% of participants)"
+ },
+ "iapacs-nct": {
+  "title": "Immunoadsorption in post-COVID ME/CFS (IA-PACS-CFS, NCT05710770)",
+  "author": "Charité – Universitätsmedizin Berlin",
+  "journal": "ClinicalTrials.gov",
+  "year": 2025,
+  "url": "https://clinicaltrials.gov/study/NCT05710770",
+  "type": "registry",
+  "note": "Sham-controlled, n=66; results presented at the Berlin conference, May 2026"
+ },
+ "stein-2025": {
+  "title": "Efficacy of immunoadsorption in post-COVID ME/CFS with autoantibodies: final results of a prospective observational study",
+  "author": "Stein E et al. (Scheibenbogen C)",
+  "journal": "Lancet Regional Health – Europe",
+  "year": 2025,
+  "url": "https://doi.org/10.1016/j.lanepe.2024.101161",
+  "type": "open",
+  "note": "20 autoantibody-positive patients; 14 responded"
+ },
+ "pocovit-nct": {
+  "title": "PoCoVIT: methylprednisolone in post-COVID syndrome (NCT05986422)",
+  "author": "Charité – Universitätsmedizin Berlin",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT05986422",
+  "type": "registry",
+  "note": "Terminated on data safety monitoring board advice; results presented May 2026"
+ },
+ "puntmann-2026": {
+  "title": "Losartan and prednisolone for post-COVID syndrome and cardiac inflammation (Myoflame-19)",
+  "author": "Puntmann VO et al.",
+  "journal": "Nature Communications",
+  "year": 2026,
+  "url": "https://doi.org/10.1038/s41467-026-75991-w",
+  "type": "rct",
+  "note": "n=279; no benefit"
+ },
+ "sicktimes-bc007-2025": {
+  "title": "Berlin Cures' failed Long COVID clinical trial yields lessons on study design",
+  "author": "The Sick Times",
+  "journal": null,
+  "year": 2025,
+  "url": "https://thesicktimes.org/2025/07/22/berlin-cures-failed-long-covid-clinical-trial-yields-lessons-on-study-design/",
+  "type": "news"
+ },
+ "apta-2025": {
+  "title": "APTA Therapeutics news room",
+  "author": "APTA Therapeutics",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.aptatherapeutics.com/news-room",
+  "type": "news",
+  "note": "Announced acquisition of Berlin Cures' assets, July 2025"
+ },
+ "peters-2026": {
+  "title": "Evaluation of an integrated multidisciplinary care model for ME/CFS: a prospective, open-label, non-randomized controlled intervention study",
+  "author": "Peters CK et al. (Scheibenbogen C, Wittke K)",
+  "journal": "American Journal of Medicine",
+  "year": 2026,
+  "url": "https://doi.org/10.1016/j.amjmed.2026.09.013",
+  "type": "controlled",
+  "note": "182 participants; on the Bell disability scale 42 of 94 (45%) in the programme worsened and 13 (14%) improved"
+ },
+ "geng-2024": {
+  "title": "Nirmatrelvir-ritonavir and symptoms in adults with postacute sequelae of SARS-CoV-2 infection: the STOP-PASC randomized clinical trial",
+  "author": "Geng LN et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2024,
+  "url": "https://doi.org/10.1001/jamainternmed.2024.2007",
+  "type": "rct",
+  "note": "n=155; no benefit"
+ },
+ "nehme-2026": {
+  "title": "Temelimab in post-COVID condition: a randomised placebo-controlled trial",
+  "author": "Nehme M et al.",
+  "journal": "Brain, Behavior, and Immunity",
+  "year": 2026,
+  "url": "https://doi.org/10.1016/j.bbi.2026.106892",
+  "type": "rct",
+  "note": "n=203; no benefit on fatigue"
+ },
+ "hansen-2023": {
+  "title": "High-dose coenzyme Q10 therapy versus placebo in patients with post COVID-19 condition: a randomized, phase 2, crossover trial",
+  "author": "Hansen KS et al.",
+  "journal": "Lancet Regional Health – Europe",
+  "year": 2023,
+  "url": "https://doi.org/10.1016/j.lanepe.2022.100539",
+  "type": "rct",
+  "note": "n=121; 500 mg/day; no benefit"
+ },
+ "fluge-2019": {
+  "title": "B-lymphocyte depletion in patients with ME/CFS: a randomized, double-blind, placebo-controlled trial (RituxME)",
+  "author": "Fluge Ø et al.",
+  "journal": "Annals of Internal Medicine",
+  "year": 2019,
+  "url": "https://doi.org/10.7326/M18-1451",
+  "type": "rct",
+  "note": "n=151; rituximab no better than placebo"
+ },
+ "fluge-2025": {
+  "title": "Plasma cell targeting with the anti-CD38 antibody daratumumab in ME/CFS: a clinical pilot study",
+  "author": "Fluge Ø et al.",
+  "journal": "Frontiers in Medicine",
+  "year": 2025,
+  "url": "https://doi.org/10.3389/fmed.2025.1607353",
+  "type": "open",
+  "note": "10 patients; 6 improved; 5 sustained at 12–24 months"
+ },
+ "resetme-ctis": {
+  "title": "Plasma cell targeting using daratumumab in ME/CFS (EU CT 2024-520094-13-00)",
+  "author": "Helse Bergen",
+  "journal": "EU Clinical Trials Register",
+  "year": 2025,
+  "url": "https://euclinicaltrials.eu/ctis-public/view/2024-520094-13-00",
+  "type": "registry",
+  "note": "Randomised, double-blind, placebo-controlled; 66 participants"
+ },
+ "hohberger-2025": {
+  "title": "Safety, tolerability and clinical effects of rovunaptabin (BC007) in post-COVID syndrome (reCOVer): a prospective, exploratory, placebo-controlled, double-blind, randomised phase IIa trial",
+  "author": "Hohberger B et al.",
+  "journal": "EClinicalMedicine",
+  "year": 2025,
+  "url": "https://doi.org/10.1016/j.eclinm.2025.103358",
+  "type": "rct",
+  "note": "n=30, autoantibody-selected; fatigue and function improved vs placebo"
+ },
+ "castro-marrero-2015": {
+  "title": "Does oral coenzyme Q10 plus NADH supplementation improve fatigue and biochemical parameters in chronic fatigue syndrome?",
+  "author": "Castro-Marrero J et al.",
+  "journal": "Antioxidants & Redox Signaling",
+  "year": 2015,
+  "url": "https://doi.org/10.1089/ars.2014.6181",
+  "type": "rct",
+  "note": "n=73; CoQ10 200 mg + NADH 20 mg for 8 weeks; fatigue reduced"
+ },
+ "castro-marrero-2021": {
+  "title": "Effect of dietary coenzyme Q10 plus NADH supplementation on fatigue perception and health-related quality of life in ME/CFS: a prospective, randomized, double-blind, placebo-controlled trial",
+  "author": "Castro-Marrero J et al.",
+  "journal": "Nutrients",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/nu13082658",
+  "type": "rct",
+  "note": "n=207; 12 weeks; cognitive fatigue and quality of life improved; sleep improved within-group"
+ },
+ "forsyth-1999": {
+  "title": "Therapeutic effects of oral NADH on the symptoms of patients with chronic fatigue syndrome",
+  "author": "Forsyth LM et al.",
+  "journal": "Annals of Allergy, Asthma & Immunology",
+  "year": 1999,
+  "url": "https://doi.org/10.1016/S1081-1206(10)62595-1",
+  "type": "rct",
+  "note": "26 patients, crossover; 8 (31%) responded on NADH vs 2 (8%) on placebo"
+ },
+ "cash-2024": {
+  "title": "RESTORE ME: a randomized controlled trial of oxaloacetate for improving fatigue in patients with ME/CFS",
+  "author": "Cash A, Vernon SD et al.",
+  "journal": "Frontiers in Neurology",
+  "year": 2024,
+  "url": "https://doi.org/10.3389/fneur.2024.1483876",
+  "type": "rct",
+  "note": "n=82; 2,000 mg/day for 90 days; industry-funded (lead author is an officer of the manufacturer)"
+ },
+ "slankamenac-2023": {
+  "title": "Effects of six-month creatine supplementation on patient- and clinician-reported outcomes, and tissue creatine levels in patients with post-COVID-19 fatigue syndrome",
+  "author": "Slankamenac J et al. (Ostojic SM)",
+  "journal": "Food Science & Nutrition",
+  "year": 2023,
+  "url": "https://doi.org/10.1002/fsn3.3597",
+  "type": "rct",
+  "note": "n=12; 4 g/day; brain and muscle creatine rose on MR spectroscopy"
+ },
+ "ostojic-2016": {
+  "title": "Supplementation with guanidinoacetic acid in women with chronic fatigue syndrome",
+  "author": "Ostojic SM et al.",
+  "journal": "Nutrients",
+  "year": 2016,
+  "url": "https://doi.org/10.3390/nu8020072",
+  "type": "rct",
+  "note": "21 women; muscle creatine and strength improved; fatigue did not"
+ },
+ "alves-2013": {
+  "title": "Creatine supplementation in fibromyalgia: a randomized, double-blind, placebo-controlled trial",
+  "author": "Alves CR et al.",
+  "journal": "Arthritis Care & Research",
+  "year": 2013,
+  "url": "https://doi.org/10.1002/acr.22020",
+  "type": "rct",
+  "note": "Strength improved; pain and quality of life unchanged"
+ },
+ "plioplys-1997": {
+  "title": "Amantadine and L-carnitine treatment of chronic fatigue syndrome",
+  "author": "Plioplys AV, Plioplys S",
+  "journal": "Neuropsychobiology",
+  "year": 1997,
+  "url": "https://doi.org/10.1159/000119325",
+  "type": "open",
+  "note": "30 patients; L-carnitine improved 12 of 18 measures"
+ },
+ "vermeulen-2004": {
+  "title": "Exploratory open label, randomized study of acetyl- and propionylcarnitine in chronic fatigue syndrome",
+  "author": "Vermeulen RC, Scholte HR",
+  "journal": "Psychosomatic Medicine",
+  "year": 2004,
+  "url": "https://doi.org/10.1097/01.psy.0000116249.60477.e9",
+  "type": "open",
+  "note": "90 patients; 2 g/day for 24 weeks; no placebo group"
+ },
+ "reuter-2011": {
+  "title": "Long-chain acylcarnitine deficiency in patients with chronic fatigue syndrome. Potential involvement of altered carnitine palmitoyltransferase-I activity",
+  "author": "Reuter SE, Evans AM",
+  "journal": "Journal of Internal Medicine",
+  "year": 2011,
+  "url": "https://doi.org/10.1111/j.1365-2796.2010.02341.x",
+  "type": "observational"
+ },
+ "dorczok-2025": {
+  "title": "Dietary supplementation for fatigue symptoms in ME/CFS: a systematic review",
+  "author": "Dorczok MC et al.",
+  "journal": "Nutrients",
+  "year": 2025,
+  "url": "https://doi.org/10.3390/nu17030475",
+  "type": "observational",
+  "note": "Systematic review; supplement evidence generally small and at high risk of bias"
+ },
+ "maes-2009": {
+  "title": "Coenzyme Q10 deficiency in ME/CFS is related to fatigue, autonomic and neurocognitive symptoms and is another risk factor explaining the early mortality in ME/CFS due to cardiovascular disorder",
+  "author": "Maes M et al.",
+  "journal": "Neuro Endocrinology Letters",
+  "year": 2009,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20010505/",
+  "type": "observational",
+  "note": "58 patients vs 22 controls; plasma CoQ10 lower"
+ },
+ "stoffel-2017": {
+  "title": "Iron absorption from oral iron supplements given on consecutive versus alternate days and as single morning doses versus twice-daily split dosing in iron-depleted women",
+  "author": "Stoffel NU et al.",
+  "journal": "Lancet Haematology",
+  "year": 2017,
+  "url": "https://doi.org/10.1016/S2352-3026(17)30182-5",
+  "type": "rct",
+  "note": "Alternate-day dosing absorbed better (21.8% vs 16.3%)"
+ },
+ "stoffel-2020": {
+  "title": "Iron absorption from supplements is greater with alternate day than with consecutive day dosing in iron-deficient anemic women",
+  "author": "Stoffel NU et al.",
+  "journal": "Haematologica",
+  "year": 2020,
+  "url": "https://doi.org/10.3324/haematol.2019.220830",
+  "type": "rct"
+ },
+ "powell-2013": {
+  "title": "Unstimulated cortisol secretory activity in everyday life and its relationship with fatigue and chronic fatigue syndrome: a systematic review and subset meta-analysis",
+  "author": "Powell DJ, Liossi C, Moss-Morris R, Schlotz W",
+  "journal": "Psychoneuroendocrinology",
+  "year": 2013,
+  "url": "https://doi.org/10.1016/j.psyneuen.2013.07.004",
+  "type": "observational",
+  "note": "Attenuated cortisol awakening response in CFS (small effect)"
+ },
+ "tak-2011": {
+  "title": "Meta-analysis and meta-regression of hypothalamic-pituitary-adrenal axis activity in functional somatic disorders",
+  "author": "Tak LM et al.",
+  "journal": "Biological Psychology",
+  "year": 2011,
+  "url": "https://doi.org/10.1016/j.biopsycho.2011.02.002",
+  "type": "observational",
+  "note": "Modestly lower basal cortisol in CFS"
+ },
+ "klein-2023": {
+  "title": "Distinguishing features of long COVID identified through immune profiling",
+  "author": "Klein J et al. (Putrino D, Iwasaki A)",
+  "journal": "Nature",
+  "year": 2023,
+  "url": "https://doi.org/10.1038/s41586-023-06651-y",
+  "type": "observational",
+  "note": "Low cortisol was the strongest single predictor of Long COVID status"
+ },
+ "bhc-lean-test": {
+  "title": "NASA 10-minute lean test",
+  "author": "Bateman Horne Center",
+  "journal": null,
+  "year": 2022,
+  "url": "https://batemanhornecenter.org/nasa-10-minute-lean-test-2/",
+  "type": "guideline"
+ },
+ "lee-2020": {
+  "title": "Hemodynamics during the 10-minute NASA Lean Test: evidence of circulatory decompensation in a subset of ME/CFS patients",
+  "author": "Lee J et al. (Bateman L)",
+  "journal": "Journal of Translational Medicine",
+  "year": 2020,
+  "url": "https://doi.org/10.1186/s12967-020-02481-y",
+  "type": "observational",
+  "note": "150 ME/CFS patients vs 75 controls"
+ },
+ "libman-2009": {
+  "title": "Sleep apnea and psychological functioning in chronic fatigue syndrome",
+  "author": "Libman E, Creti L, Baltzan M et al.",
+  "journal": "Journal of Health Psychology",
+  "year": 2009,
+  "url": "https://doi.org/10.1177/1359105309344895",
+  "type": "observational",
+  "note": "Up to two-thirds of a clinic-referred CFS sample had sleep apnoea/hypopnoea"
+ },
+ "redline-2000": {
+  "title": "The genetics of sleep apnea",
+  "author": "Redline S, Tishler PV",
+  "journal": "Sleep Medicine Reviews",
+  "year": 2000,
+  "url": "https://doi.org/10.1053/smrv.2000.0120",
+  "type": "observational",
+  "note": "Roughly 40% of variation in apnoea severity is genetic"
+ },
+ "redline-1995": {
+  "title": "The familial aggregation of obstructive sleep apnea",
+  "author": "Redline S et al.",
+  "journal": "American Journal of Respiratory and Critical Care Medicine",
+  "year": 1995,
+  "url": "https://doi.org/10.1164/ajrccm/151.3_Pt_1.682",
+  "type": "observational",
+  "note": "Risk roughly 1.5–2 times higher with an affected relative"
+ },
+ "shepertycky-2005": {
+  "title": "Differences between men and women in the clinical presentation of patients diagnosed with obstructive sleep apnea syndrome",
+  "author": "Shepertycky MR, Banno K, Kryger MH",
+  "journal": "Sleep",
+  "year": 2005,
+  "url": "https://doi.org/10.1093/sleep/28.3.309",
+  "type": "observational",
+  "note": "Women more often present with insomnia and depression, fewer witnessed apnoeas"
+ },
+ "bourne-2021": {
+  "title": "Compression garment reduces orthostatic tachycardia and symptoms in patients with postural orthostatic tachycardia syndrome",
+  "author": "Bourne KM et al. (Raj SR)",
+  "journal": "Journal of the American College of Cardiology",
+  "year": 2021,
+  "url": "https://doi.org/10.1016/j.jacc.2020.11.040",
+  "type": "rct",
+  "note": "n=30 crossover; abdominal plus leg compression gave the largest heart rate reduction"
+ },
+ "garland-2021": {
+  "title": "Effect of high dietary sodium intake in patients with postural tachycardia syndrome",
+  "author": "Garland EM et al. (Raj SR)",
+  "journal": "Journal of the American College of Cardiology",
+  "year": 2021,
+  "url": "https://doi.org/10.1016/j.jacc.2021.03.005",
+  "type": "rct",
+  "note": "High sodium raised blood volume and lowered upright heart rate"
+ },
+ "davenport-2019": {
+  "title": "Chronotropic intolerance: an overlooked determinant of symptoms and activity limitation in ME/CFS?",
+  "author": "Davenport TE et al.",
+  "journal": "Frontiers in Pediatrics",
+  "year": 2019,
+  "url": "https://doi.org/10.3389/fped.2019.00082",
+  "type": "observational",
+  "note": "Heart rate at the anaerobic threshold is lower than predicted in ME/CFS; age-based formulas can mislead"
+ },
+ "aitken-2026": {
+  "title": "Digital physiological biomarkers predict within-person symptom changes in complex chronic illness",
+  "author": "Aitken A et al. (Putrino D)",
+  "journal": "npj Digital Medicine",
+  "year": 2026,
+  "url": "https://doi.org/10.1038/s41746-026-02543-3",
+  "type": "observational",
+  "note": "4,244 people with Long COVID, ME/CFS and related illnesses (Visible app data); higher morning heart rate and lower HRV predicted worse symptoms that day"
+ },
+ "ruijgt-2026": {
+  "title": "Wearable heart rate variability monitoring, autonomic dysfunction and post-exertional malaise in Long COVID",
+  "author": "Ruijgt TM et al. (Wüst RCI)",
+  "journal": "Sports Medicine",
+  "year": 2026,
+  "url": "https://doi.org/10.1007/s40279-026-02487-4",
+  "type": "observational",
+  "note": "121 Long COVID patients; HRV stayed depressed 24 hours after exertion near the ventilatory threshold"
+ },
+ "lee-2024": {
+  "title": "Brain-regional characteristics and neuroinflammation in ME/CFS patients from neuroimaging: a systematic review and meta-analysis",
+  "author": "Lee JS, Sato W, Son CG",
+  "journal": "Autoimmunity Reviews",
+  "year": 2024,
+  "url": "https://doi.org/10.1016/j.autrev.2023.103484",
+  "type": "observational",
+  "note": "65 studies; 1,529 patients and 1,715 controls"
+ },
+ "maksoud-2020": {
+  "title": "A systematic review of neurological impairments in ME/CFS using neuroimaging techniques",
+  "author": "Maksoud R et al.",
+  "journal": "PLoS One",
+  "year": 2020,
+  "url": "https://doi.org/10.1371/journal.pone.0232475",
+  "type": "observational",
+  "note": "55 studies"
+ },
+ "mea-neuroinflammation-2026": {
+  "title": "Research: does ME/CFS involve low level inflammation in the brain and nervous system?",
+  "author": "Shepherd C, ME Association",
+  "journal": null,
+  "year": 2026,
+  "url": "https://meassociation.org.uk/2026/03/research-does-me-cfs-involve-low-level-inflammation-in-the-brain-and-nervous-system/",
+  "type": "news"
+ },
+ "yu-2026": {
+  "title": "Evidence of white matter neuroinflammation in ME/CFS: a diffusion-based neuroinflammation imaging study",
+  "author": "Yu Q, Kothe K, Kwiatek RA et al.",
+  "journal": "Human Brain Mapping",
+  "year": 2026,
+  "url": "https://doi.org/10.1002/hbm.70505",
+  "type": "observational",
+  "note": "67 patients vs 67 matched controls. A published correction (doi:10.1002/hbm.70544) revised the interpretation of the imaging index"
+ },
+ "komaroff-2025": {
+  "title": "Causes of symptoms and symptom persistence in long COVID and ME/CFS",
+  "author": "Komaroff AL, Dantzer R",
+  "journal": "Cell Reports Medicine",
+  "year": 2025,
+  "url": "https://doi.org/10.1016/j.xcrm.2025.102259",
+  "type": "hypothesis",
+  "note": "Review proposing a neuroinflammation-driven 'sickness behaviour' pathway"
+ },
+ "jhu-bbb-nct": {
+  "title": "Blood-brain barrier integrity and immune dynamics in post-SARS-CoV-2 onset ME/CFS versus pre-pandemic ME/CFS (NCT07256795)",
+  "author": "Johns Hopkins University (Azola A)",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT07256795",
+  "type": "registry"
+ },
+ "thapaliya-2026": {
+  "title": "Disrupted glymphatic function and its relationship with sleep and cognitive impairment in ME/CFS assessed via DTI-ALPS",
+  "author": "Thapaliya K, Marshall-Gradisnik S, Inderyas M, Barnden L",
+  "journal": "Frontiers in Neuroscience",
+  "year": 2026,
+  "url": "https://doi.org/10.3389/fnins.2026.1875420",
+  "type": "observational",
+  "note": "31 patients vs 27 controls; lower glymphatic index, correlated with sleep disturbance and impaired concentration"
+ },
+ "griffith-glymphatic-2026": {
+  "title": "Brain's waste-clearing ability impaired in ME/CFS patients",
+  "author": "Griffith University News",
+  "journal": null,
+  "year": 2026,
+  "url": "https://news.griffith.edu.au/2026/07/03/brains-waste-clearing-ability-impaired-in-me-cfs-patients/",
+  "type": "news"
+ },
+ "christopoulos-2025": {
+  "title": "Mapping cerebral blood flow in ME/CFS and orthostatic intolerance: insights from a systematic review",
+  "author": "Christopoulos EM et al. (Armstrong CW)",
+  "journal": "Journal of Translational Medicine",
+  "year": 2025,
+  "url": "https://doi.org/10.1186/s12967-025-06954-w",
+  "type": "observational",
+  "note": "118 articles; cerebral blood flow significantly reduced in 12 of the 26 ME/CFS-focused studies; larger reductions with co-existing orthostatic intolerance"
+ },
+ "li-2021": {
+  "title": "Limbic perfusion is reduced in patients with ME/CFS",
+  "author": "Li X, Julin P, Li T-Q",
+  "journal": "Tomography",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/tomography7040056",
+  "type": "observational",
+  "note": "31 patients vs 48 controls; limbic perfusion about 34% lower"
+ },
+ "barnden-2016": {
+  "title": "Autonomic correlations with MRI are abnormal in the brainstem vasomotor centre in chronic fatigue syndrome",
+  "author": "Barnden LR et al.",
+  "journal": "NeuroImage: Clinical",
+  "year": 2016,
+  "url": "https://doi.org/10.1016/j.nicl.2016.03.017",
+  "type": "observational"
+ },
+ "barnden-2018": {
+  "title": "Hyperintense sensorimotor T1 spin echo MRI is associated with brainstem abnormality in chronic fatigue syndrome",
+  "author": "Barnden LR et al.",
+  "journal": "NeuroImage: Clinical",
+  "year": 2018,
+  "url": "https://doi.org/10.1016/j.nicl.2018.07.011",
+  "type": "observational",
+  "note": "43 patients vs 27 controls; findings consistent with reduced brainstem myelin"
+ },
+ "barnden-2019": {
+  "title": "Intra brainstem connectivity is impaired in chronic fatigue syndrome",
+  "author": "Barnden LR et al.",
+  "journal": "NeuroImage: Clinical",
+  "year": 2019,
+  "url": "https://doi.org/10.1016/j.nicl.2019.102045",
+  "type": "observational"
+ },
+ "novak-2026": {
+  "title": "Shared autonomic phenotype of long COVID and ME/CFS",
+  "author": "Novak P, Systrom DM et al.",
+  "journal": "PLoS One",
+  "year": 2026,
+  "url": "https://doi.org/10.1371/journal.pone.0341278",
+  "type": "observational",
+  "note": "143 Long COVID, 170 ME/CFS and 73 controls; reduced orthostatic cerebral blood flow in 92% and 88%; small fibre neuropathy in 67% and 53%"
+ },
+ "wood-2026": {
+  "title": "Brainstem dysfunction as a potential etiology of ME/CFS and long COVID: a mechanical basis",
+  "author": "Wood JD et al.",
+  "journal": "Medical Hypotheses",
+  "year": 2026,
+  "url": "https://doi.org/10.1016/j.mehy.2025.111812",
+  "type": "hypothesis"
+ },
+ "berlin-2026-videos": {
+  "title": "International ME/CFS Conference 2026: presentations",
+  "author": "ME/CFS Research Foundation / Charité",
+  "journal": null,
+  "year": 2026,
+  "url": "https://events.mecfs-research.org/en/events/conference_2026/videos",
+  "type": "news",
+  "note": "Includes Michelle James (Stanford), whole-body PET/MR imaging in ME/CFS; presentation only, not yet published"
+ },
+ "meruk-berlin-2026": {
+  "title": "Highlights from the International ME/CFS Conference 2026, including DecodeME and PET",
+  "author": "ME Research UK",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.meresearch.org.uk/highlights-from-the-international-me-cfs-conference-2026-including-decode-me-pet/",
+  "type": "news"
+ },
+ "keller-2014": {
+  "title": "Inability of ME/CFS patients to reproduce VO2peak indicates functional impairment",
+  "author": "Keller BA, Pryor JL, Giloteaux L",
+  "journal": "Journal of Translational Medicine",
+  "year": 2014,
+  "url": "https://doi.org/10.1186/1479-5876-12-104",
+  "type": "observational",
+  "note": "Two-day exercise test; oxygen use at the anaerobic threshold fell 15.8% on day two"
+ },
+ "snell-2013": {
+  "title": "Discriminative validity of metabolic and workload measurements for identifying people with chronic fatigue syndrome",
+  "author": "Snell CR, Stevens SR, Davenport TE, Van Ness JM",
+  "journal": "Physical Therapy",
+  "year": 2013,
+  "url": "https://doi.org/10.2522/ptj.20110368",
+  "type": "observational",
+  "note": "51 patients vs 10 controls; day-two declines at the ventilatory threshold"
+ },
+ "lim-2020-cpet": {
+  "title": "Systematic review and meta-analysis of the prevalence of chronic fatigue syndrome/myalgic encephalomyelitis (CFS/ME)",
+  "author": "Lim EJ et al.",
+  "journal": "Journal of Translational Medicine",
+  "year": 2020,
+  "url": "https://doi.org/10.1186/s12967-020-02269-0",
+  "type": "observational",
+  "note": "46 studies; pooled prevalence roughly 0.4–0.7% of the population; higher in women"
+ },
+ "lim-2020-meta": {
+  "title": "Meta-analysis of two-day cardiopulmonary exercise testing in ME/CFS",
+  "author": "Lim EJ et al.",
+  "journal": "Journal of Clinical Medicine",
+  "year": 2020,
+  "url": "https://doi.org/10.3390/jcm9124040",
+  "type": "observational",
+  "note": "5 studies; workload at the ventilatory threshold fell on day two in patients but not controls"
+ },
+ "appelman-2024": {
+  "title": "Muscle abnormalities worsen after post-exertional malaise in long COVID",
+  "author": "Appelman B et al. (Wüst RCI)",
+  "journal": "Nature Communications",
+  "year": 2024,
+  "url": "https://doi.org/10.1038/s41467-023-44432-3",
+  "type": "observational",
+  "note": "Muscle biopsies before and after exertion in 25 Long COVID patients vs 21 controls"
+ },
+ "charlton-2026": {
+  "title": "Skeletal muscle properties in long COVID and ME/CFS differ from those induced by bed rest",
+  "author": "Charlton BT et al. (Wüst RCI)",
+  "journal": "Nature Communications",
+  "year": 2026,
+  "url": "https://doi.org/10.1038/s41467-026-75725-y",
+  "type": "observational",
+  "note": "More glycolytic (anaerobic) muscle fibres in both illnesses, not reproduced by 60 days of bed rest"
+ },
+ "cabanas-2018": {
+  "title": "Loss of transient receptor potential melastatin 3 ion channel function in natural killer cells from chronic fatigue syndrome/myalgic encephalomyelitis patients",
+  "author": "Cabanas H et al.",
+  "journal": "Molecular Medicine",
+  "year": 2018,
+  "url": "https://doi.org/10.1186/s10020-018-0046-1",
+  "type": "lab"
+ },
+ "cabanas-2019": {
+  "title": "Naltrexone restores impaired transient receptor potential melastatin 3 ion channel function in natural killer cells from ME/CFS patients",
+  "author": "Cabanas H et al.",
+  "journal": "Frontiers in Immunology",
+  "year": 2019,
+  "url": "https://doi.org/10.3389/fimmu.2019.02545",
+  "type": "lab"
+ },
+ "cabanas-2021": {
+  "title": "Potential therapeutic benefit of low dose naltrexone in ME/CFS: role of transient receptor potential melastatin 3 ion channels in pathophysiology and treatment",
+  "author": "Cabanas H, Muraki K, Eaton-Fitch N, Staines DR, Marshall-Gradisnik S",
+  "journal": "Frontiers in Immunology",
+  "year": 2021,
+  "url": "https://doi.org/10.3389/fimmu.2021.687806",
+  "type": "lab",
+  "note": "9 patients taking LDN vs 9 controls; TRPM3 currents in the same range as controls"
+ },
+ "eaton-fitch-2022": {
+  "title": "Impaired TRPM3-dependent calcium influx and restoration using naltrexone in natural killer cells of ME/CFS patients",
+  "author": "Eaton-Fitch N et al.",
+  "journal": "Journal of Translational Medicine",
+  "year": 2022,
+  "url": "https://doi.org/10.1186/s12967-022-03297-8",
+  "type": "lab",
+  "note": "10 patients vs 10 controls"
+ },
+ "sasso-2024": {
+  "title": "Investigation into the restoration of TRPM3 ion channel activity in post-COVID-19 condition: a potential pharmacotherapeutic target",
+  "author": "Sasso EM et al.",
+  "journal": "Frontiers in Immunology",
+  "year": 2024,
+  "url": "https://doi.org/10.3389/fimmu.2024.1264702",
+  "type": "lab",
+  "note": "NK cells resistant to the TRPM3 blocker ononetin: 89% in ME/CFS, 87% in post-COVID, 41% in controls"
+ },
+ "sasso-2025": {
+  "title": "Low-dose naltrexone restored TRPM3 ion channel function in natural killer cells from long COVID patients",
+  "author": "Sasso EM et al.",
+  "journal": "Frontiers in Molecular Biosciences",
+  "year": 2025,
+  "url": "https://doi.org/10.3389/fmolb.2025.1582967",
+  "type": "lab",
+  "note": "9 Long COVID patients on LDN, 9 untreated, 9 controls"
+ },
+ "decodeme-2025": {
+  "title": "Initial findings from the DecodeME genome-wide association study of ME/CFS (preprint)",
+  "author": "DecodeME Collaboration (Boutin T, Ponting CP et al.)",
+  "journal": "medRxiv",
+  "year": 2025,
+  "url": "https://doi.org/10.1101/2025.08.06.25333109",
+  "type": "observational",
+  "note": "Up to 15,579 cases vs 259,909 controls; eight loci; preprint, not yet peer reviewed as of September 2026"
+ },
+ "meruk-decodeme-2025": {
+  "title": "DecodeME initial results published",
+  "author": "ME Research UK",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.meresearch.org.uk/decodeme-initial-results-published/",
+  "type": "news"
+ },
+ "beentjes-2025": {
+  "title": "Replicated blood-based biomarkers for myalgic encephalomyelitis not explicable by inactivity",
+  "author": "Beentjes SV et al. (Ponting CP)",
+  "journal": "EMBO Molecular Medicine",
+  "year": 2025,
+  "url": "https://doi.org/10.1038/s44321-025-00258-8",
+  "type": "observational",
+  "note": "UK Biobank; 1,455 cases vs 131,303 controls; 116 replicated blood traits"
+ },
+ "gardella-2025": {
+  "title": "Circulating cell-free RNA signatures for the characterization and diagnosis of ME/CFS",
+  "author": "Gardella AE et al. (Hanson MR, De Vlaminck I)",
+  "journal": "PNAS",
+  "year": 2025,
+  "url": "https://doi.org/10.1073/pnas.2507345122",
+  "type": "observational",
+  "note": "93 patients vs 75 sedentary controls; 77% accuracy on held-out data"
+ },
+ "hunter-2025": {
+  "title": "Development and validation of blood-based diagnostic biomarkers for ME/CFS using EpiSwitch 3-dimensional genomic regulatory immuno-genetic profiling",
+  "author": "Hunter E et al. (Oxford BioDynamics)",
+  "journal": "Journal of Translational Medicine",
+  "year": 2025,
+  "url": "https://doi.org/10.1186/s12967-025-07203-w",
+  "type": "observational",
+  "note": "47 severe patients vs 61 healthy controls; small validation set; compared with healthy rather than other-illness controls"
+ },
+ "smc-episwitch-2025": {
+  "title": "Expert reaction to study of blood-based diagnostic biomarkers for ME/CFS",
+  "author": "Science Media Centre",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.sciencemediacentre.org/expert-reaction-to-study-of-blood-based-diagnostic-biomarkers-for-me-cfs/",
+  "type": "news"
+ },
+ "iom-2015": {
+  "title": "Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness",
+  "author": "Institute of Medicine (US)",
+  "journal": "National Academies Press",
+  "year": 2015,
+  "url": "https://doi.org/10.17226/19012",
+  "type": "report",
+  "note": "836,000 to 2.5 million Americans; 84–91% undiagnosed; at least one quarter house- or bedbound at some point"
+ },
+ "cdc-mecfs": {
+  "title": "ME/CFS: about",
+  "author": "US Centers for Disease Control and Prevention",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.cdc.gov/me-cfs/about/index.html",
+  "type": "guideline"
+ },
+ "solve-about": {
+  "title": "About the disease",
+  "author": "Solve M.E.",
+  "journal": null,
+  "year": 2026,
+  "url": "https://solvecfs.org/me-cfs-long-covid/about-the-disease/",
+  "type": "news",
+  "note": "Advocacy organisation estimate of 17–24 million people worldwide"
+ },
+ "pendergrast-2016": {
+  "title": "Housebound versus nonhousebound patients with myalgic encephalomyelitis and chronic fatigue syndrome",
+  "author": "Pendergrast T et al.",
+  "journal": "Chronic Illness",
+  "year": 2016,
+  "url": "https://doi.org/10.1177/1742395316644770",
+  "type": "observational",
+  "note": "Housebound patients made up one quarter of the sample"
+ },
+ "falk-hvidberg-2015": {
+  "title": "The health-related quality of life for patients with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)",
+  "author": "Falk Hvidberg M et al.",
+  "journal": "PLoS One",
+  "year": 2015,
+  "url": "https://doi.org/10.1371/journal.pone.0132421",
+  "type": "observational",
+  "note": "ME/CFS scored lowest of 20 compared conditions, including MS, rheumatoid arthritis, heart failure and cancers"
+ },
+ "katz-2009": {
+  "title": "Chronic fatigue syndrome after infectious mononucleosis in adolescents",
+  "author": "Katz BZ et al.",
+  "journal": "Pediatrics",
+  "year": 2009,
+  "url": "https://doi.org/10.1542/peds.2008-1879",
+  "type": "observational",
+  "note": "13%, 7% and 4% met CFS criteria at 6, 12 and 24 months"
+ },
+ "hickie-2006": {
+  "title": "Post-infective and chronic fatigue syndromes precipitated by viral and non-viral pathogens: prospective cohort study",
+  "author": "Hickie I et al. (Dubbo Infection Outcomes Study)",
+  "journal": "BMJ",
+  "year": 2006,
+  "url": "https://doi.org/10.1136/bmj.38933.585764.AE",
+  "type": "observational",
+  "note": "11% met CFS criteria at 6 months; predicted largely by the severity of the acute illness"
+ },
+ "kedor-2022": {
+  "title": "A prospective observational study of post-COVID-19 chronic fatigue syndrome following the first pandemic wave in Germany and biomarkers associated with symptom severity",
+  "author": "Kedor C et al.",
+  "journal": "Nature Communications",
+  "year": 2022,
+  "url": "https://doi.org/10.1038/s41467-022-32507-6",
+  "type": "observational",
+  "note": "19 of 42 patients referred with post-COVID fatigue (45%) met Canadian Consensus Criteria"
+ },
+ "gold-2021": {
+  "title": "Investigation of long COVID prevalence and its relationship to Epstein-Barr virus reactivation",
+  "author": "Gold JE et al.",
+  "journal": "Pathogens",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/pathogens10060763",
+  "type": "observational",
+  "note": "EBV reactivation in 67% of Long COVID patients vs 10% of controls"
+ },
+ "su-2022": {
+  "title": "Multiple early factors anticipate post-acute COVID-19 sequelae",
+  "author": "Su Y et al.",
+  "journal": "Cell",
+  "year": 2022,
+  "url": "https://doi.org/10.1016/j.cell.2022.01.014",
+  "type": "observational",
+  "note": "EBV viraemia was one of four factors predicting Long COVID"
+ },
+ "bjornevik-2022": {
+  "title": "Longitudinal analysis reveals high prevalence of Epstein-Barr virus associated with multiple sclerosis",
+  "author": "Bjornevik K et al.",
+  "journal": "Science",
+  "year": 2022,
+  "url": "https://doi.org/10.1126/science.abj8222",
+  "type": "observational",
+  "note": "Risk of MS rose 32-fold after EBV infection in more than 10 million people"
+ },
+ "nice-ng206": {
+  "title": "Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management (NG206)",
+  "author": "National Institute for Health and Care Excellence (UK)",
+  "journal": null,
+  "year": 2021,
+  "url": "https://www.nice.org.uk/guidance/ng206",
+  "type": "guideline"
+ },
+ "nice-ng206-severity": {
+  "title": "NG206 recommendations, Box 1: severity of ME/CFS",
+  "author": "National Institute for Health and Care Excellence (UK)",
+  "journal": null,
+  "year": 2021,
+  "url": "https://www.nice.org.uk/guidance/ng206/chapter/Recommendations#box-1-severity-of-mecfs",
+  "type": "guideline"
+ },
+ "cornell-cfrna-2025": {
+  "title": "Researchers identify key biomarkers for chronic fatigue syndrome",
+  "author": "Cornell Chronicle",
+  "journal": null,
+  "year": 2025,
+  "url": "https://news.cornell.edu/stories/2025/08/researchers-identify-key-biomarkers-chronic-fatigue-syndrome",
+  "type": "news"
+ },
+ "sa-dsp-medical": {
+  "title": "General medical rules for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.servicesaustralia.gov.au/general-medical-rules-for-disability-support-pension",
+  "type": "guideline"
+ },
+ "sa-dsp-nonmedical": {
+  "title": "Non-medical rules for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.servicesaustralia.gov.au/non-medical-rules-for-disability-support-pension",
+  "type": "guideline"
+ },
+ "impairment-tables-2023": {
+  "title": "Social Security (Tables for the Assessment of Work-related Impairment for Disability Support Pension) Determination 2023",
+  "author": "Australian Government (Federal Register of Legislation)",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.legislation.gov.au/F2023L00188/asmade",
+  "type": "guideline",
+  "note": "Table 1 (physical exertion and stamina) and Table 7 (brain function) both name ME/CFS"
+ },
+ "ssg-3-6-3-09": {
+  "title": "Social Security Guide 3.6.3.09: case examples of conditions that may be assessed across multiple tables",
+  "author": "Department of Social Services",
+  "journal": null,
+  "year": 2025,
+  "url": "https://guides.dss.gov.au/social-security-guide/3/6/3/09",
+  "type": "guideline",
+  "note": "Includes a worked ME/CFS example"
+ },
+ "ssg-3-6-3-10": {
+  "title": "Social Security Guide 3.6.3.10: guidelines to Table 1, functions requiring physical exertion and stamina",
+  "author": "Department of Social Services",
+  "journal": null,
+  "year": 2025,
+  "url": "https://guides.dss.gov.au/social-security-guide/3/6/3/10",
+  "type": "guideline"
+ },
+ "sa-dsp-pos": {
+  "title": "Program of Support for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/program-support-for-disability-support-pension",
+  "type": "guideline"
+ },
+ "sa-dsp-rates": {
+  "title": "Payment rates for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/payment-rates-for-disability-support-pension",
+  "type": "guideline",
+  "note": "Rates from 20 September 2026"
+ },
+ "sa-dsp-income": {
+  "title": "Income test for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/income-test-for-disability-support-payment",
+  "type": "guideline"
+ },
+ "sa-dsp-assets": {
+  "title": "Assets test for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/assets-test-for-disability-support-pension",
+  "type": "guideline"
+ },
+ "sa-dsp-working": {
+  "title": "Working while you get Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/working-while-you-get-disability-support-pension-dsp",
+  "type": "guideline"
+ },
+ "sa-dsp-evidence": {
+  "title": "Medical evidence for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.servicesaustralia.gov.au/medical-evidence-for-disability-support-pension",
+  "type": "guideline"
+ },
+ "ssg-3-6-2-10": {
+  "title": "Social Security Guide 3.6.2.10: medical evidence for DSP",
+  "author": "Department of Social Services",
+  "journal": null,
+  "year": 2023,
+  "url": "https://guides.dss.gov.au/social-security-guide/3/6/2/10",
+  "type": "guideline"
+ },
+ "sa-jca": {
+  "title": "Job Capacity Assessment for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/job-capacity-assessment-for-disability-support-pension",
+  "type": "guideline"
+ },
+ "sa-dma": {
+  "title": "Disability Medical Assessment for Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.servicesaustralia.gov.au/disability-medical-assessment-for-disability-support-pension",
+  "type": "guideline"
+ },
+ "sa-dsp-claim": {
+  "title": "How to claim Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/how-to-claim-disability-support-pension",
+  "type": "guideline"
+ },
+ "sa-dsp-first-payment": {
+  "title": "When you'll get your first Disability Support Pension payment",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/when-youll-get-your-first-disability-support-pension-payment",
+  "type": "guideline"
+ },
+ "sa-reviews": {
+  "title": "Explanations and formal reviews of a Centrelink decision",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/explanations-and-formal-reviews-centrelink-decision",
+  "type": "guideline"
+ },
+ "art-centrelink": {
+  "title": "Applying for review of a Centrelink decision",
+  "author": "Administrative Review Tribunal",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.art.gov.au/applying-review/centrelink",
+  "type": "guideline"
+ },
+ "eja-appeal": {
+  "title": "Appealing a Centrelink decision (factsheet)",
+  "author": "Economic Justice Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.ejaustralia.org.au/wp-content/uploads/EJA-Factsheet-Appealing-a-Centrelink-Decision.pdf",
+  "type": "guideline"
+ },
+ "eja-help": {
+  "title": "Legal help with Centrelink: member centres",
+  "author": "Economic Justice Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ejaustralia.org.au/legal-help/",
+  "type": "guideline"
+ },
+ "emerge-dsp": {
+  "title": "Disability Support Pension",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/disability-support-pension/",
+  "type": "guideline",
+  "note": "Includes a free online module and a template letter for health professionals"
+ },
+ "emerge-dsp-factsheet": {
+  "title": "DSP factsheet",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2023,
+  "url": "https://emerge.org.au/wp-content/uploads/2023/04/DSP_Factsheet.pdf",
+  "type": "guideline",
+  "note": "Some payment names and figures in this 2023 factsheet are out of date"
+ },
+ "dsphelp": {
+  "title": "DSP Help",
+  "author": "Social Security Rights Victoria",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.dsphelp.org.au/",
+  "type": "guideline"
+ },
+ "sa-jobseeker-who": {
+  "title": "Who can get JobSeeker Payment",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.servicesaustralia.gov.au/who-can-get-jobseeker-payment",
+  "type": "guideline"
+ },
+ "sa-jobseeker-rates": {
+  "title": "How much JobSeeker Payment you can get",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/how-much-jobseeker-payment-you-can-get",
+  "type": "guideline"
+ },
+ "sa-su415": {
+  "title": "Centrelink medical certificate (SU415)",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.servicesaustralia.gov.au/su415",
+  "type": "guideline"
+ },
+ "sa-jobseeker-medcert": {
+  "title": "What happens when you give us a medical certificate for JobSeeker Payment",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.servicesaustralia.gov.au/what-happens-when-you-give-us-medical-certificate-for-jobseeker-payment",
+  "type": "guideline"
+ },
+ "ssg-1-1-p-65": {
+  "title": "Social Security Guide 1.1.P.65: partial capacity to work",
+  "author": "Department of Social Services",
+  "journal": null,
+  "year": 2023,
+  "url": "https://guides.dss.gov.au/social-security-guide/1/1/p/65",
+  "type": "guideline"
+ },
+ "sa-ya-rates": {
+  "title": "How much Youth Allowance for job seekers you can get",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/how-much-youth-allowance-for-job-seekers-you-can-get",
+  "type": "guideline"
+ },
+ "sa-yds": {
+  "title": "Youth Disability Supplement",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/how-much-youth-disability-supplement-you-can-get",
+  "type": "guideline"
+ },
+ "sa-mobility": {
+  "title": "Mobility Allowance",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/mobility-allowance",
+  "type": "guideline"
+ },
+ "sa-carer-payment": {
+  "title": "Who can get Carer Payment",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/who-can-get-carer-payment",
+  "type": "guideline"
+ },
+ "sa-carer-payment-rates": {
+  "title": "How much Carer Payment you can get",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/how-much-carer-payment-you-can-get",
+  "type": "guideline"
+ },
+ "sa-carer-allowance": {
+  "title": "Who can get Carer Allowance",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/who-can-get-carer-allowance",
+  "type": "guideline"
+ },
+ "sa-carer-allowance-rates": {
+  "title": "How much Carer Allowance you can get",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/how-much-carer-allowance-you-can-get",
+  "type": "guideline"
+ },
+ "sa-pcc": {
+  "title": "Who can get a Pensioner Concession Card",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/who-can-get-pensioner-concession-card",
+  "type": "guideline"
+ },
+ "sa-hcc": {
+  "title": "Who can get a Health Care Card",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/who-can-get-health-care-card",
+  "type": "guideline"
+ },
+ "sa-emep": {
+  "title": "Essential Medical Equipment Payment",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/who-can-get-essential-medical-equipment-payment-and-how-much-you-can-get",
+  "type": "guideline"
+ },
+ "sa-rent": {
+  "title": "How much Rent Assistance you can get",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/how-much-rent-assistance-you-can-get",
+  "type": "guideline"
+ },
+ "sa-social-work": {
+  "title": "Social work services",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/social-work-services",
+  "type": "guideline"
+ },
+ "sa-dsp-help": {
+  "title": "Getting help with Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.servicesaustralia.gov.au/getting-help-with-disability-support-pension",
+  "type": "guideline"
+ },
+ "ndh": {
+  "title": "National Debt Helpline",
+  "author": "Financial Counselling Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://ndh.org.au/",
+  "type": "guideline"
+ },
+ "dss-rates-sep-2026": {
+  "title": "Social security payment rates from 20 September 2026 (indexation)",
+  "author": "Department of Social Services",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.dss.gov.au/system/files/documents/2026-08/rates-list-20-september-2026.pdf",
+  "type": "report"
+ },
+ "rowe-pc-2017": {
+  "title": "Myalgic encephalomyelitis/chronic fatigue syndrome diagnosis and management in young people: a primer",
+  "author": "Rowe PC et al.",
+  "journal": "Frontiers in Pediatrics",
+  "year": 2017,
+  "url": "https://doi.org/10.3389/fped.2017.00121",
+  "type": "guideline",
+  "note": "International paediatric primer; authors include Australian and US specialists"
+ },
+ "jason-2020-peds": {
+  "title": "The prevalence of pediatric myalgic encephalomyelitis/chronic fatigue syndrome in a community-based sample",
+  "author": "Jason LA et al.",
+  "journal": "Child & Youth Care Forum",
+  "year": 2020,
+  "url": "https://doi.org/10.1007/s10566-019-09543-3",
+  "type": "observational",
+  "note": "10,119 US children aged 5–17; prevalence 0.75%; fewer than 5% previously diagnosed"
+ },
+ "iom-2015-peds": {
+  "title": "Beyond ME/CFS: Redefining an Illness, chapter 7: pediatric ME/CFS",
+  "author": "Institute of Medicine (US)",
+  "journal": "National Academies Press",
+  "year": 2015,
+  "url": "https://www.nationalacademies.org/read/19012/chapter/8",
+  "type": "report"
+ },
+ "rch-cfs-factsheet": {
+  "title": "Chronic fatigue syndrome (Kids Health Info fact sheet)",
+  "author": "Royal Children's Hospital Melbourne",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Chronic_Fatigue_Syndrome/",
+  "type": "guideline"
+ },
+ "rch-cfs-referral": {
+  "title": "Chronic fatigue: specialist clinic referral guidelines",
+  "author": "Royal Children's Hospital Melbourne",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.rch.org.au/specialist-clinics/referring-guidelines/Chronic_fatigue/",
+  "type": "guideline"
+ },
+ "rowe-k-2019": {
+  "title": "Long term follow up of young people with chronic fatigue syndrome attending a pediatric outpatient service",
+  "author": "Rowe KS",
+  "journal": "Frontiers in Pediatrics",
+  "year": 2019,
+  "url": "https://doi.org/10.3389/fped.2019.00021",
+  "type": "observational",
+  "note": "784 young people diagnosed at the Royal Children's Hospital Melbourne 1991–2009; 38% reported recovery by 5 years and 68% by 10 years"
+ },
+ "knight-2013": {
+  "title": "Chronic fatigue syndrome in adolescents: practical guidelines and complex presentations and protracted time to diagnosis",
+  "author": "Knight S et al.",
+  "journal": "Journal of Paediatrics and Child Health",
+  "year": 2013,
+  "url": "https://doi.org/10.1111/jpc.12429",
+  "type": "observational",
+  "note": "Median 15.5 months from symptom onset to diagnosis at an Australian clinic"
+ },
+ "knight-2018": {
+  "title": "School functioning in adolescents with chronic fatigue syndrome",
+  "author": "Knight SJ et al.",
+  "journal": "Frontiers in Pediatrics",
+  "year": 2018,
+  "url": "https://doi.org/10.3389/fped.2018.00302",
+  "type": "observational",
+  "note": "Adolescents with CFS missed 42% of the school term vs 5% for healthy peers"
+ },
+ "josev-2021": {
+  "title": "Trajectories of illness in adolescents with ME/CFS: a two-year follow-up",
+  "author": "Josev EK et al.",
+  "journal": "Journal of Clinical Medicine",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/jcm10163603",
+  "type": "observational",
+  "note": "65% still met criteria about 2 years after diagnosis"
+ },
+ "jason-2006-peds": {
+  "title": "A pediatric case definition for myalgic encephalomyelitis and chronic fatigue syndrome",
+  "author": "Jason LA et al. (IACFS)",
+  "journal": "Journal of Chronic Fatigue Syndrome",
+  "year": 2006,
+  "url": "https://solvecfs.org/wp-content/uploads/2013/06/pediatriccasedefinitionshort.pdf",
+  "type": "guideline"
+ },
+ "rowe-pc-oi-2014": {
+  "title": "General information brochure on orthostatic intolerance and its treatment",
+  "author": "Rowe PC, Johns Hopkins Children's Center",
+  "journal": null,
+  "year": 2014,
+  "url": "https://www.dysautonomiainternational.org/pdf/RoweOIsummary.pdf",
+  "type": "guideline"
+ },
+ "rowe-pc-oi-2020": {
+  "title": "Managing orthostatic intolerance in adolescents (presentation)",
+  "author": "Rowe PC",
+  "journal": null,
+  "year": 2020,
+  "url": "https://www.me-foreningen.no/wp-content/uploads/2020/11/Managing-Orthostatic-Intolerance-in-Adolescents-Rowe-20201124.pdf",
+  "type": "guideline",
+  "note": "In adolescents, POTS is defined by a heart rate rise of 40 or more beats per minute"
+ },
+ "crawley-2018-smile": {
+  "title": "Clinical and cost-effectiveness of the Lightning Process in addition to specialist medical care for paediatric chronic fatigue syndrome: randomised controlled trial (SMILE)",
+  "author": "Crawley EM et al.",
+  "journal": "Archives of Disease in Childhood",
+  "year": 2018,
+  "url": "https://doi.org/10.1136/archdischild-2017-313375",
+  "type": "rct",
+  "note": "The journal later published an editor's note and correction; the primary outcome was changed after recruitment began and all outcomes were self-reported and unblinded"
+ },
+ "adc-smile-correction": {
+  "title": "Editor's note and correction: SMILE trial",
+  "author": "Archives of Disease in Childhood",
+  "journal": null,
+  "year": 2019,
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6889742/",
+  "type": "news"
+ },
+ "crawley-2024-fitnet": {
+  "title": "FITNET-NHS: online CBT versus activity management for paediatric CFS/ME",
+  "author": "Crawley E et al.",
+  "journal": "Health Technology Assessment",
+  "year": 2024,
+  "url": "https://doi.org/10.3310/vlrw6701",
+  "type": "rct",
+  "note": "314 adolescents; small difference at 6 months, none at 12 months; unlikely to be cost-effective"
+ },
+ "emerge-school": {
+  "title": "Your child or young person with ME/CFS and school",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/your-child-or-young-person-with-me-cfs-and-school/",
+  "type": "guideline"
+ },
+ "emerge-education-adjustments": {
+  "title": "Education adjustments for ME/CFS or long COVID",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/education-adjustments-for-me-cfs-or-long-covid/",
+  "type": "guideline"
+ },
+ "emerge-school-flyer": {
+  "title": "ME/CFS: information for school nurses",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2023,
+  "url": "https://emerge.org.au/wp-content/uploads/2023/04/Emerge_Australia_School_Nurse_Flyer_MECFS.pdf",
+  "type": "guideline"
+ },
+ "nsw-distance-ed": {
+  "title": "Distance education",
+  "author": "NSW Department of Education",
+  "journal": null,
+  "year": 2026,
+  "url": "https://education.nsw.gov.au/teaching-and-learning/unique-settings/distance-education",
+  "type": "guideline"
+ },
+ "vsv": {
+  "title": "Virtual School Victoria",
+  "author": "Virtual School Victoria",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.vsv.vic.edu.au/",
+  "type": "guideline"
+ },
+ "brisbane-sde": {
+  "title": "Brisbane School of Distance Education",
+  "author": "Queensland Department of Education",
+  "journal": null,
+  "year": 2026,
+  "url": "https://brisbanesde.eq.edu.au/",
+  "type": "guideline"
+ },
+ "side-wa": {
+  "title": "School of Isolated and Distance Education",
+  "author": "WA Department of Education",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.side.wa.edu.au/",
+  "type": "guideline"
+ },
+ "oac-sa": {
+  "title": "Open Access College",
+  "author": "SA Department for Education",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.openaccess.edu.au/",
+  "type": "guideline"
+ },
+ "rch-school": {
+  "title": "Yalingbu Yirramboi: The Royal Children's Hospital School",
+  "author": "Royal Children's Hospital Melbourne",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.rch.org.au/education/",
+  "type": "guideline"
+ },
+ "schn-schools": {
+  "title": "Hospital schools",
+  "author": "Sydney Children's Hospitals Network",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.schn.health.nsw.gov.au/hospital-schools",
+  "type": "guideline"
+ },
+ "ssen-mmh": {
+  "title": "School of Special Educational Needs: Medical and Mental Health",
+  "author": "WA Department of Education",
+  "journal": null,
+  "year": 2026,
+  "url": "https://ssenmmh.wa.edu.au/",
+  "type": "guideline"
+ },
+ "nesa-provisions": {
+  "title": "HSC exam provisions",
+  "author": "NSW Education Standards Authority",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.nsw.gov.au/education-and-training/nesa/hsc/disability-provisions",
+  "type": "guideline"
+ },
+ "vcaa-special-provision": {
+  "title": "Special provision",
+  "author": "Victorian Curriculum and Assessment Authority",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.vcaa.vic.edu.au/administration/special-provision/Pages/index.aspx",
+  "type": "guideline"
+ },
+ "sace-special-provisions": {
+  "title": "Special provisions",
+  "author": "SACE Board of South Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.sace.sa.edu.au/web/special-provisions",
+  "type": "guideline"
+ },
+ "adcet": {
+  "title": "Students with disability",
+  "author": "Australian Disability Clearinghouse on Education and Training",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.adcet.edu.au/students-with-disability",
+  "type": "guideline"
+ },
+ "sa-cdap": {
+  "title": "Child Disability Assistance Payment",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.servicesaustralia.gov.au/child-disability-assistance-payment",
+  "type": "guideline"
+ },
+ "cdc-peds": {
+  "title": "Pediatric ME/CFS (clinical care)",
+  "author": "US Centers for Disease Control and Prevention",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.cdc.gov/me-cfs/hcp/clinical-care/pediatric-me-cfs.html",
+  "type": "guideline"
+ },
+ "britton-2025": {
+  "title": "Post-COVID-19 condition in children and adolescents after the Delta outbreak in New South Wales",
+  "author": "Britton PN et al.",
+  "journal": "Pediatric Research",
+  "year": 2025,
+  "url": "https://doi.org/10.1038/s41390-024-03492-x",
+  "type": "observational",
+  "note": "Most children recovered by 12 weeks; long COVID was infrequent but a significant burden where it occurred"
+ },
+ "zimmermann-2021": {
+  "title": "How common is long COVID in children and adolescents?",
+  "author": "Zimmermann P, Pittet LF, Curtis N",
+  "journal": "Pediatric Infectious Disease Journal",
+  "year": 2021,
+  "url": "https://doi.org/10.1097/INF.0000000000003328",
+  "type": "observational",
+  "note": "Review of 14 studies; most had major limitations"
+ },
+ "engelberts-2025": {
+  "title": "Long COVID among young people in Victoria: a cross-sectional survey",
+  "author": "Engelberts R et al.",
+  "journal": "Public Health Challenges",
+  "year": 2025,
+  "url": "https://doi.org/10.1002/puh2.70144",
+  "type": "observational",
+  "note": "11% of 765 Victorians aged 15–29 reported long COVID; only about 1 in 10 had a formal diagnosis"
+ },
+ "who-pcc-2021": {
+  "title": "A clinical case definition of post COVID-19 condition by a Delphi consensus",
+  "author": "World Health Organization",
+  "journal": null,
+  "year": 2021,
+  "url": "https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1",
+  "type": "guideline"
+ },
+ "gov-response-2024": {
+  "title": "Sick and tired: casting a long shadow. Australian Government response to the inquiry into long COVID",
+  "author": "Australian Government Department of Health and Aged Care",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.health.gov.au/resources/publications/sick-and-tired-casting-a-long-shadow-australian-government-response-to-the-inquiry-into-long-covid",
+  "type": "report"
+ },
+ "pasc-plan-2024": {
+  "title": "National Post-Acute Sequelae of COVID-19 (PASC) Plan",
+  "author": "Australian Government Department of Health and Aged Care",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.health.gov.au/sites/default/files/2024-02/national-post-acute-sequelae-of-covid-19-plan.pdf",
+  "type": "report"
+ },
+ "inquiry-2023": {
+  "title": "Sick and tired: casting a long shadow. Inquiry into long COVID and repeated COVID infections",
+  "author": "House of Representatives Standing Committee on Health, Aged Care and Sport",
+  "journal": null,
+  "year": 2023,
+  "url": "https://apo.org.au/node/322501",
+  "type": "report"
+ },
+ "aihw-longcovid-2022": {
+  "title": "Long COVID in Australia: a review of the literature",
+  "author": "Australian Institute of Health and Welfare",
+  "journal": null,
+  "year": 2022,
+  "url": "https://www.aihw.gov.au/reports/covid-19/long-covid-in-australia-a-review-of-the-literature/summary",
+  "type": "report",
+  "note": "Around 5–10% of Australian COVID-19 cases reported symptoms lasting more than 3 months"
+ },
+ "woldegiorgis-2024": {
+  "title": "Long COVID in a highly vaccinated but largely unexposed Australian population following the 2022 SARS-CoV-2 Omicron wave",
+  "author": "Woldegiorgis M et al.",
+  "journal": "Medical Journal of Australia",
+  "year": 2024,
+  "url": "https://doi.org/10.5694/mja2.52256",
+  "type": "observational",
+  "note": "18% of 11,697 Western Australians reported long COVID 90 days after infection; response rate limitations noted by critics"
+ },
+ "costantino-2024": {
+  "title": "Public health and economic burden of long COVID in Australia, 2022–24: a modelling study",
+  "author": "Costantino V et al. (MacIntyre CR)",
+  "journal": "Medical Journal of Australia",
+  "year": 2024,
+  "url": "https://doi.org/10.5694/mja2.52400",
+  "type": "observational",
+  "note": "Modelled 310,000 to 1.37 million Australians with long COVID at the September 2022 peak"
+ },
+ "holland-2024": {
+  "title": "The Alfred Health post-COVID-19 service, Melbourne, 2020–2022: an observational cohort study",
+  "author": "Holland AE et al.",
+  "journal": "Medical Journal of Australia",
+  "year": 2024,
+  "url": "https://doi.org/10.5694/mja2.52192",
+  "type": "observational"
+ },
+ "vernon-2025": {
+  "title": "Incidence and prevalence of post-COVID-19 ME/CFS: a RECOVER-Adult study",
+  "author": "Vernon SD et al.",
+  "journal": "Journal of General Internal Medicine",
+  "year": 2025,
+  "url": "https://doi.org/10.1007/s11606-024-09290-9",
+  "type": "observational",
+  "note": "4.5% of infected adults met ME/CFS criteria vs 0.6% of uninfected"
+ },
+ "jason-dorri-2022": {
+  "title": "ME/CFS and post-exertional malaise among patients with long COVID",
+  "author": "Jason LA, Dorri JA",
+  "journal": "Neurology International",
+  "year": 2022,
+  "url": "https://doi.org/10.3390/neurolint15010001",
+  "type": "observational",
+  "note": "58% of 465 adults with long COVID met ME/CFS criteria"
+ },
+ "meruk-lc-prevalence": {
+  "title": "Estimating ME/CFS prevalence in individuals with long COVID",
+  "author": "ME Research UK",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.meresearch.org.uk/estimating-me-cfs-prevalence-in-individuals-with-long-covid/",
+  "type": "news"
+ },
+ "emerge-lc-position": {
+  "title": "Links between ME/CFS and long COVID: position statement",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2023,
+  "url": "https://emerge.org.au/links-between-me-cfs-and-long-covid-position-statement/",
+  "type": "guideline"
+ },
+ "griffith-lc-2024": {
+  "title": "Health outcomes for long COVID are comparable with ME/CFS",
+  "author": "Griffith University News",
+  "journal": null,
+  "year": 2024,
+  "url": "https://news.griffith.edu.au/2024/03/15/health-outcomes-for-long-covid-are-comparable-with-me-cfs/",
+  "type": "news"
+ },
+ "mrff-2023": {
+  "title": "$50 million for research into long COVID",
+  "author": "Minister for Health and Aged Care",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/50-million-for-research-in-to-long-covid",
+  "type": "news"
+ },
+ "mrff-2026": {
+  "title": "MRFF: $23 million for research into post-acute sequelae of COVID-19",
+  "author": "Australian Government Department of Health, Disability and Ageing",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/news/mrff-23-million-for-research-into-post-acute-sequelae-of-covid-19",
+  "type": "news",
+  "note": "The 2026 round includes a stream comparing PASC with ME/CFS, POTS and fibromyalgia"
+ },
+ "unsw-lc-2026": {
+  "title": "$4.7 million for UNSW researchers to investigate long COVID",
+  "author": "UNSW Newsroom",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.unsw.edu.au/newsroom/news/2026/01/4-7-million-for-unsw-researchers-to-investigate-long-covid",
+  "type": "news"
+ },
+ "livingevidence-covid": {
+  "title": "COVID-19 living guidelines (retired)",
+  "author": "Australian Living Evidence Collaboration",
+  "journal": null,
+  "year": 2026,
+  "url": "https://livingevidence.org.au/living-guidelines/covid-19/",
+  "type": "guideline"
+ },
+ "racp-clinics-2023": {
+  "title": "Long COVID patients suffering as clinics shut down across the country",
+  "author": "Royal Australasian College of Physicians",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.racp.edu.au/news-and-events/media-releases/long-covid-patients-suffering-as-clinics-shut-down-across-the-country",
+  "type": "news"
+ },
+ "abc-clinics-2025": {
+  "title": "Calls for more specialist treatment into long COVID as clinics close",
+  "author": "ABC News",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.abc.net.au/news/2025-11-01/calls-for-more-specialist-treatment-into-long-covid/105836026",
+  "type": "news"
+ },
+ "abc-stvincents-2025": {
+  "title": "St Vincent's Hospital long COVID clinic closing",
+  "author": "ABC News",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.abc.net.au/news/2025-09-18/nsw-sydney-long-covid-clinic-st-vincents-hospital-closing/105786680",
+  "type": "news"
+ },
+ "sydney-virtual-lc": {
+  "title": "Long COVID program",
+  "author": "Sydney Local Health District (rpavirtual)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://slhd.health.nsw.gov.au/sydney-virtual/services/long-covid-program",
+  "type": "guideline"
+ },
+ "alfred-post-covid": {
+  "title": "Post-COVID service",
+  "author": "Alfred Health",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.alfredhealth.org.au/services/post-covid-service",
+  "type": "guideline"
+ },
+ "emhs-post-covid": {
+  "title": "EMHS Post COVID-19 Clinic",
+  "author": "East Metropolitan Health Service (WA)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emhs.health.wa.gov.au/Hospitals-and-Services/Services/EMHS-Post-COVID-19-Clinic",
+  "type": "guideline"
+ },
+ "brindabella": {
+  "title": "Brindabella Day and Ambulatory Rehabilitation Service",
+  "author": "Canberra Health Services",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.canberrahealthservices.act.gov.au/services-and-clinics/services/brindabella-day-and-ambulatory-rehabilitation-service",
+  "type": "guideline"
+ },
+ "lungfoundation-lc": {
+  "title": "Long COVID",
+  "author": "Lung Foundation Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://lungfoundation.com.au/lung-diseases/respiratory-infections/long-covid/",
+  "type": "guideline"
+ },
+ "coverse-clinics": {
+  "title": "Long COVID clinics",
+  "author": "COVERSE",
+  "journal": null,
+  "year": 2026,
+  "url": "https://coverse.org.au/long-covid-clinics/",
+  "type": "guideline"
+ },
+ "clinic-nineteen": {
+  "title": "Clinic Nineteen",
+  "author": "Clinic Nineteen",
+  "journal": null,
+  "year": 2026,
+  "url": "https://clinicnineteen.com.au/",
+  "type": "guideline"
+ },
+ "healthdirect-lc": {
+  "title": "Long COVID",
+  "author": "healthdirect",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.healthdirect.gov.au/long-covid",
+  "type": "guideline"
+ },
+ "mbs-ccm-2025": {
+  "title": "Upcoming changes to MBS chronic disease management arrangements",
+  "author": "Australian Government Department of Health",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.health.gov.au/our-work/upcoming-changes-to-mbs-chronic-disease-management-arrangements",
+  "type": "guideline"
+ },
+ "svhs-adapt": {
+  "title": "ADAPT study",
+  "author": "St Vincent's Hospital Sydney",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.svhs.org.au/research-education/participating-in-research-trials/adapt-study",
+  "type": "registry"
+ },
+ "burnet-heal": {
+  "title": "Testing treatments for long COVID: a collaborative clinical trial (HEAL APT)",
+  "author": "Burnet Institute",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.burnet.edu.au/our-work/projects/testing-treatments-for-long-covid-a-collaborative-clinical-trial/",
+  "type": "registry"
+ },
+ "stronger": {
+  "title": "STRONGER study (atorvastatin for long COVID)",
+  "author": "The George Institute for Global Health",
+  "journal": null,
+  "year": 2025,
+  "url": "https://strongerstudy.georgeinstitute.org/",
+  "type": "registry"
+ },
+ "cre-paving": {
+  "title": "Long COVID Conference 2026",
+  "author": "CRE-PAVING",
+  "journal": null,
+  "year": 2026,
+  "url": "https://cre-paving.org/long-covid-conferences/lcc-2026/",
+  "type": "news"
+ },
+ "green-2025": {
+  "title": "Vaccination and the risk of long COVID: a systematic review and meta-analysis",
+  "author": "Green A et al.",
+  "journal": "Nature Communications",
+  "year": 2025,
+  "url": "https://doi.org/10.1038/s41467-025-65302-0",
+  "type": "observational",
+  "note": "31 studies; vaccination associated with about 23% lower odds of long COVID; boosters lower still; evidence quality low"
+ },
+ "catala-2024": {
+  "title": "The effectiveness of COVID-19 vaccines to prevent long COVID symptoms: staggered cohort study of data from the UK, Spain, and Estonia",
+  "author": "Català M et al.",
+  "journal": "Lancet Respiratory Medicine",
+  "year": 2024,
+  "url": "https://doi.org/10.1016/S2213-2600(23)00414-9",
+  "type": "observational"
+ },
+ "pax-lc-2025": {
+  "title": "Nirmatrelvir-ritonavir for long COVID (PAX LC): a randomised, placebo-controlled trial",
+  "author": "Iwasaki A et al.",
+  "journal": "Lancet Infectious Diseases",
+  "year": 2025,
+  "url": "https://doi.org/10.1016/S1473-3099(25)00073-8",
+  "type": "rct",
+  "note": "n=100; no benefit for established long COVID"
+ },
+ "ons-reinfection-2023": {
+  "title": "Risk of new-onset long COVID following reinfection with SARS-CoV-2: community-based cohort study",
+  "author": "Bosworth ML et al. (UK Office for National Statistics)",
+  "journal": "Open Forum Infectious Diseases",
+  "year": 2023,
+  "url": "https://doi.org/10.1093/ofid/ofad493",
+  "type": "observational",
+  "note": "New long COVID after a first infection 4.0% vs 2.4% after reinfection"
+ },
+ "zhang-2026-reinfection": {
+  "title": "Reinfection and post-acute sequelae of SARS-CoV-2 in children and adolescents",
+  "author": "Zhang Y et al. (RECOVER)",
+  "journal": "Lancet Infectious Diseases",
+  "year": 2026,
+  "url": "https://doi.org/10.1016/S1473-3099(25)00476-1",
+  "type": "observational",
+  "note": "Reinfection roughly doubled the risk of a long COVID diagnosis in children"
+ },
+ "health-vaccination": {
+  "title": "Getting your COVID-19 vaccination",
+  "author": "Australian Government Department of Health",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/our-work/covid-19-vaccines/getting-your-vaccination",
+  "type": "guideline"
+ },
+ "emerge-lc": {
+  "title": "Long COVID",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/long-covid/",
+  "type": "guideline"
+ },
+ "emerge-telehealth": {
+  "title": "Telehealth support call service",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "http://emerge.org.au/telehealth-service/",
+  "type": "guideline"
+ },
+ "lcsa": {
+  "title": "Long COVID Support Australia",
+  "author": "Long COVID Support Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.longcovidsupportaustralia.com.au/about-us",
+  "type": "guideline"
+ },
+ "lcac": {
+  "title": "Long-COVID Australia Collaboration",
+  "author": "Long-COVID Australia Collaboration",
+  "journal": null,
+  "year": 2026,
+  "url": "https://longcovid.org.au/get-help/",
+  "type": "guideline"
+ },
+ "fairwork-sick": {
+  "title": "Sick and carer's leave",
+  "author": "Fair Work Ombudsman",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.fairwork.gov.au/leave/sick-and-carers-leave",
+  "type": "guideline"
+ },
+ "fairwork-flex": {
+  "title": "Flexible working arrangements",
+  "author": "Fair Work Ombudsman",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.fairwork.gov.au/employment-conditions/flexibility-in-the-workplace/flexible-working-arrangements",
+  "type": "guideline"
+ },
+ "fairwork-discrim": {
+  "title": "Protection from discrimination at work",
+  "author": "Fair Work Ombudsman",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.fairwork.gov.au/employment-conditions/protections-at-work/protection-from-discrimination-at-work",
+  "type": "guideline"
+ },
+ "cdc-severe": {
+  "title": "ME/CFS clinical care for severely affected patients",
+  "author": "US Centers for Disease Control and Prevention",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.cdc.gov/me-cfs/hcp/clinical-care/me-cfs-clinical-care-for-severely-affected-patients.html",
+  "type": "guideline"
+ },
+ "kingdon-2020": {
+  "title": "Health care responsibility and compassion: visiting the housebound patient severely affected by ME/CFS",
+  "author": "Kingdon C, Giotas D, Nacul L, Lacerda E",
+  "journal": "Healthcare",
+  "year": 2020,
+  "url": "https://doi.org/10.3390/healthcare8030197",
+  "type": "observational",
+  "note": "About 25% of people with ME/CFS are severely affected; practical advice from the UK ME/CFS Biobank's home-visit programme"
+ },
+ "conroy-2021": {
+  "title": "Homebound versus bedridden status among those with ME/CFS",
+  "author": "Conroy K, Bhatia S, Islam M, Jason LA",
+  "journal": "Healthcare",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/healthcare9020106",
+  "type": "observational",
+  "note": "Of 2,138 participants, 549 were homebound and 89 bedridden"
+ },
+ "emerge-severe": {
+  "title": "Severe ME/CFS",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/severe-me-cfs/",
+  "type": "guideline"
+ },
+ "emerge-bedbound": {
+  "title": "Caring for people with ME/CFS who are bedbound",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/caring-for-people-with-me-cfs-who-are-bedbound/",
+  "type": "guideline"
+ },
+ "emerge-acp": {
+  "title": "Advance care planning",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/advanced-care-planning/",
+  "type": "guideline"
+ },
+ "bhc-guide-2025": {
+  "title": "ME/CFS clinical care guide, first edition, chapter 14: spectrum of severity",
+  "author": "Bateman Horne Center",
+  "journal": null,
+  "year": 2025,
+  "url": "https://batemanhornecenter.org/wp-content/uploads/2025/05/Clinical-Care-Guide-First-Edition-2025.pdf",
+  "type": "guideline"
+ },
+ "montoya-2021": {
+  "title": "Caring for the patient with severe or very severe ME/CFS",
+  "author": "Montoya JG, Dowell TG, Mooney AE, Dimmock ME, Chu L",
+  "journal": "Healthcare",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/healthcare9101331",
+  "type": "guideline"
+ },
+ "hermisson-2026": {
+  "title": "Guidance on home-based care for people with severe ME/CFS: a transdisciplinary expert statement",
+  "author": "Hermisson J et al.",
+  "journal": "Wiener Medizinische Wochenschrift",
+  "year": 2026,
+  "url": "https://doi.org/10.1007/s10354-026-01182-3",
+  "type": "guideline"
+ },
+ "baxter-2021": {
+  "title": "Life-threatening malnutrition in very severe ME/CFS",
+  "author": "Baxter H, Speight N, Weir W",
+  "journal": "Healthcare",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/healthcare9040459",
+  "type": "observational",
+  "note": "Five UK cases where delayed tube feeding led to life-threatening malnutrition; all had been given inappropriate psychiatric labels"
+ },
+ "dafoe-2021": {
+  "title": "Extremely severe ME/CFS: a personal account",
+  "author": "Dafoe W",
+  "journal": "Healthcare",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/healthcare9050504",
+  "type": "observational"
+ },
+ "van-campen-2020a": {
+  "title": "Cerebral blood flow is reduced in severe ME/CFS patients during mild orthostatic stress testing: an exploratory study at 20 degrees of head-up tilt testing",
+  "author": "van Campen CMC, Rowe PC, Visser FC",
+  "journal": "Healthcare",
+  "year": 2020,
+  "url": "https://doi.org/10.3390/healthcare8020169",
+  "type": "observational",
+  "note": "A mild 20-degree tilt reduced cerebral blood flow by about 27% in 19 severely affected patients"
+ },
+ "van-campen-2020b": {
+  "title": "Reductions in cerebral blood flow can be provoked by sitting in severe ME/CFS patients",
+  "author": "van Campen CMC, Rowe PC, Visser FC",
+  "journal": "Healthcare",
+  "year": 2020,
+  "url": "https://doi.org/10.3390/healthcare8040394",
+  "type": "observational",
+  "note": "Simply sitting up reduced cerebral blood flow by about 25% in 100 severe patients, versus 0.4% in controls"
+ },
+ "chang-2021": {
+  "title": "A comprehensive examination of severely ill ME/CFS patients",
+  "author": "Chang CJ et al. (Davis RW)",
+  "journal": "Healthcare",
+  "year": 2021,
+  "url": "https://doi.org/10.3390/healthcare9101290",
+  "type": "observational",
+  "note": "Stanford Severely Ill Patient Study; 20 patients and 10 controls; low morning cortisol"
+ },
+ "hospital-pack-2024": {
+  "title": "Supporting people with ME/CFS in hospital",
+  "author": "25% ME Group, Action for M.E., BRAME and ME Association",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.actionforme.org.uk/wp-content/uploads/2025/03/Supporting-people-with-ME-CFS-in-hospital.pdf",
+  "type": "guideline",
+  "note": "Includes a hospital passport template and door signs"
+ },
+ "wma-hospital-2024": {
+  "title": "Safer hospital care for severe ME",
+  "author": "World ME Alliance",
+  "journal": null,
+  "year": 2024,
+  "url": "http://worldmealliance.org/2024/08/safer-hospital-care-for-severe-me-severemeday-2024/",
+  "type": "guideline"
+ },
+ "royal-devon-2024": {
+  "title": "Planned and unplanned admission process for severe or very severe adult ME patients: clinical guidance",
+  "author": "Royal Devon University Healthcare NHS Foundation Trust",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.royaldevon.nhs.uk/media/nfapr5s4/planned-and-unplanned-admission-process-for-severe-or-very-severe-me-patients-clinical-guidance-v1-1b-007.pdf",
+  "type": "guideline"
+ },
+ "pfd-2024": {
+  "title": "Maeve Boothby O'Neill: prevention of future deaths report",
+  "author": "HM Coroner for Exeter and Greater Devon (Archer D)",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.judiciary.uk/prevention-of-future-death-reports/maeve-boothby-oneill-prevention-of-future-deaths-report/",
+  "type": "report"
+ },
+ "meruk-inquest-2024": {
+  "title": "Maeve Boothby O'Neill's inquest: coroner's conclusions",
+  "author": "ME Research UK",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.meresearch.org.uk/maeve-boothby-oneills-inquest-coroners-conclusions/",
+  "type": "news"
+ },
+ "dhsc-plan-2025": {
+  "title": "ME/CFS: the final delivery plan",
+  "author": "UK Department of Health and Social Care",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.gov.uk/government/publications/mecfs-the-final-delivery-plan",
+  "type": "report"
+ },
+ "severe-inquiry-2026": {
+  "title": "The more ill you become, the less care you receive: severe ME inquiry report",
+  "author": "Action for M.E. and the 25% ME Group",
+  "journal": null,
+  "year": 2026,
+  "url": "https://25megroup.org/charity-group-news/the-more-ill-you-become-the-less-care-you-receive-severe-me-inquiry-report/",
+  "type": "report"
+ },
+ "dialogues-severe": {
+  "title": "Dialogues for ME/CFS: severe and very severe ME/CFS (films)",
+  "author": "Boulton N, Biggs J (Wellcome-funded)",
+  "journal": null,
+  "year": 2020,
+  "url": "https://www.dialogues-mecfs.co.uk/films/severeme/",
+  "type": "guideline"
+ },
+ "nhmrc-guideline-dev": {
+  "title": "ME/CFS clinical practice guideline development",
+  "author": "National Health and Medical Research Council (Australia)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.nhmrc.gov.au/health-advice/me-cfs/guideline-development",
+  "type": "guideline",
+  "note": "Indicative timeline: draft guideline in 2027, release by late 2027 or 2028"
+ },
+ "nhmrc-scope": {
+  "title": "ME/CFS guideline: scoping survey",
+  "author": "National Health and Medical Research Council (Australia)",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.nhmrc.gov.au/health-advice/me-cfs/scope",
+  "type": "report"
+ },
+ "access-nct": {
+  "title": "ACCESS: outreach medical care for housebound patients with post-COVID-19 syndrome or ME/CFS (NCT07352254)",
+  "author": "Hannover Medical School",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT07352254",
+  "type": "registry"
+ },
+ "saugstad-2025": {
+  "title": "Specialised care for severely affected ME/CFS patients",
+  "author": "Saugstad O, Sollie MG, Torp H, Storla D",
+  "journal": "Fatigue: Biomedicine, Health & Behavior",
+  "year": 2025,
+  "url": "https://doi.org/10.1080/21641846.2025.2565101",
+  "type": "observational",
+  "note": "24 severely ill patients at a specialised Norwegian unit; half improved"
+ },
+ "edwards-2024": {
+  "title": "Management of nutritional failure in people with severe ME/CFS: review of the case for supplementing NICE guideline NG206",
+  "author": "Edwards J",
+  "journal": "Qeios (preprint)",
+  "year": 2024,
+  "url": "https://doi.org/10.32388/t9sxeu.2",
+  "type": "hypothesis"
+ },
+ "bacme-tube-2026": {
+  "title": "BACME ME/CFS tube feeding survey report (summary)",
+  "author": "ME Association",
+  "journal": null,
+  "year": 2026,
+  "url": "https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/",
+  "type": "news"
+ },
+ "mea-nutrition": {
+  "title": "Nutrition assessment and malnutrition (leaflet)",
+  "author": "ME Association",
+  "journal": null,
+  "year": 2025,
+  "url": "https://meassociation.org.uk/literature/items/nutrition-assessment-malnutrition/",
+  "type": "guideline"
+ },
+ "carer-gateway-respite": {
+  "title": "Planned and emergency respite",
+  "author": "Carer Gateway",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.carergateway.gov.au/help-and-support/caring-me/available-support-carers/planned-emergency-respite",
+  "type": "guideline"
+ },
+ "support-at-home": {
+  "title": "Support at Home program",
+  "author": "Australian Government Department of Health",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.health.gov.au/our-work/support-at-home",
+  "type": "guideline"
+ },
+ "myagedcare-respite": {
+  "title": "Respite care",
+  "author": "My Aged Care",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.myagedcare.gov.au/types-care/respite-care",
+  "type": "guideline"
+ },
+ "emerge-carers": {
+  "title": "Carers information",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/carers-information/",
+  "type": "guideline"
+ },
+ "mega": {
+  "title": "ME Group Australia",
+  "author": "ME Group Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://megroupaustralia.org.au/",
+  "type": "guideline"
+ },
+ "mega-pack-2025": {
+  "title": "Severe ME: notes for Australia, resource pack",
+  "author": "Crowhurst G (Stonebird) for ME Group Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://megroupaustralia.org.au/wp-content/uploads/2025/08/Severe-ME-Notes-For-Australia-Resource-Pack-Print.pdf",
+  "type": "guideline"
+ },
+ "mega-webinar-2026": {
+  "title": "Severe ME Month 2026 webinar",
+  "author": "ME Group Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://megroupaustralia.org.au/advocacy/severe-me-month-2026-webinar-event/",
+  "type": "news"
+ },
+ "25me-day": {
+  "title": "Severe ME Day",
+  "author": "25% ME Group",
+  "journal": null,
+  "year": 2026,
+  "url": "https://25megroup.org/campaigning/severe-me-day/",
+  "type": "news"
+ },
+ "solve-severe-2026": {
+  "title": "Accelerating severe ME/CFS research",
+  "author": "Solve M.E.",
+  "journal": null,
+  "year": 2026,
+  "url": "https://solvecfs.org/accelerating-severe-me-cfs-research/",
+  "type": "news"
+ },
+ "hung-2025": {
+  "title": "A network medicine approach to investigating ME/CFS pathogenesis in severely ill patients: a pilot study",
+  "author": "Hung LY et al.",
+  "journal": "Frontiers in Human Neuroscience",
+  "year": 2025,
+  "url": "https://doi.org/10.3389/fnhum.2025.1509346",
+  "type": "observational"
+ },
+ "abken-2026": {
+  "title": "Overcoming barriers in ME/CFS research: the CureME participatory model",
+  "author": "Abken E, Tyson S, Kingdon C",
+  "journal": "Frontiers in Human Neuroscience",
+  "year": 2026,
+  "url": "https://doi.org/10.3389/fnhum.2026.1826525",
+  "type": "observational",
+  "note": "The UK ME/CFS Biobank collects samples from house- and bed-bound patients by home visit"
+ },
+ "hardcastle-2015": {
+  "title": "Serum immune proteins in moderate and severe chronic fatigue syndrome/myalgic encephalomyelitis patients",
+  "author": "Hardcastle SL et al. (Griffith NCNED)",
+  "journal": "International Journal of Medical Sciences",
+  "year": 2015,
+  "url": "https://doi.org/10.7150/ijms.12399",
+  "type": "observational"
+ },
+ "rcoa-anaesthesia": {
+  "title": "ME/CFS and anaesthesia (factsheet)",
+  "author": "Royal College of Anaesthetists (UK)",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.rcoa.ac.uk/patients/patient-information-resources/factsheets-medical-conditions-relating-anaesthesia/me-cfs-anaesthesia",
+  "type": "guideline"
+ },
+ "ndis-act": {
+  "title": "National Disability Insurance Scheme Act 2013 (compilation of 19 September 2026), section 24: disability requirements",
+  "author": "Australian Government (Federal Register of Legislation)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.legislation.gov.au/C2013A00020/2026-09-19/2026-09-19/text/original/pdf",
+  "type": "guideline",
+  "note": "Sections 24(2)–(3) state that impairments that vary in intensity, or are episodic or fluctuating, may still be permanent"
+ },
+ "ndis-rules-2016": {
+  "title": "NDIS (Becoming a Participant) Rules 2016",
+  "author": "Australian Government (Federal Register of Legislation)",
+  "journal": null,
+  "year": 2018,
+  "url": "https://www.legislation.gov.au/F2016L00544/2018-02-27/2018-02-27/text/original/pdf",
+  "type": "guideline"
+ },
+ "ndis-disability-req": {
+  "title": "What are the NDIS disability requirements?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements",
+  "type": "guideline"
+ },
+ "ndis-age": {
+  "title": "What are the age requirements?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/eligibility-requirements/what-are-age-requirements",
+  "type": "guideline"
+ },
+ "ndis-amend-2026": {
+  "title": "NDIS Amendment (Securing the NDIS for Future Generations) Act 2026",
+  "author": "Australian Government (Federal Register of Legislation)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.legislation.gov.au/C2026A00066/asmade/2026-08-20/text/original/pdf",
+  "type": "guideline"
+ },
+ "health-ndis-changes": {
+  "title": "About the changes to the NDIS (Securing the NDIS for Future Generations)",
+  "author": "Australian Government Department of Health, Disability and Ageing",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis",
+  "type": "guideline"
+ },
+ "health-securing-ndis": {
+  "title": "Securing the NDIS for future generations",
+  "author": "Australian Government Department of Health, Disability and Ageing",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/securingtheNDIS",
+  "type": "guideline"
+ },
+ "ndis-budgets-2026": {
+  "title": "Changes to support budgets from 1 October 2026",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/news/11695-changes-support-budgets-1-october",
+  "type": "news"
+ },
+ "ndis-framework": {
+  "title": "New framework planning",
+  "author": "Australian Government Department of Health, Disability and Ageing",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework",
+  "type": "guideline"
+ },
+ "ndis-impairment-notice": {
+  "title": "What impairment information will I receive?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/application-process/what-impairment-information",
+  "type": "guideline"
+ },
+ "ndis-how-apply": {
+  "title": "How to apply",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/application-process/how-apply",
+  "type": "guideline"
+ },
+ "ndis-evidence": {
+  "title": "How to gather evidence",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/gathering-evidence/how-gather-evidence",
+  "type": "guideline"
+ },
+ "ndis-evidence-examples": {
+  "title": "What are examples of disability evidence?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/gathering-evidence/what-are-examples-disability-evidence",
+  "type": "guideline"
+ },
+ "ndis-fca": {
+  "title": "What is a functional capacity assessment?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/types-assessments/what-functional-capacity-assessment",
+  "type": "guideline"
+ },
+ "ndis-arf": {
+  "title": "What is the Access Request Form?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/applying/application-process/what-access-request-form",
+  "type": "guideline"
+ },
+ "ndis-psg": {
+  "title": "Participant Service Guarantee",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/about-us/policies/service-charter/participant-service-guarantee",
+  "type": "guideline"
+ },
+ "ndis-review": {
+  "title": "How to request a review of a decision",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/participants/changing-your-plan/decision-reviews/how-request-review-decision",
+  "type": "guideline"
+ },
+ "art-ndis": {
+  "title": "Applying for review of an NDIS decision",
+  "author": "Administrative Review Tribunal",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.art.gov.au/applying-review/national-disability-insurance-scheme",
+  "type": "guideline"
+ },
+ "ndis-appeals-program": {
+  "title": "NDIS Appeals Program",
+  "author": "Australian Government Department of Health, Disability and Ageing",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/our-work/ndis-appeals-program",
+  "type": "guideline"
+ },
+ "ndis-supports-list": {
+  "title": "What are NDIS supports?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/participants/using-your-funding/understanding-your-ndis-funding/what-are-ndis-supports",
+  "type": "guideline"
+ },
+ "ndis-replacement": {
+  "title": "What is a replacement support?",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/participants/using-your-funding/understanding-your-ndis-funding/what-replacement-support",
+  "type": "guideline"
+ },
+ "ndis-contact": {
+  "title": "Contact us",
+  "author": "National Disability Insurance Scheme",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/contact",
+  "type": "guideline"
+ },
+ "ndis-quarterly-q3-2026": {
+  "title": "NDIS quarterly report to disability ministers, Q3 2025–26",
+  "author": "National Disability Insurance Agency",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.ndis.gov.au/media/8641/download",
+  "type": "report",
+  "note": "774,456 active participants at 31 March 2026"
+ },
+ "emerge-ndis": {
+  "title": "National Disability Insurance Scheme",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/national-disability-insurance-scheme/",
+  "type": "guideline",
+  "note": "Free online module 'Applying to the NDIS', worksheets and a template letter for health professionals"
+ },
+ "emerge-ndis-factsheet-2025": {
+  "title": "Applying to the NDIS (factsheet)",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://emerge.org.au/wp-content/uploads/2025/07/Applying-to-the-NDIS-Factsheet.pdf",
+  "type": "guideline"
+ },
+ "emerge-ndis-factsheet-2023": {
+  "title": "NDIS factsheet",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2023,
+  "url": "https://emerge.org.au/wp-content/uploads/2023/04/NDIS_Factsheet.pdf",
+  "type": "guideline"
+ },
+ "emerge-ndis-gp": {
+  "title": "ME/CFS and the NDIS: a guide for GPs",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2018,
+  "url": "https://emerge.org.au/wp-content/uploads/2023/04/MECFS_and_NDIS_Guide_for_GPs.pdf",
+  "type": "guideline"
+ },
+ "emerge-ndis-position": {
+  "title": "NDIS position statement",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2022,
+  "url": "https://emerge.org.au/national-disability-insurance-scheme-position-statement/",
+  "type": "guideline"
+ },
+ "emerge-ndis-submission-2026": {
+  "title": "Submission on the NDIS Amendment (Securing the NDIS for Future Generations) Bill 2026",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/wp-content/uploads/2026/06/Emerge-Australia-NDIS-Submission-29052026.pdf",
+  "type": "report"
+ },
+ "mega-ndis-access": {
+  "title": "NDIS access request with ME",
+  "author": "ME Group Australia",
+  "journal": null,
+  "year": 2021,
+  "url": "https://megroupaustralia.org.au/ndis/ndis-access-request-with-me/",
+  "type": "guideline"
+ },
+ "mega-ot-guide": {
+  "title": "Functional capacity assessment for people with ME: a guide for OTs",
+  "author": "Batkin C, Hughes J, Bartlett C, ME Group Australia",
+  "journal": null,
+  "year": 2024,
+  "url": "https://megroupaustralia.org.au/ndis/functional-capacity-assessment-for-people-with-me-a-guide-for-ot/",
+  "type": "guideline"
+ },
+ "me-primer-ndis": {
+  "title": "ME/CFS primer for NDIS decision makers",
+  "author": "mecfs.au",
+  "journal": null,
+  "year": 2023,
+  "url": "https://mecfs.au/wp-content/uploads/sites/148/2023/05/ME-CFS-Primer-for-NDIS-decision-makers.pdf",
+  "type": "guideline",
+  "note": "Authoring organisation not stated in the document"
+ },
+ "mecfs-au-issues": {
+  "title": "Current issues",
+  "author": "ME/CFS Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://mecfs.org.au/resources/current-issues",
+  "type": "news"
+ },
+ "askizzy-advocacy": {
+  "title": "Disability advocacy finder",
+  "author": "Ask Izzy",
+  "journal": null,
+  "year": 2026,
+  "url": "https://askizzy.org.au/disability-advocacy-finder",
+  "type": "guideline"
+ },
+ "advocacy-helpline": {
+  "title": "Disability Advocacy Support Helpline",
+  "author": "Australian Government Department of Health, Disability and Ageing",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/our-work/disability-advocacy-support-helpline",
+  "type": "guideline"
+ },
+ "foundational-supports": {
+  "title": "Foundational supports for people with disability",
+  "author": "Australian Government Department of Health, Disability and Ageing",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.health.gov.au/our-work/foundational-supports-for-people-with-disability",
+  "type": "guideline"
+ },
+ "myagedcare-eligible": {
+  "title": "Am I eligible?",
+  "author": "My Aged Care",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.myagedcare.gov.au/am-i-eligible",
+  "type": "guideline"
+ },
+ "sa-dsp-who": {
+  "title": "Who can get Disability Support Pension",
+  "author": "Services Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.servicesaustralia.gov.au/who-can-get-disability-support-pension",
+  "type": "guideline"
+ },
+ "mecfs-au-members": {
+  "title": "Member organisations",
+  "author": "ME/CFS Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://mecfs.org.au/about-us/member-organisations",
+  "type": "guideline"
+ },
+ "stat-cdc-2017": {
+  "title": "Why did it take the CDC so long to reverse course on debunked treatments for chronic fatigue syndrome?",
+  "author": "Rehmeyer J, Tuller D, STAT News",
+  "journal": null,
+  "year": 2017,
+  "url": "https://www.statnews.com/2017/09/25/chronic-fatigue-syndrome-cdc/",
+  "type": "news"
+ },
+ "mea-survey-2015": {
+  "title": "ME/CFS illness management survey results: 'No decisions about me without me'",
+  "author": "ME Association",
+  "journal": null,
+  "year": 2015,
+  "url": "https://meassociation.org.uk/wp-content/uploads/2025/02/MEA-Illness-Management-Report-2015.pdf",
+  "type": "observational",
+  "note": "1,428 respondents; 74% reported worsening after graded exercise therapy"
+ },
+ "oxford-brookes-2019": {
+  "title": "Evaluation of a survey exploring the experiences of adults with ME/CFS who have participated in CBT and GET interventional programmes",
+  "author": "Oxford Brookes University for Forward-ME",
+  "journal": null,
+  "year": 2019,
+  "url": "https://meassociation.org.uk/wp-content/uploads/NICE-Patient-Survey-Outcomes-CBT-and-GET-Final-Consolidated-Report-03.04.19.pdf",
+  "type": "observational",
+  "note": "81% reported worsening after GET alone"
+ },
+ "geraghty-2019": {
+  "title": "Myalgic encephalomyelitis/chronic fatigue syndrome patients' reports of symptom changes following cognitive behavioural therapy, graded exercise therapy and pacing treatments: analysis of a primary survey compared with secondary surveys",
+  "author": "Geraghty K, Hann M, Kurtev S",
+  "journal": "Journal of Health Psychology",
+  "year": 2019,
+  "url": "https://doi.org/10.1177/1359105317726152",
+  "type": "observational",
+  "note": "Across surveys of more than 16,000 patients, 54–74% reported worsening after GET"
+ },
+ "wilshire-2018": {
+  "title": "Rethinking the treatment of chronic fatigue syndrome: a reanalysis and evaluation of findings from a recent major trial of graded exercise and CBT",
+  "author": "Wilshire CE et al.",
+  "journal": "BMC Psychology",
+  "year": 2018,
+  "url": "https://doi.org/10.1186/s40359-018-0218-3",
+  "type": "observational",
+  "note": "Reanalysis of the PACE trial: recovery rates 7% (CBT), 4% (GET) and 3% (usual care), not significantly different"
+ },
+ "vink-2018": {
+  "title": "Graded exercise therapy for ME/CFS is not effective and unsafe: re-analysis of a Cochrane review",
+  "author": "Vink M, Vink-Niese A",
+  "journal": "Health Psychology Open",
+  "year": 2018,
+  "url": "https://doi.org/10.1177/2055102918805187",
+  "type": "observational"
+ },
+ "cochrane-2024": {
+  "title": "Update on 'Exercise therapy for chronic fatigue syndrome'",
+  "author": "Cochrane",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.cochrane.org/news/update-exercise-therapy-chronic-fatigue-syndrome",
+  "type": "news",
+  "note": "Cochrane discontinued its planned update of the exercise review in December 2024; the review remains published with an editorial note"
+ },
+ "stussman-2020": {
+  "title": "Characterization of post-exertional malaise in patients with ME/CFS",
+  "author": "Stussman B et al.",
+  "journal": "Frontiers in Neurology",
+  "year": 2020,
+  "url": "https://doi.org/10.3389/fneur.2020.01025",
+  "type": "observational",
+  "note": "Nearly half reported PEM beginning 12–48 hours after exertion; about half said it lasted 2–7 days"
+ },
+ "chu-2018": {
+  "title": "Deconstructing post-exertional malaise in ME/CFS: a patient-centered, cross-sectional survey",
+  "author": "Chu L, Valencia IJ, Garvert DW, Montoya JG",
+  "journal": "PLoS One",
+  "year": 2018,
+  "url": "https://doi.org/10.1371/journal.pone.0197811",
+  "type": "observational",
+  "note": "n=150; 84% of episodes lasted 24 hours or more, 25% more than 3 days, 14% months"
+ },
+ "jason-2008-envelope": {
+  "title": "The energy envelope theory and ME/CFS",
+  "author": "Jason LA, Muldowney K, Torres-Harding S",
+  "journal": "AAOHN Journal",
+  "year": 2008,
+  "url": "https://doi.org/10.3928/08910162-20080501-06",
+  "type": "hypothesis"
+ },
+ "goudsmit-2012": {
+  "title": "Pacing as a strategy to improve energy management in ME/CFS: a consensus document",
+  "author": "Goudsmit EM, Nijs J, Jason LA, Wallman KE",
+  "journal": "Disability and Rehabilitation",
+  "year": 2012,
+  "url": "https://doi.org/10.3109/09638288.2011.635746",
+  "type": "guideline"
+ },
+ "workwell-hrm": {
+  "title": "Pacing with a heart rate monitor to minimize post-exertional malaise (PEM) in ME/CFS and Long COVID",
+  "author": "Workwell Foundation",
+  "journal": null,
+  "year": 2023,
+  "url": "https://workwellfoundation.org/pacing-with-a-heart-rate-monitor-to-minimize-post-exertional-malaise-pem-in-me-cfs-and-long-covid/",
+  "type": "guideline",
+  "note": "Suggests estimating the anaerobic threshold as 7-day average resting heart rate plus 15 beats per minute"
+ },
+ "emerge-hrm": {
+  "title": "Pacing with a heart rate monitor (factsheet)",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.emerge.org.au/wp-content/uploads/2023/04/pacingheartratemonitor.pdf",
+  "type": "guideline"
+ },
+ "davenport-2010": {
+  "title": "Conceptual model for physical therapist management of chronic fatigue syndrome/myalgic encephalomyelitis",
+  "author": "Davenport TE, Stevens SR, VanNess MJ, Snell CR, Little T",
+  "journal": "Physical Therapy",
+  "year": 2010,
+  "url": "https://doi.org/10.2522/ptj.20090047",
+  "type": "guideline"
+ },
+ "bowe-2022": {
+  "title": "Acute and postacute sequelae associated with SARS-CoV-2 reinfection",
+  "author": "Bowe B, Xie Y, Al-Aly Z",
+  "journal": "Nature Medicine",
+  "year": 2022,
+  "url": "https://doi.org/10.1038/s41591-022-02051-3",
+  "type": "observational",
+  "note": "Reinfection added risk of death, hospitalisation and multi-organ problems, regardless of vaccination"
+ },
+ "davis-2021": {
+  "title": "Characterizing long COVID in an international cohort: 7 months of symptoms and their impact",
+  "author": "Davis HE et al.",
+  "journal": "EClinicalMedicine",
+  "year": 2021,
+  "url": "https://doi.org/10.1016/j.eclinm.2021.101019",
+  "type": "observational",
+  "note": "86% of respondents reported relapses; exertion and stress were the main triggers"
+ },
+ "soares-2024": {
+  "title": "Long COVID and associated outcomes following COVID-19 reinfections (preprint)",
+  "author": "Soares L, Assaf G, McCorkell L, Davis H et al.",
+  "journal": "Research Square",
+  "year": 2024,
+  "url": "https://doi.org/10.21203/rs.3.rs-4909082/v1",
+  "type": "observational",
+  "note": "Reinfection worsened fatigue and PEM in people who already had long COVID"
+ },
+ "cdc-masks": {
+  "title": "Community respirators and masks",
+  "author": "US CDC / NIOSH",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.cdc.gov/niosh/ppe/php/community-respirators-masks/index.html",
+  "type": "guideline"
+ },
+ "healthdirect-vaccine": {
+  "title": "COVID-19 vaccine FAQs",
+  "author": "healthdirect",
+  "journal": null,
+  "year": 2025,
+  "url": "https://www.healthdirect.gov.au/covid-19-vaccine-faqs",
+  "type": "guideline"
+ },
+ "visible": {
+  "title": "Visible: illness management for ME/CFS and long COVID",
+  "author": "Visible Health",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.makevisible.com/",
+  "type": "news"
+ },
+ "mea-visible-2024": {
+  "title": "Visible: the pacing app for people with ME/CFS and long COVID",
+  "author": "ME Association",
+  "journal": null,
+  "year": 2024,
+  "url": "https://meassociation.org.uk/2024/04/visible-the-pacing-app-for-people-with-me-cfs-and-long-covid/",
+  "type": "news"
+ },
+ "sawyer-2025": {
+  "title": "Self-reported outcomes among users of a pacing app for ME/CFS and long COVID",
+  "author": "Sawyer A et al. (Putrino D)",
+  "journal": "Frontiers in Digital Health",
+  "year": 2025,
+  "url": "https://doi.org/10.3389/fdgth.2025.1662255",
+  "type": "observational",
+  "note": "1,301 Visible users; 77% self-reported improvement (descriptive, no control group)"
+ },
+ "aboagye-2025": {
+  "title": "Wearable-derived predictors of next-day fatigue in post-viral illness",
+  "author": "Aboagye E et al.",
+  "journal": "Frontiers in Digital Health",
+  "year": 2025,
+  "url": "https://doi.org/10.3389/fdgth.2025.1689846",
+  "type": "observational",
+  "note": "HRV was among the top predictors of next-day fatigue"
+ },
+ "escorihuela-2020": {
+  "title": "Reduced heart rate variability predicts fatigue severity in individuals with chronic fatigue syndrome/myalgic encephalomyelitis",
+  "author": "Escorihuela RM et al.",
+  "journal": "Journal of Translational Medicine",
+  "year": 2020,
+  "url": "https://doi.org/10.1186/s12967-019-02184-z",
+  "type": "observational"
+ },
+ "garmin-cirqa": {
+  "title": "Meet CIRQA smart band: the screen-free health and fitness tracker from Garmin",
+  "author": "Garmin",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.garmin.com/en-US/newsroom/press-release/wearables-health/meet-cirqa-smart-band-the-screen-free-health-and-fitness-tracker-from-garmin/",
+  "type": "news",
+  "note": "Launched 21 July 2026; US RRP $199.99"
+ },
+ "fitbit-air": {
+  "title": "Google Fitbit Air",
+  "author": "Google Store",
+  "journal": null,
+  "year": 2026,
+  "url": "https://store.google.com/product/google_fitbit_air",
+  "type": "news"
+ },
+ "nacul-2011": {
+  "title": "The functional status and well being of people with ME/CFS and their carers",
+  "author": "Nacul LC et al.",
+  "journal": "BMC Public Health",
+  "year": 2011,
+  "url": "https://doi.org/10.1186/1471-2458-11-402",
+  "type": "observational",
+  "note": "Physical function scores lower than in cancer, diabetes, heart disease, lung disease and rheumatoid arthritis"
+ },
+ "kingdon-2018": {
+  "title": "Functional status and well-being in people with ME/CFS compared with people with multiple sclerosis and healthy controls",
+  "author": "Kingdon CC et al.",
+  "journal": "PharmacoEconomics Open",
+  "year": 2018,
+  "url": "https://doi.org/10.1007/s41669-018-0071-6",
+  "type": "observational"
+ },
+ "close-2020": {
+  "title": "The economic impacts of ME/CFS in an Australian cohort",
+  "author": "Close S et al. (Marshall-Gradisnik S)",
+  "journal": "Frontiers in Public Health",
+  "year": 2020,
+  "url": "https://doi.org/10.3389/fpubh.2020.00420",
+  "type": "observational",
+  "note": "Estimated annual cost to Australia of $14.5 billion"
+ },
+ "zhao-2023": {
+  "title": "The economic burden of ME/CFS in Australia",
+  "author": "Zhao T et al.",
+  "journal": "Australian Health Review",
+  "year": 2023,
+  "url": "https://doi.org/10.1071/AH23106",
+  "type": "observational",
+  "note": "$1.38–10.09 billion a year; about $63,400 per patient"
+ },
+ "nhmrc-mecfs": {
+  "title": "ME/CFS",
+  "author": "National Health and Medical Research Council (Australia)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.nhmrc.gov.au/health-advice/me-cfs",
+  "type": "guideline",
+  "note": "Prevalence 0.2–1%, approximately 48,000 to 250,000 people in Australia"
+ },
+ "emerge-facts-2025": {
+  "title": "ME/CFS facts",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2025,
+  "url": "https://emerge.org.au/wp-content/uploads/2025/11/MECFS-Facts-Emerge-Australia-1.pdf",
+  "type": "guideline"
+ },
+ "ausme": {
+  "title": "AusME Registry & Biobank",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://ausmeregistry.org/",
+  "type": "registry",
+  "note": "2,718 participants as at September 2026"
+ },
+ "solomon-2004": {
+  "title": "Factors influencing the diagnosis of chronic fatigue syndrome",
+  "author": "Solomon L, Reeves WC",
+  "journal": "Archives of Internal Medicine",
+  "year": 2004,
+  "url": "https://doi.org/10.1001/archinte.164.20.2241",
+  "type": "observational",
+  "note": "Only 16% of people meeting criteria had previously been diagnosed"
+ },
+ "bakken-2014": {
+  "title": "Two age peaks in the incidence of chronic fatigue syndrome/myalgic encephalomyelitis: a population-based registry study from Norway 2008–2012",
+  "author": "Bakken IJ et al.",
+  "journal": "BMC Medicine",
+  "year": 2014,
+  "url": "https://doi.org/10.1186/s12916-014-0167-5",
+  "type": "observational",
+  "note": "Female-to-male ratio 3.2 to 1; incidence peaks at ages 10–19 and 30–39"
+ },
+ "butler-2024": {
+  "title": "Backing belief with better support for people with chronic fatigue",
+  "author": "Minister for Health and Aged Care",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/backing-belief-with-better-support-for-people-with-chronic-fatigue",
+  "type": "news",
+  "note": "$1.1 million to the NHMRC to develop clinical guidelines"
+ },
+ "unsw-fatigue-clinic": {
+  "title": "UNSW Fatigue Clinic program",
+  "author": "UNSW Sydney",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.unsw.edu.au/precincts/rhip/hth/health-clinics/fatigue-clinic/for-patients/what-unsw-fatigue-clinic-program",
+  "type": "guideline"
+ },
+ "mecfs-rf-videos-2026": {
+  "title": "International ME/CFS Conference 2026: over 7,300 participants",
+  "author": "ME/CFS Research Foundation",
+  "journal": null,
+  "year": 2026,
+  "url": "https://mecfs-research.org/en/conference2026-videos/",
+  "type": "news"
+ },
+ "altea-bc007": {
+  "title": "Berlin Cures: BC 007 does not show superiority over placebo",
+  "author": "Altea Network",
+  "journal": null,
+  "year": 2024,
+  "url": "https://altea-network.com/en/news/226-bc007-results",
+  "type": "news"
+ },
+ "reis-2026": {
+  "title": "The effect of fluvoxamine and metformin for fatigue in patients with long COVID (REVIVE)",
+  "author": "Reis G et al. (Mills EJ)",
+  "journal": "Annals of Internal Medicine",
+  "year": 2026,
+  "url": "https://doi.org/10.7326/ANNALS-25-03959",
+  "type": "rct",
+  "note": "n=399; fluvoxamine modestly reduced fatigue; metformin did not"
+ },
+ "lau-2024": {
+  "title": "A synbiotic preparation (SIM01) for post-acute COVID-19 syndrome in Hong Kong (RECOVERY): a randomised, double-blind, placebo-controlled trial",
+  "author": "Lau RI et al.",
+  "journal": "Lancet Infectious Diseases",
+  "year": 2024,
+  "url": "https://doi.org/10.1016/S1473-3099(23)00685-0",
+  "type": "rct",
+  "note": "n=463; fatigue improved more on the synbiotic"
+ },
+ "mitodicure": {
+  "title": "Mitodicure: MDC002",
+  "author": "Mitodicure GmbH",
+  "journal": null,
+  "year": 2026,
+  "url": "https://mitodicure.com/",
+  "type": "news"
+ },
+ "cortene": {
+  "title": "Cortene Inc.",
+  "author": "Cortene",
+  "journal": null,
+  "year": 2026,
+  "url": "http://corteneinc.com/",
+  "type": "news"
+ },
+ "solve-simmaron-2025": {
+  "title": "Solve selects Simmaron Research as recipient of ME/CFS Catalyst Award",
+  "author": "Solve M.E.",
+  "journal": null,
+  "year": 2025,
+  "url": "https://solvecfs.org/simmaron-research-solve-mecfs-catalyst-award/",
+  "type": "news"
+ },
+ "lift-nct": {
+  "title": "LIFT: Life Improvement Trial (NCT06366724)",
+  "author": "Brigham and Women's Hospital",
+  "journal": "ClinicalTrials.gov",
+  "year": 2025,
+  "url": "https://clinicaltrials.gov/study/NCT06366724",
+  "type": "registry"
+ },
+ "mecfs-rf-funding-2026": {
+  "title": "Research funding 2026: €2.4 million to seven projects",
+  "author": "ME/CFS Research Foundation",
+  "journal": null,
+  "year": 2026,
+  "url": "https://mecfs-research.org/en/news-researchfunding-projects2026/",
+  "type": "news"
+ },
+ "griffith-stafford-fox-2023": {
+  "title": "Largest medical research grant to help ME/CFS and long COVID research",
+  "author": "Griffith University News",
+  "journal": null,
+  "year": 2023,
+  "url": "https://news.griffith.edu.au/2023/04/19/largest-medical-research-grant-to-help-me-cfs-and-long-covid-research/",
+  "type": "news",
+  "note": "$6.4 million over five years from the Stafford Fox Medical Research Foundation"
+ }
+}

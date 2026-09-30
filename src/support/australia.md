@@ -27,6 +27,7 @@ brief:
 | **[Emerge Australia](https://emerge.org.au)** | The national ME/CFS and Long COVID organisation. Free nurse support and telehealth service, a list of ME/CFS-literate GPs and specialists, resources, advocacy, and the AusME research registry. |
 | **Your GP** | Tests, prescriptions (e.g. LDN), referrals, Chronic Condition Management Plan |
 | **Chronic Condition Management Plan** | Medicare arrangement via your GP that subsidises a set number of allied health visits each year |
+| **Centrelink and the NDIS** | Income support and disability funding. See [Centrelink & the DSP](/support/centrelink/) and [ME/CFS and the NDIS](/support/ndis/). |
 | **Sleep studies** | Medicare-rebated if you meet screening criteria; otherwise about $300–400 privately |
 | **NCNED, Griffith University** (Gold Coast) | Australia's main ME/CFS research centre; trials, research studies and biobank. Join their [research registry](https://redcap.link/NCNEDresearchregistry) to hear about studies. |
 | **Deakin IMPACT / Barwon Health** (Geelong) | TRI-ME trimetazidine trial |
@@ -44,8 +45,8 @@ brief:
 
 ## Financial and practical support
 
-- **NDIS:** some people with severe, long-term ME/CFS are eligible. Emerge Australia has guidance on applying. Evidence of functional impact over time is key, so symptom diaries help.
-- **Centrelink:** the Disability Support Pension and JobSeeker (with medical exemptions) may apply. Ask your GP for detailed reports on how your illness affects day-to-day functioning.
+- **NDIS:** some people with severe, long-term ME/CFS are eligible. Evidence of functional impact over time is key, so symptom diaries help. See [ME/CFS and the NDIS](/support/ndis/).
+- **Centrelink:** the Disability Support Pension and JobSeeker (with medical exemptions) may apply. See [Centrelink & the DSP](/support/centrelink/).
 - **Disability parking permits** and **companion cards** can save a lot of energy. Apply through your state or territory.
 - **Private health extras** may cover part of the cost of compression garments, physio or OT.
 - **Carer Gateway:** [1800 422 737](tel:1800422737) for free support for carers.
@@ -53,12 +54,12 @@ brief:
 ## A caution about some programmes
 
 {% callout "warn", "Check the approach first" %}
-Some programmes still include **graded exercise therapy** or CBT framed as a cure, which conflict with current international guidance. The UNSW Fatigue Clinic programme, for example, has included CBT, cognitive exercise therapy and graded exercise therapy. Before starting any programme, ask directly: *"Do you increase activity on a schedule, regardless of symptoms?"* If the answer is yes, it's graded exercise. See [What to avoid](/treatment/avoid/).
+Some programmes still include **graded exercise therapy** or CBT framed as a cure, which conflict with current international guidance. The UNSW Fatigue Clinic programme, for example, describes its 18-week programme as including "cognitive behavioural therapy (CBT), cognitive exercise therapy (CET) and graded exercise therapy (GET)".{% ref "unsw-fatigue-clinic" %} Before starting any programme, ask directly: *"Do you increase activity on a schedule, regardless of symptoms?"* If the answer is yes, it's graded exercise. See [What to avoid](/treatment/avoid/).
 {% endcallout %}
 
 ## New Australian guidelines
 
-The NHMRC has funded ($1.1 million) the development of **new Australian clinical guidelines for ME/CFS**. They're not yet released. Until then, many Australian clinicians follow the UK's NICE guideline (2021) and the US CDC guidance, both of which move away from graded exercise.
+The Federal Government has funded ($1.1 million) the NHMRC to develop **Australia's first clinical guideline for ME/CFS**. The evidence review runs to 2027, with a draft for public consultation expected in late 2027 and release around the end of 2027 or 2028.{% ref "butler-2024", "nhmrc-guideline-dev" %} Until then, many Australian clinicians follow the UK's NICE guideline (2021) and the US CDC guidance, both of which move away from graded exercise.{% ref "nice-ng206", "cdc-mecfs" %}
 
 ## In a crisis
 

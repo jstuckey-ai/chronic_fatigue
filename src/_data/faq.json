@@ -21,8 +21,8 @@
   },
   {
     "q": "Is Long COVID the same as ME/CFS?",
-    "a": "Not always, but they overlap a lot. Long COVID is an umbrella term for health problems lasting three months or more after COVID-19. Many people with Long COVID, especially those with post-exertional malaise, meet the diagnostic criteria for ME/CFS. Others have different problems such as lung or heart damage.",
-    "link": "/understanding/triggers-compared/"
+    "a": "Not always, but they overlap a lot. Long COVID is an umbrella term for health problems lasting three months or more after COVID-19. About 1 in 20 adults infected with COVID go on to meet ME/CFS criteria, and among people seen in fatigue clinics for long COVID it's around half, especially those with post-exertional malaise. Others have different problems such as lung or heart damage.",
+    "link": "/understanding/long-covid-australia/"
   },
   {
     "q": "What's the difference between ME/CFS and POTS?",
@@ -51,7 +51,7 @@
   },
   {
     "q": "Does low-dose naltrexone (LDN) work for ME/CFS?",
-    "a": "The evidence is mixed. Open-label reports suggest many people feel better, and Griffith University's lab studies show LDN restores a faulty immune-cell ion channel (TRPM3). However, the first large placebo-controlled trial (in post-COVID fatigue, reported May 2026) did not beat placebo on fatigue. LDN is cheap and generally safe, so a three-month trial with a doctor is reasonable, but it isn't a sure thing.",
+    "a": "The evidence is mixed. Open-label reports suggest many people feel better, and Griffith University's lab studies show LDN restores a faulty immune-cell ion channel (TRPM3). However, the first large placebo-controlled trial (137 people with post-COVID fatigue, reported May 2026) did not beat placebo on fatigue, and more than 40% of the placebo group improved. LDN is cheap and generally safe, so a three-month trial with a doctor is reasonable, but it isn't a sure thing.",
     "link": "/treatment/medications/#low-dose-naltrexone-ldn"
   },
   {
@@ -71,12 +71,27 @@
   },
   {
     "q": "How many people have ME/CFS?",
-    "a": "Before COVID-19, an estimated 17–24 million people worldwide had ME/CFS, including up to 250,000 Australians. Long COVID has added many more. Most people with ME/CFS are thought to be undiagnosed.",
+    "a": "Australia's NHMRC estimates 0.2–1% of the population, or 48,000 to 250,000 Australians. A 2020 meta-analysis put worldwide prevalence at roughly 0.4–0.7%, which means tens of millions of people. Long COVID has added many more. Most people with ME/CFS are thought to be undiagnosed.",
     "link": "/understanding/impact/"
   },
   {
     "q": "What supplements help ME/CFS?",
     "a": "Evidence is modest. CoQ10 combined with NADH showed small benefits in randomised trials, and oxaloacetate has one positive randomised trial. Creatine and acetyl-L-carnitine have weaker evidence. Supplements may raise the threshold before a crash but don't treat the underlying illness. Discuss any supplement with your doctor.",
     "link": "/treatment/supplements/"
+  },
+  {
+    "q": "Can I get the NDIS or the Disability Support Pension for ME/CFS?",
+    "a": "Both are possible but neither is automatic. ME/CFS is named in the Disability Support Pension's Impairment Tables (Table 1, physical exertion and stamina, and Table 7, brain function), and the descriptors are built around post-exertional malaise; you need 20 points, a condition that is 'diagnosed, treated and stabilised', and to be unable to work 15 hours a week. The NDIS assesses functional impact case by case, and the law says fluctuating conditions can still be permanent. Strong medical evidence describing your worst days is the key to both.",
+    "link": "/support/centrelink/"
+  },
+  {
+    "q": "Can children get ME/CFS?",
+    "a": "Yes. ME/CFS affects roughly 1 in 200 children and teenagers, most often starting between ages 11 and 19 and frequently after glandular fever. Young people usually want to go to school but physically can't, so it's often mistaken for school refusal or anxiety. The outlook is better than in adults: in a long-term Melbourne study, 38% reported recovery by 5 years and 68% by 10 years.",
+    "link": "/understanding/children/"
+  },
+  {
+    "q": "What is severe ME/CFS?",
+    "a": "About one in four people with ME/CFS are housebound or bedbound at some point. People with severe ME/CFS can do only minimal tasks for themselves and are often extremely sensitive to light and sound. People with very severe ME/CFS are in bed all day, need help with eating and personal care, and some cannot swallow and need tube feeding. Care should aim to reduce stimulation and stabilise, not to activate, and hospital admission should be avoided where possible.",
+    "link": "/living/severe/"
   }
 ]

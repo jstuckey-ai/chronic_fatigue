@@ -14,9 +14,8 @@ brief:
 
 The strongest finding in ME/CFS research is a negative one: **doing more than your body can handle makes you worse**, and nothing reliably reverses that damage. Some examples from 2026:
 
-- **Charité, Berlin:** even a specialised rehabilitation programme *built around* pacing and personal limits **left 42 of 97 participants worse off**. {% ev "controlled" %}
-- **A multidisciplinary rehab trial (July 2026):** 45% got worse on a disability scale. Only 14% improved. {% ev "controlled" %}
-- **Graded exercise therapy (GET)**, standard advice for decades, is now recognised as harmful for ME/CFS.
+- **Charité, Berlin (2026):** a specialist multidisciplinary programme with tailored inpatient rehabilitation made no difference to physical function at 12 months compared with usual care. On the Bell disability scale, **42 of 94 people (45%) were worse after rehabilitation** and only 13 (14%) were better. {% ev "controlled" %}{% ref "peters-2026" %}
+- **Graded exercise therapy (GET)**, standard advice for decades, is now recognised as harmful for ME/CFS. In patient surveys of more than 16,000 people, **54–81% reported getting worse** after GET.{% ref "geraghty-2019", "oxford-brookes-2019", "mea-survey-2015" %} The UK NICE guideline now says: do not offer "any therapy based on physical activity or exercise as a cure for ME/CFS".{% ref "nice-ng206" %}
 
 {% callout "key", "Rest is treatment" %}
 Rest isn't laziness or giving up. In ME/CFS it's the one intervention with consistent support. During a decline, **cut your total load now**, not once you're bedbound. Having others take over admin and life logistics is itself part of treatment.
@@ -24,7 +23,7 @@ Rest isn't laziness or giving up. In ME/CFS it's the one intervention with consi
 
 ## Your energy envelope
 
-Think of your available energy as an **envelope**, or a daily budget. Pacing means spending inside it:
+Think of your available energy as an **envelope**, or a daily budget, an idea researchers call the energy envelope theory.{% ref "jason-2008-envelope", "goudsmit-2012" %} Pacing means spending inside it:
 
 - **Everything costs energy.** Walking, standing, showering, cooking, reading, screens, phone calls, decisions, worry, noisy rooms, excitement.
 - **Your envelope changes.** It shrinks with infections, stress, poor sleep and after crashes.
@@ -45,9 +44,9 @@ Think of your available energy as an **envelope**, or a daily budget. Pacing mea
 
 Many people use a heart rate monitor to spot over-exertion in real time, because the body often goes over its limit before you *feel* it.
 
-- A common **rule of thumb** is to keep your heart rate below about **your resting heart rate + 15 beats per minute** during activity, especially early on. Other formulas exist. Work out what suits you with your care team.
+- A common **rule of thumb** from the Workwell Foundation is to keep your heart rate below about **your 7-day average resting heart rate + 15 beats per minute** during activity, especially early on.{% ref "workwell-hrm" %} Emerge Australia's factsheet uses an age-based formula instead.{% ref "emerge-hrm" %} Two-day exercise tests show that people with ME/CFS reach their anaerobic threshold at a lower heart rate than predicted, so age-based formulas can overestimate what's safe.{% ref "davenport-2019", "keller-2014" %} Work out what suits you with your care team.
 - Set your watch or app to **alert you** when you go over that ceiling.
-- A drop in your **morning heart rate variability (HRV)** often shows up **1–2 days before a crash**. It's an early warning to take it easier.
+- A drop in your **morning heart rate variability (HRV)** predicts a worse day: in a study of 4,244 people using a pacing app, a higher morning heart rate and lower HRV predicted worse symptoms that evening.{% ref "aitken-2026" %} Many patients find it warns them a day or two ahead. It's a signal to take it easier.
 
 See [Wearables & tracking](/living/wearables/) for devices that do this well.
 
@@ -55,7 +54,7 @@ See [Wearables & tracking](/living/wearables/) for devices that do this well.
 
 ### Boom-bust
 
-**Boom-bust** is spending a good day's energy, then paying for it with a crash, again and again. It's the most common path into a deeper illness.
+**Boom-bust** (or "push-crash") is spending a good day's energy, then paying for it with a crash, again and again. It's the most common path into a deeper illness.{% ref "goudsmit-2012" %}
 
 ### The good-day trap
 
@@ -103,7 +102,7 @@ Some programmes describe ME/CFS as nervous-system "sensitisation" and aim to gra
 
 ## Avoiding infections
 
-A new infection, especially COVID-19, is the most common trigger for a major relapse. Reasonable protective steps:
+A new infection, especially COVID-19, is a common trigger for a major relapse: each reinfection carries fresh risk of long-term problems, and reinfection worsens fatigue and PEM in people who already have Long COVID.{% ref "bowe-2022", "soares-2024" %} Reasonable protective steps:{% ref "cdc-masks", "healthdirect-vaccine" %}
 
 - Wear a mask in crowded indoor spaces
 - Stay up to date with COVID-19 and flu vaccines (discuss timing with your doctor)

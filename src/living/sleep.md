@@ -11,13 +11,13 @@ brief:
 
 ## Sleep and ME/CFS
 
-In ME/CFS, sleep often doesn't restore energy, no matter how long you sleep. New research from Griffith University (2026) found that the brain's overnight **waste-clearance system** is impaired in ME/CFS, and linked this to worse sleep and more brain fog. See [The science](/understanding/science/#the-brains-waste-clearance-system).
+In ME/CFS, sleep often doesn't restore energy, no matter how long you sleep. New research from Griffith University (2026) found that the brain's overnight **waste-clearance system** is impaired in ME/CFS, and linked this to worse sleep and poorer concentration.{% ref "thapaliya-2026" %} See [The science](/understanding/science/#the-brains-waste-clearance-system).
 
 That makes it all the more important to find and treat any sleep problem that *can* be fixed.
 
 ## Sleep apnoea: the hidden overlap
 
-**Sleep apnoea** is common in people diagnosed with ME/CFS. Its symptoms overlap heavily (unrefreshing sleep, daytime exhaustion, brain fog, lightheadedness), so it can **hide behind an ME/CFS diagnosis for years**. Most ME/CFS diagnostic criteria say it should be ruled out, but that step is often skipped.
+**Sleep apnoea** is common in people diagnosed with ME/CFS: one clinic study found it in up to two-thirds of patients.{% ref "libman-2009" %} Its symptoms overlap heavily (unrefreshing sleep, daytime exhaustion, brain fog, lightheadedness), so it can **hide behind an ME/CFS diagnosis for years**. Most ME/CFS diagnostic criteria say it should be ruled out, but that step is often skipped.
 
 It's **treatable** with a CPAP machine or a mouth splint, which makes it one of the few things that reliably helps when it's present.
 
@@ -31,11 +31,11 @@ During sleep, breathing repeatedly stops or becomes shallow, usually because the
 - Waking with a dry mouth, sore throat or headache
 - Feeling unrefreshed however long you sleep
 - Getting up to the toilet often at night
-- **In women:** often **insomnia, fatigue and low mood** rather than loud snoring, which is why it's frequently missed
+- **In women:** often **insomnia, fatigue and low mood** rather than loud snoring, which is why it's frequently missed{% ref "shepertycky-2005" %}
 
 ### Does it run in families?
 
-Partly. Roughly **30–40% of the risk is genetic**, through jaw and throat shape, where the body stores fat, and how the brain controls breathing during sleep. A parent or sibling with sleep apnoea roughly **doubles** your risk, and a grandparent counts too. **Tell your GP about any family history.** It strengthens the case for a referral.
+Partly. Roughly **30–40% of the risk is genetic**, through jaw and throat shape, where the body stores fat, and how the brain controls breathing during sleep.{% ref "redline-2000" %} A parent or sibling with sleep apnoea raises your risk by roughly **1.5 to 2 times**, and a grandparent counts too.{% ref "redline-1995" %} **Tell your GP about any family history.** It strengthens the case for a referral.
 
 ### Before your appointment
 

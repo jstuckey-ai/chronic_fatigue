@@ -25,6 +25,8 @@ npm run preview    # full build including the search index, served at http://loc
 | Emerge Australia directory listings (snapshot) | `src/_data/emerge.json` |
 | GPs recommended by Griffith NCNED | `src/_data/doctors.json` |
 | Glossary terms | `src/_data/glossary.json` |
+| **Source references** (studies, registries, official pages) | `src/_data/references.json` |
+| FAQ questions and answers | `src/_data/faq.json` |
 | Navigation menu | `src/_data/nav.json` |
 | Site name, "last reviewed" date, contact email | `src/_data/site.json` |
 | Styles / colours | `src/assets/css/style.css` |
@@ -42,6 +44,7 @@ Events move from "Upcoming" to "Past" automatically, based on `today` in `site.j
 - `brief:` in a page's front matter adds the "In brief" summary box.
 - `{% ev "rct" %}` adds an evidence label. The options are `rct`, `controlled`, `open`, `observational`, `lab`, `adjacent` and `hypothesis`.
 - `{% callout "tip", "Title" %}...{% endcallout %}` adds a callout box. The kinds are `note`, `tip`, `warn`, `stop`, `key` and `brief`.
+- `{% ref "decodeme-2025" %}` (or `{% ref "a", "b" %}`) adds a numbered citation superscript and builds a **References** list at the bottom of the page. Every id must exist in `src/_data/references.json`, where each entry has `title`, `author`, `journal`, `year`, `url` and an optional `type` (rct, controlled, open, observational, lab, adjacent, hypothesis, guideline, report, registry, news) and `note`.
 
 ## Deploying (Cloudflare)
 
