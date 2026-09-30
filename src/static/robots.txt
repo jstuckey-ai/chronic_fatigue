@@ -1,7 +1,6 @@
 # chronicfatigue.support: search engines and AI assistants are welcome.
 User-agent: *
 Allow: /
-Disallow: /search/
 
 Sitemap: https://chronicfatigue.support/sitemap.xml
 
