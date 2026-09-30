@@ -1,4 +1,5 @@
 ---
+seoTitle: "POTS & Orthostatic Intolerance in ME/CFS: Home Lean Test & Treatment"
 title: Dizziness on standing & POTS
 description: Orthostatic intolerance and POTS are common in ME/CFS and among the most commonly missed treatable problems. Includes a home test you can do and how it's managed.
 brief:

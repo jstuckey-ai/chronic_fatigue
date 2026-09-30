@@ -1,4 +1,5 @@
 ---
+seoTitle: "Best Wearables & Heart Rate Trackers for ME/CFS Pacing"
 title: Wearables & tracking
 description: Which heart rate and HRV trackers help with pacing, what to look for, and a simple daily log you can start today.
 reviewed: 2026-09-29

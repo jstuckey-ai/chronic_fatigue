@@ -1,0 +1,82 @@
+[
+  {
+    "q": "What is ME/CFS?",
+    "a": "ME/CFS (myalgic encephalomyelitis / chronic fatigue syndrome) is a long-term, physical illness that affects the body's energy production, immune system and nervous system. Its defining feature is post-exertional malaise (PEM): a worsening of symptoms, often 12–72 hours after physical, mental or emotional effort. Other core symptoms are unrefreshing sleep, brain fog and feeling worse when upright. It is not psychological, and it is not ordinary tiredness.",
+    "link": "/understanding/"
+  },
+  {
+    "q": "Is chronic fatigue syndrome the same as ME?",
+    "a": "Mostly, yes. Today most health bodies treat myalgic encephalomyelitis (ME) and chronic fatigue syndrome (CFS) as one illness, written ME/CFS. The names come from different histories. Older CFS definitions (e.g. Fukuda 1994) didn't require post-exertional malaise, while modern criteria do. \"Chronic fatigue\" on its own is a symptom with many causes, not the same as chronic fatigue syndrome.",
+    "link": "/understanding/related-conditions/"
+  },
+  {
+    "q": "What is post-exertional malaise (PEM)?",
+    "a": "PEM is a crash that follows doing more than your body can handle that day. It typically begins 12–72 hours after the effort and can last days, weeks or longer. Triggers include physical activity, thinking, conversation, emotional stress and sensory overload. PEM is the hallmark symptom that distinguishes ME/CFS from other fatiguing illnesses.",
+    "link": "/understanding/symptoms/#post-exertional-malaise-in-detail"
+  },
+  {
+    "q": "What causes ME/CFS?",
+    "a": "The exact cause isn't known. Most cases begin after an infection, commonly glandular fever (Epstein-Barr virus) or COVID-19. Genes play a part: the DecodeME study found eight genetic signals, mainly in the immune and nervous systems. Researchers think a 'sickness response' in the brain that fails to switch off, reduced blood flow and impaired cellular energy production may keep the illness going.",
+    "link": "/understanding/causes/"
+  },
+  {
+    "q": "Is Long COVID the same as ME/CFS?",
+    "a": "Not always, but they overlap a lot. Long COVID is an umbrella term for health problems lasting three months or more after COVID-19. Many people with Long COVID, especially those with post-exertional malaise, meet the diagnostic criteria for ME/CFS. Others have different problems such as lung or heart damage.",
+    "link": "/understanding/triggers-compared/"
+  },
+  {
+    "q": "What's the difference between ME/CFS and POTS?",
+    "a": "POTS (postural orthostatic tachycardia syndrome) is a problem with heart rate and blood flow on standing: heart rate rises by 30 or more beats per minute within 10 minutes. ME/CFS is defined by post-exertional malaise after any exertion. They often occur together, and treating POTS (fluids, salt, compression, medication) can ease dizziness and some brain fog, but it doesn't treat PEM.",
+    "link": "/understanding/related-conditions/#how-is-mecfs-different-from-pots"
+  },
+  {
+    "q": "How is ME/CFS diagnosed?",
+    "a": "There's no single blood test yet. A doctor diagnoses ME/CFS from the symptom history, especially post-exertional malaise, symptoms lasting six months or more, and tests that rule out other causes such as thyroid problems, anaemia, coeliac disease and sleep apnoea. Routine blood tests are usually normal in ME/CFS.",
+    "link": "/treatment/testing/"
+  },
+  {
+    "q": "Is there a cure for ME/CFS?",
+    "a": "Not yet. No drug is approved specifically for ME/CFS. Management focuses on pacing (staying within your energy limits), treating related problems such as POTS and sleep disorders, and symptom relief. Many clinical trials are under way, and some people improve substantially, especially with early recognition and careful pacing.",
+    "link": "/treatment/"
+  },
+  {
+    "q": "Does exercise help ME/CFS?",
+    "a": "Pushing exercise usually makes ME/CFS worse. Graded exercise therapy (GET), once standard advice, is now recognised as harmful for ME/CFS by the UK's NICE guideline (2021) and the US CDC. The best-supported approach is pacing: keeping activity within your energy envelope so you avoid post-exertional crashes.",
+    "link": "/living/pacing/"
+  },
+  {
+    "q": "What is pacing?",
+    "a": "Pacing means managing physical, mental and emotional activity to stay inside your available energy, so you avoid post-exertional malaise. It includes setting activity for your bad days rather than good days, resting before you're exhausted, breaking tasks up, and often using a heart rate monitor to spot over-exertion.",
+    "link": "/living/pacing/"
+  },
+  {
+    "q": "Does low-dose naltrexone (LDN) work for ME/CFS?",
+    "a": "The evidence is mixed. Open-label reports suggest many people feel better, and Griffith University's lab studies show LDN restores a faulty immune-cell ion channel (TRPM3). However, the first large placebo-controlled trial (in post-COVID fatigue, reported May 2026) did not beat placebo on fatigue. LDN is cheap and generally safe, so a three-month trial with a doctor is reasonable, but it isn't a sure thing.",
+    "link": "/treatment/medications/#low-dose-naltrexone-ldn"
+  },
+  {
+    "q": "Are there ME/CFS clinical trials in Australia?",
+    "a": "Yes. They include the TRI-ME trial of trimetazidine (Deakin University / Barwon Health, Victoria) and Griffith University NCNED's research studies and upcoming low-dose naltrexone trial (TreatMELC). You can also join the AusME registry and biobank run by Emerge Australia. Our trials page lists contacts for each.",
+    "link": "/research/trials/?country=Australia"
+  },
+  {
+    "q": "How do I find a doctor who understands ME/CFS in Australia?",
+    "a": "Emerge Australia's national directory lists GPs, clinics and allied health services that see people with ME/CFS and Long COVID, and its nurse support line (1800 865 321) can help. Griffith University's NCNED has also shared a list of GPs, mostly in south-east Queensland and northern NSW, including LDN prescribers.",
+    "link": "/support/find-a-doctor/"
+  },
+  {
+    "q": "Can people recover from ME/CFS?",
+    "a": "Some people improve substantially, particularly when the illness is recognised early and they pace carefully. Others remain unwell for years, and about one in four people are housebound or bedbound at some point. Relapses can follow new infections or periods of overload.",
+    "link": "/understanding/#can-people-recover"
+  },
+  {
+    "q": "How many people have ME/CFS?",
+    "a": "Before COVID-19, an estimated 17–24 million people worldwide had ME/CFS, including up to 250,000 Australians. Long COVID has added many more. Most people with ME/CFS are thought to be undiagnosed.",
+    "link": "/understanding/impact/"
+  },
+  {
+    "q": "What supplements help ME/CFS?",
+    "a": "Evidence is modest. CoQ10 combined with NADH showed small benefits in randomised trials, and oxaloacetate has one positive randomised trial. Creatine and acetyl-L-carnitine have weaker evidence. Supplements may raise the threshold before a crash but don't treat the underlying illness. Discuss any supplement with your doctor.",
+    "link": "/treatment/supplements/"
+  }
+]

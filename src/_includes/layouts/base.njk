@@ -3,15 +3,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if title and page.url != "/" %}{{ title }} · {% endif %}{{ site.name }}</title>
+  {%- set pageTitle = seoTitle or title -%}
+  <title>{% if pageTitle %}{{ pageTitle }} | {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or site.tagline }}">
   <meta name="author" content="{{ site.author }}">
+  <meta name="robots" content="{% if page.url == '/search/' or page.url == '/404.html' %}noindex, follow{% else %}index, follow, max-snippet:-1, max-image-preview:large{% endif %}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <meta property="og:type" content="website">
+  <link rel="alternate" type="text/plain" title="LLM-friendly site guide" href="{{ site.url }}/llms.txt">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+  <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
+  <meta property="og:locale" content="en_AU">
   <meta property="og:site_name" content="{{ site.name }}">
-  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:title" content="{{ pageTitle or site.name }}">
   <meta property="og:description" content="{{ description or site.tagline }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="chronicfatigue.support: clear, honest information about ME/CFS">
+  {% if page.url != '/' %}<meta property="article:modified_time" content="{{ (reviewed or site.lastReviewed) | isoDate }}">
+  <meta property="article:author" content="{{ site.author }}">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ pageTitle or site.name }}">
+  <meta name="twitter:description" content="{{ description or site.tagline }}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/og.png">
+  {% if page.url != '/404.html' and page.url != '/search/' %}{% structuredData page.url, title, seoTitle, description, reviewed, schemaType %}{% endif %}
   <meta name="theme-color" content="#fbf7f1" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#1c1a17" media="(prefers-color-scheme: dark)">
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">

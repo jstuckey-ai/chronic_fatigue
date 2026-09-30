@@ -1,4 +1,5 @@
 ---
+seoTitle: "What Is ME/CFS (Chronic Fatigue Syndrome)? A Plain-Language Guide"
 title: What is ME/CFS?
 description: A plain-language introduction to myalgic encephalomyelitis / chronic fatigue syndrome. What it is, what it isn't, and why acting early matters.
 brief:

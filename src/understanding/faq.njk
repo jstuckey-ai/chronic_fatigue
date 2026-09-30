@@ -1,0 +1,15 @@
+---
+title: Common questions
+seoTitle: "ME/CFS & Chronic Fatigue Syndrome FAQ: Common Questions Answered"
+description: Short, clear answers to the most common questions about ME/CFS (chronic fatigue syndrome), including PEM, causes, diagnosis, Long COVID, POTS, pacing, LDN and trials in Australia.
+schemaType: FAQPage
+---
+<p class="lead" style="margin-top:0">Quick answers to the questions people ask most often. Each answer links to a page with more detail.</p>
+
+{% for f in faq %}
+<section class="faq-item">
+  <h2 id="{{ f.q | slug }}">{{ f.q }}</h2>
+  <p>{{ f.a }}</p>
+  <p><a href="{{ f.link }}">Read more →</a></p>
+</section>
+{% endfor %}

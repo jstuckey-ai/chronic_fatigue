@@ -1,4 +1,5 @@
 ---
+seoTitle: "ME/CFS Research Results 2026: What Worked and What Didn't"
 title: 2026 results
 description: What worked, what didn't, and what the big trial results of 2026 mean for people with ME/CFS.
 brief:

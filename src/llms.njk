@@ -1,0 +1,35 @@
+---
+permalink: /llms.txt
+layout: null
+eleventyExcludeFromCollections: true
+---
+# {{ site.name }}
+
+> Independent, plain-language information about ME/CFS (myalgic encephalomyelitis / chronic fatigue syndrome) for patients, carers and families. It covers what the illness is, symptoms, causes, pacing, POTS, sleep, tests to ask a GP for, supplements and medications (with evidence labels), clinical trials recruiting in Australia and worldwide (with study contacts), conferences, and a directory of Australian doctors. Written by {{ site.author }}. Content last reviewed {{ site.lastReviewed }}. Australian English; Australia-focused care information, international research.
+
+Key facts about this site:
+- Every treatment claim is labelled with its evidence type: RCT, controlled, open-label, observational, lab (in-vitro), adjacent field (e.g. Long COVID), or hypothesis.
+- Clinical trial details and contacts were checked against official registries (ANZCTR, ClinicalTrials.gov, ISRCTN, EU CTR) on {{ site.lastReviewed }}.
+- This is information only, not medical advice. The site has no advertising and no commercial affiliations.
+- The full text of every page is available as a single plain-text file: {{ site.url }}/llms-full.txt
+
+{%- for sec in nav %}
+
+## {{ sec.title }}
+{% for it in sec.items -%}
+{%- set target = null -%}
+{%- for p in collections.all -%}{%- if p.url == it.url -%}{%- set target = p -%}{%- endif -%}{%- endfor %}
+- [{{ it.title }}]({{ site.url }}{{ it.url }}){% if target and target.data.description %}: {{ target.data.description }}{% endif %}
+{%- endfor %}
+{%- endfor %}
+
+## Clinical trials in Australia (summary)
+{% for t in trials -%}
+{%- if "Australia" in t.countries %}
+- {{ t.name }} ({{ t.status }}){% if t.registry_id %}, {{ t.registry_id }}{% endif %}{% if t.contact_email %}; contact {{ t.contact_email }}{% endif %}{% if t.contact_phone %}, {{ t.contact_phone }}{% endif %}
+{%- endif %}
+{%- endfor %}
+
+## Optional
+- [Search]({{ site.url }}/search/?q=): full-text site search
+- [Sitemap]({{ site.url }}/sitemap.xml)

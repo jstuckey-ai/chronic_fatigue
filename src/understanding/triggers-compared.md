@@ -1,4 +1,5 @@
 ---
+seoTitle: "ME/CFS After COVID vs After Glandular Fever (EBV)"
 title: After COVID vs after glandular fever
 description: How ME/CFS that follows COVID-19 compares with ME/CFS that follows glandular fever (Epstein-Barr virus), and why some people develop it after an infection and others don't.
 brief:

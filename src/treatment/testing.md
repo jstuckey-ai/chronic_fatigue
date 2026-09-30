@@ -1,4 +1,5 @@
 ---
+seoTitle: "ME/CFS Blood Tests to Ask Your GP For (with GP Script)"
 title: Tests to ask your GP for
 description: The standard tests to rule out other causes, extra tests worth asking for in ME/CFS, how to read common results, and a script you can take to your appointment.
 brief:

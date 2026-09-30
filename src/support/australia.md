@@ -1,4 +1,5 @@
 ---
+seoTitle: "Getting ME/CFS Care in Australia: GPs, Medicare, NDIS & Emerge"
 title: Getting care in Australia
 description: A step-by-step guide to getting diagnosed, supported and treated for ME/CFS in Australia, from Emerge Australia to Medicare plans and research centres.
 brief:

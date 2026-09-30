@@ -1,4 +1,5 @@
 ---
+seoTitle: "ME vs CFS vs POTS vs Long COVID vs Fibromyalgia: The Differences"
 title: ME, CFS, POTS & related conditions
 description: Is ME the same as CFS? How are Long COVID, POTS, fibromyalgia and depression different? A plain-language guide to the names and the overlaps.
 brief:

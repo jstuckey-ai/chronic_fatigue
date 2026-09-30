@@ -1,4 +1,5 @@
 ---
+seoTitle: "Pacing for ME/CFS: Energy Envelope, Boom-Bust & Heart Rate"
 title: Pacing
 description: How to stay inside your energy envelope, avoid the boom-bust cycle and the good-day trap, and why rest is treatment, not laziness.
 brief:

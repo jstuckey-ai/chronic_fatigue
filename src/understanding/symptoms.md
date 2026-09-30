@@ -1,4 +1,5 @@
 ---
+seoTitle: "ME/CFS Symptoms, Diagnosis & Severity Levels (incl. PEM)"
 title: Symptoms
 description: The symptoms of ME/CFS, how it's diagnosed, and the four levels of severity. Written so you can recognise what you're living with.
 brief:

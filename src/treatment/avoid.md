@@ -1,4 +1,5 @@
 ---
+seoTitle: "What to Avoid With ME/CFS: GET, Exercise Testing & Hype"
 title: What to avoid
 description: Treatments, tests and habits that can make ME/CFS worse, and how to spot hype.
 brief:

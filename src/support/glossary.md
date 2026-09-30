@@ -1,4 +1,5 @@
 ---
+seoTitle: "ME/CFS Glossary: Terms & Abbreviations Explained"
 hideReadTime: true
 title: Glossary
 description: Plain-English explanations of the terms, abbreviations and test names you'll come across with ME/CFS.

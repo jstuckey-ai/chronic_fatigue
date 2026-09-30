@@ -1,4 +1,5 @@
 ---
+seoTitle: "How ME/CFS Affects People: Quality of Life, Work & Severe ME"
 title: How it affects people
 description: The clinical and everyday impact of ME/CFS on health, work, study, relationships and quality of life, and why it's so often missed.
 brief:

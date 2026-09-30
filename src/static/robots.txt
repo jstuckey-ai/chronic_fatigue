@@ -1,4 +1,9 @@
+# chronicfatigue.support: search engines and AI assistants are welcome.
 User-agent: *
 Allow: /
+Disallow: /search/
 
 Sitemap: https://chronicfatigue.support/sitemap.xml
+
+# AI-friendly site guide: https://chronicfatigue.support/llms.txt
+# Full plain-text content: https://chronicfatigue.support/llms-full.txt

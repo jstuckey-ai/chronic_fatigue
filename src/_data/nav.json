@@ -5,6 +5,7 @@
     "blurb": "What ME/CFS is, what causes it and what it does to the body",
     "items": [
       { "title": "What is ME/CFS?", "url": "/understanding/" },
+      { "title": "Common questions", "url": "/understanding/faq/" },
       { "title": "Symptoms", "url": "/understanding/symptoms/" },
       { "title": "Causes & triggers", "url": "/understanding/causes/" },
       { "title": "After COVID vs glandular fever", "url": "/understanding/triggers-compared/" },
