@@ -76,4 +76,4 @@ No, although they often overlap. See [ME, CFS, POTS & related conditions](/under
 
 - [Symptoms](/understanding/symptoms/): the full picture, and how ME/CFS is diagnosed
 - [Causes & triggers](/understanding/causes/): what sets it off, and who gets it
-- [Pacing](/living/pacing/): the one thing every expert agrees on
+- [Pacing](/living/pacing/): the most widely shared advice

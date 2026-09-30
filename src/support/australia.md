@@ -54,7 +54,7 @@ brief:
 ## A caution about some programmes
 
 {% callout "warn", "Check the approach first" %}
-Some programmes still include **graded exercise therapy** or CBT framed as a cure, which conflict with current international guidance. The UNSW Fatigue Clinic programme, for example, describes its 18-week programme as including "cognitive behavioural therapy (CBT), cognitive exercise therapy (CET) and graded exercise therapy (GET)".{% ref "unsw-fatigue-clinic" %} Before starting any programme, ask directly: *"Do you increase activity on a schedule, regardless of symptoms?"* If the answer is yes, it's graded exercise. See [What to avoid](/treatment/avoid/).
+Some programmes still include **graded exercise therapy** or CBT framed as a cure, which most current international guidelines have moved away from. Clinics sometimes point to Australia's only existing ME/CFS guideline, which says graded exercise "may be effective", but it was published by the RACP in 2002 and hasn't been updated.{% ref "racp-2002" %} See [the debate about GET](/treatment/avoid/#the-debate-about-graded-exercise-therapy). The UNSW Fatigue Clinic programme, for example, describes its 18-week programme as including "cognitive behavioural therapy (CBT), cognitive exercise therapy (CET) and graded exercise therapy (GET)".{% ref "unsw-fatigue-clinic" %} Before starting any programme, ask directly: *"Do you increase activity on a schedule, regardless of symptoms?"* If the answer is yes, it's graded exercise. See [What to avoid](/treatment/avoid/).
 {% endcallout %}
 
 ## New Australian guidelines

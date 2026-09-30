@@ -5,7 +5,7 @@ description: Who this site is for, how we write it, how we label evidence, and o
 
 ## Why this site exists
 
-chronicfatigue.support was created by {{ site.author }} to be a **one-stop place** for people with ME/CFS, and the people who care for them, to find clear, honest, current information. It covers what the illness is, what helps, what the research is showing, and which trials are looking for participants.
+chronicfatigue.support was created to be a **one-stop place** for people with ME/CFS, and the people who care for them, to find clear, honest, current information. It covers what the illness is, what helps, what the research is showing, and which trials are looking for participants.
 
 ME/CFS research is scattered across journals, conference talks, trial registries and patient forums. Much of it is written for specialists, and a lot of what reaches patients is hype. We try to bring it together in plain language and be upfront about how strong the evidence is.
 
@@ -48,6 +48,6 @@ We don't sell anything, take advertising, or receive payment from any company, c
 
 ## Who writes it
 
-This site is written and maintained by **{{ site.author }}**, and is independent: it isn't affiliated with any hospital, university, charity, company or trial.
+This site is independent: it isn't affiliated with any hospital, university, charity, company or trial.
 
 There's no direct contact for this site. For questions about a specific trial, please contact the study team listed on the [trials page](/research/trials/). For support and advice, [Emerge Australia](/support/australia/#emerge-australia-contact-details) is the best place to start.

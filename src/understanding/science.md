@@ -76,7 +76,7 @@ Fast, but makes only **2 units of energy** per sugar molecule, plus **lactate** 
 </div>
 </div>
 
-**In ME/CFS, the switch to the backup engine trips far too early**, for a shower or a conversation rather than a sprint. Two-day exercise tests show that the point at which patients tip into anaerobic energy production drops sharply on the second day, something healthy people don't show,{% ref "keller-2014", "snell-2013", "lim-2020-meta" %} and muscle biopsies in Long COVID and ME/CFS show more anaerobic fibre types and damage after exertion that bed rest alone doesn't explain.{% ref "appelman-2024", "charlton-2026" %} When the switch trips:
+**In ME/CFS, the switch to the backup engine trips far too early**, for a shower or a conversation rather than a sprint. Several two-day exercise tests have found that the point at which patients tip into anaerobic energy production drops sharply on the second day, even compared with equally unfit controls,{% ref "keller-2014", "snell-2013", "lim-2020-meta", "keller-2024" %} though a 2026 study of 58 patients found no day-two drop, so this is still debated,{% ref "mancini-2026" %} and muscle biopsies in Long COVID and ME/CFS show more anaerobic fibre types and damage after exertion that bed rest alone doesn't explain.{% ref "appelman-2024", "charlton-2026" %} When the switch trips:
 
 - energy runs short, which causes weak legs and slow thinking
 - lactate and acid build up, bringing heavy limbs and malaise

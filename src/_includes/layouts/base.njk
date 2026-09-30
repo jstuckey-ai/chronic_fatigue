@@ -6,7 +6,6 @@
   {%- set pageTitle = seoTitle or title -%}
   <title>{% if pageTitle %}{{ pageTitle }} | {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or site.tagline }}">
-  <meta name="author" content="{{ site.author }}">
   <meta name="robots" content="{% if page.url == '/search/' or page.url == '/404.html' %}noindex, follow{% else %}index, follow, max-snippet:-1, max-image-preview:large{% endif %}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" type="text/plain" title="LLM-friendly site guide" href="{{ site.url }}/llms.txt">
@@ -21,8 +20,7 @@
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="chronicfatigue.support: clear, honest information about ME/CFS">
-  {% if page.url != '/' %}<meta property="article:modified_time" content="{{ (reviewed or site.lastReviewed) | isoDate }}">
-  <meta property="article:author" content="{{ site.author }}">{% endif %}
+  {% if page.url != '/' %}<meta property="article:modified_time" content="{{ (reviewed or site.lastReviewed) | isoDate }}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ pageTitle or site.name }}">
   <meta name="twitter:description" content="{{ description or site.tagline }}">

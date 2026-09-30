@@ -1,67 +1,262 @@
 [
-  { "term": "ME/CFS", "meaning": "Myalgic encephalomyelitis / chronic fatigue syndrome. A long-term, multi-system illness. See [What is ME/CFS?](/understanding/)" },
-  { "term": "PEM: post-exertional malaise", "meaning": "The delayed crash after doing more than your body can manage. The hallmark of ME/CFS. See [Symptoms](/understanding/symptoms/#post-exertional-malaise-in-detail)." },
-  { "term": "Pacing", "meaning": "Managing activity to stay inside your energy limits and avoid PEM. See [Pacing](/living/pacing/)." },
-  { "term": "Energy envelope", "meaning": "The amount of activity you can do without triggering PEM. It changes over time." },
-  { "term": "Boom-bust", "meaning": "Overdoing it on good days, then crashing. The most common path to getting worse." },
-  { "term": "Long COVID", "meaning": "Ongoing symptoms after COVID-19. Many people with Long COVID meet ME/CFS criteria." },
-  { "term": "OI: orthostatic intolerance", "meaning": "Symptoms that worsen when upright and improve lying down." },
-  { "term": "POTS", "meaning": "Postural orthostatic tachycardia syndrome. Heart rate rises by 30+ beats per minute on standing. See [POTS](/living/orthostatic-intolerance/)." },
-  { "term": "Hypocapnic cerebral hypoperfusion", "meaning": "Reduced blood flow to the brain when upright, caused by breathing out too much carbon dioxide. It can happen without a racing heart." },
-  { "term": "Autonomic nervous system", "meaning": "The automatic part of the nervous system that controls heart rate, blood pressure, digestion and temperature." },
-  { "term": "Dysautonomia", "meaning": "Any malfunction of the autonomic nervous system. POTS is one type." },
-  { "term": "Neuroinflammation", "meaning": "Inflammation in the brain or nervous system." },
-  { "term": "Glymphatic system", "meaning": "The brain's waste-clearance system, which works mostly during sleep. Found to be impaired in ME/CFS in 2026." },
-  { "term": "Mitochondria", "meaning": "The \"energy factories\" inside cells that make ATP using oxygen." },
-  { "term": "ATP", "meaning": "The cell's energy currency." },
-  { "term": "Anaerobic metabolism", "meaning": "The inefficient backup way cells make energy without enough oxygen, producing lactate. Tips in too early in ME/CFS." },
-  { "term": "NAD⁺ / NADH", "meaning": "Electron carriers needed for energy production. NADH is also a supplement." },
-  { "term": "NMN / NR", "meaning": "Nicotinamide mononucleotide / nicotinamide riboside. Supplements the body converts into NAD⁺." },
-  { "term": "CoQ10 / ubiquinol", "meaning": "Coenzyme Q10, part of the energy-production chain. Ubiquinol is its active form." },
-  { "term": "ALC", "meaning": "Acetyl-L-carnitine. Helps carry fuel into mitochondria." },
-  { "term": "DMG", "meaning": "Dimethylglycine. An ingredient in some supplement blends." },
-  { "term": "TRPM3", "meaning": "A calcium ion channel that Griffith University found doesn't work properly on immune cells in ME/CFS." },
-  { "term": "NK cells", "meaning": "Natural killer cells, immune cells that fight viruses." },
-  { "term": "Autoantibodies", "meaning": "Antibodies that target the body's own tissues. Found in some people with ME/CFS." },
-  { "term": "Immunoadsorption", "meaning": "A blood-filtering procedure that removes antibodies." },
-  { "term": "TSPO", "meaning": "A protein targeted in PET scans to show immune activity or energy changes." },
-  { "term": "BBB: blood-brain barrier", "meaning": "The protective lining that controls what passes from blood into the brain." },
-  { "term": "EBV: Epstein-Barr virus", "meaning": "The virus that causes glandular fever. A common ME/CFS trigger. It stays in the body and can reactivate." },
-  { "term": "CMV: cytomegalovirus", "meaning": "A related herpes-family virus that can also reactivate." },
-  { "term": "VCA IgM / IgG", "meaning": "EBV antibody tests. IgM suggests recent or active infection; IgG shows past exposure." },
-  { "term": "EBNA", "meaning": "EBV nuclear antigen antibody. Appears months after infection and helps date it." },
-  { "term": "EA", "meaning": "EBV early antigen antibody. Rises when EBV reactivates." },
-  { "term": "LD / LDH", "meaning": "Lactate dehydrogenase, an enzyme that leaks from stressed cells. See [Tests](/treatment/testing/#ld-lactate-dehydrogenase)." },
-  { "term": "LD isoenzymes", "meaning": "The five forms of LD (LD1–LD5). The mix shows which tissue it came from." },
-  { "term": "CK", "meaning": "Creatine kinase, a marker of muscle damage." },
-  { "term": "CRP / ESR", "meaning": "Blood markers of general inflammation. Usually very low in ME/CFS." },
-  { "term": "Ferritin", "meaning": "A measure of your iron stores." },
-  { "term": "Homocysteine", "meaning": "A blood marker that rises if you're functionally short of B12 or folate." },
-  { "term": "Tryptase", "meaning": "A blood marker of mast cell activity (allergic-type reactions)." },
-  { "term": "HRV: heart rate variability", "meaning": "The variation between heartbeats. A drop can warn of a crash 1–2 days ahead." },
-  { "term": "AHI", "meaning": "Apnoea-hypopnoea index. Breathing events per hour in a sleep study." },
-  { "term": "OSA", "meaning": "Obstructive sleep apnoea." },
-  { "term": "CPAP", "meaning": "Continuous positive airway pressure. A machine that keeps the airway open during sleep." },
-  { "term": "LDN", "meaning": "Low-dose naltrexone. See [Medications](/treatment/medications/#low-dose-naltrexone-ldn)." },
-  { "term": "HBOT", "meaning": "Hyperbaric oxygen therapy. Breathing oxygen in a pressurised chamber." },
-  { "term": "IHHT", "meaning": "Intermittent hypoxia-hyperoxia therapy. Breathing air that alternates between low and high oxygen." },
-  { "term": "GET", "meaning": "Graded exercise therapy. Increasing exercise on a schedule. Now recognised as harmful in ME/CFS." },
-  { "term": "CBT", "meaning": "Cognitive behavioural therapy. Can support coping, but isn't a cure for ME/CFS." },
-  { "term": "CCC", "meaning": "Canadian Consensus Criteria, a diagnostic definition often used in trials." },
-  { "term": "ICC", "meaning": "International Consensus Criteria, a stricter diagnostic definition." },
-  { "term": "IOM / NAM criteria", "meaning": "The 2015 US Institute of Medicine (now National Academy of Medicine) diagnostic criteria." },
-  { "term": "Fukuda criteria", "meaning": "An older, broad definition of CFS that doesn't require PEM." },
-  { "term": "Bell score", "meaning": "A 0–100 disability scale used in ME/CFS. Lower means more disabled." },
-  { "term": "RCT", "meaning": "Randomised controlled trial. The strongest kind of evidence." },
-  { "term": "Placebo", "meaning": "A dummy treatment used for comparison. In ME/CFS, 20–40%+ of people feel better on placebo." },
-  { "term": "Open-label", "meaning": "A study where everyone knows what treatment they're getting. There's no placebo, so results are less reliable." },
-  { "term": "Off-label", "meaning": "Using an approved drug for a condition it isn't officially approved for." },
-  { "term": "Biomarker", "meaning": "A measurable sign of disease, like a blood test result." },
-  { "term": "Polygenic", "meaning": "Influenced by many genes, each with a small effect." },
-  { "term": "ANZCTR", "meaning": "Australian New Zealand Clinical Trials Registry." },
-  { "term": "NCNED", "meaning": "National Centre for Neuroimmunology and Emerging Diseases, Griffith University." },
-  { "term": "TGA", "meaning": "Therapeutic Goods Administration, Australia's medicines regulator." },
-  { "term": "NHMRC", "meaning": "National Health and Medical Research Council, Australia's main medical research funder." },
-  { "term": "NICE", "meaning": "National Institute for Health and Care Excellence (UK). Its 2021 ME/CFS guideline rejected GET." },
-  { "term": "OT", "meaning": "Occupational therapist. Helps with pacing, energy management and daily living." }
+  {
+    "term": "ME/CFS",
+    "meaning": "Myalgic encephalomyelitis / chronic fatigue syndrome. A long-term, multi-system illness. See [What is ME/CFS?](/understanding/)"
+  },
+  {
+    "term": "PEM: post-exertional malaise",
+    "meaning": "The delayed crash after doing more than your body can manage. The hallmark of ME/CFS. See [Symptoms](/understanding/symptoms/#post-exertional-malaise-in-detail)."
+  },
+  {
+    "term": "Pacing",
+    "meaning": "Managing activity to stay inside your energy limits and avoid PEM. See [Pacing](/living/pacing/)."
+  },
+  {
+    "term": "Energy envelope",
+    "meaning": "The amount of activity you can do without triggering PEM. It changes over time."
+  },
+  {
+    "term": "Boom-bust",
+    "meaning": "Overdoing it on good days, then crashing. The most common path to getting worse."
+  },
+  {
+    "term": "Long COVID",
+    "meaning": "Ongoing symptoms after COVID-19. Many people with Long COVID meet ME/CFS criteria."
+  },
+  {
+    "term": "OI: orthostatic intolerance",
+    "meaning": "Symptoms that worsen when upright and improve lying down."
+  },
+  {
+    "term": "POTS",
+    "meaning": "Postural orthostatic tachycardia syndrome. Heart rate rises by 30+ beats per minute on standing. See [POTS](/living/orthostatic-intolerance/)."
+  },
+  {
+    "term": "Hypocapnic cerebral hypoperfusion",
+    "meaning": "Reduced blood flow to the brain when upright, caused by breathing out too much carbon dioxide. It can happen without a racing heart."
+  },
+  {
+    "term": "Autonomic nervous system",
+    "meaning": "The automatic part of the nervous system that controls heart rate, blood pressure, digestion and temperature."
+  },
+  {
+    "term": "Dysautonomia",
+    "meaning": "Any malfunction of the autonomic nervous system. POTS is one type."
+  },
+  {
+    "term": "Neuroinflammation",
+    "meaning": "Inflammation in the brain or nervous system."
+  },
+  {
+    "term": "Glymphatic system",
+    "meaning": "The brain's waste-clearance system, which works mostly during sleep. Found to be impaired in ME/CFS in 2026."
+  },
+  {
+    "term": "Mitochondria",
+    "meaning": "The \"energy factories\" inside cells that make ATP using oxygen."
+  },
+  {
+    "term": "ATP",
+    "meaning": "The cell's energy currency."
+  },
+  {
+    "term": "Anaerobic metabolism",
+    "meaning": "The inefficient backup way cells make energy without enough oxygen, producing lactate. Tips in too early in ME/CFS."
+  },
+  {
+    "term": "NAD⁺ / NADH",
+    "meaning": "Electron carriers needed for energy production. NADH is also a supplement."
+  },
+  {
+    "term": "NMN / NR",
+    "meaning": "Nicotinamide mononucleotide / nicotinamide riboside. Supplements the body converts into NAD⁺."
+  },
+  {
+    "term": "CoQ10 / ubiquinol",
+    "meaning": "Coenzyme Q10, part of the energy-production chain. Ubiquinol is its active form."
+  },
+  {
+    "term": "ALC",
+    "meaning": "Acetyl-L-carnitine. Helps carry fuel into mitochondria."
+  },
+  {
+    "term": "DMG",
+    "meaning": "Dimethylglycine. An ingredient in some supplement blends."
+  },
+  {
+    "term": "TRPM3",
+    "meaning": "A calcium ion channel that Griffith University found doesn't work properly on immune cells in ME/CFS."
+  },
+  {
+    "term": "NK cells",
+    "meaning": "Natural killer cells, immune cells that fight viruses."
+  },
+  {
+    "term": "Autoantibodies",
+    "meaning": "Antibodies that target the body's own tissues. Found in some people with ME/CFS."
+  },
+  {
+    "term": "Immunoadsorption",
+    "meaning": "A blood-filtering procedure that removes antibodies."
+  },
+  {
+    "term": "TSPO",
+    "meaning": "A protein targeted in PET scans to show immune activity or energy changes."
+  },
+  {
+    "term": "BBB: blood-brain barrier",
+    "meaning": "The protective lining that controls what passes from blood into the brain."
+  },
+  {
+    "term": "EBV: Epstein-Barr virus",
+    "meaning": "The virus that causes glandular fever. A common ME/CFS trigger. It stays in the body and can reactivate."
+  },
+  {
+    "term": "CMV: cytomegalovirus",
+    "meaning": "A related herpes-family virus that can also reactivate."
+  },
+  {
+    "term": "VCA IgM / IgG",
+    "meaning": "EBV antibody tests. IgM suggests recent or active infection; IgG shows past exposure."
+  },
+  {
+    "term": "EBNA",
+    "meaning": "EBV nuclear antigen antibody. Appears months after infection and helps date it."
+  },
+  {
+    "term": "EA",
+    "meaning": "EBV early antigen antibody. Rises when EBV reactivates."
+  },
+  {
+    "term": "LD / LDH",
+    "meaning": "Lactate dehydrogenase, an enzyme that leaks from stressed cells. See [Tests](/treatment/testing/#ld-lactate-dehydrogenase)."
+  },
+  {
+    "term": "LD isoenzymes",
+    "meaning": "The five forms of LD (LD1–LD5). The mix shows which tissue it came from."
+  },
+  {
+    "term": "CK",
+    "meaning": "Creatine kinase, a marker of muscle damage."
+  },
+  {
+    "term": "CRP / ESR",
+    "meaning": "Blood markers of general inflammation. Usually very low in ME/CFS."
+  },
+  {
+    "term": "Ferritin",
+    "meaning": "A measure of your iron stores."
+  },
+  {
+    "term": "Homocysteine",
+    "meaning": "A blood marker that rises if you're functionally short of B12 or folate."
+  },
+  {
+    "term": "Tryptase",
+    "meaning": "A blood marker of mast cell activity (allergic-type reactions)."
+  },
+  {
+    "term": "HRV: heart rate variability",
+    "meaning": "The variation between heartbeats. A drop can warn of a crash 1–2 days ahead."
+  },
+  {
+    "term": "AHI",
+    "meaning": "Apnoea-hypopnoea index. Breathing events per hour in a sleep study."
+  },
+  {
+    "term": "OSA",
+    "meaning": "Obstructive sleep apnoea."
+  },
+  {
+    "term": "CPAP",
+    "meaning": "Continuous positive airway pressure. A machine that keeps the airway open during sleep."
+  },
+  {
+    "term": "LDN",
+    "meaning": "Low-dose naltrexone. See [Medications](/treatment/medications/#low-dose-naltrexone-ldn)."
+  },
+  {
+    "term": "HBOT",
+    "meaning": "Hyperbaric oxygen therapy. Breathing oxygen in a pressurised chamber."
+  },
+  {
+    "term": "IHHT",
+    "meaning": "Intermittent hypoxia-hyperoxia therapy. Breathing air that alternates between low and high oxygen."
+  },
+  {
+    "term": "GET",
+    "meaning": "Graded exercise therapy. Increasing exercise on a set schedule. No longer recommended by NICE or the CDC for ME/CFS; its evidence is disputed. See [the debate about GET](/treatment/avoid/#the-debate-about-graded-exercise-therapy)."
+  },
+  {
+    "term": "CBT",
+    "meaning": "Cognitive behavioural therapy. Can support coping, but isn't a cure for ME/CFS."
+  },
+  {
+    "term": "CCC",
+    "meaning": "Canadian Consensus Criteria, a diagnostic definition often used in trials."
+  },
+  {
+    "term": "ICC",
+    "meaning": "International Consensus Criteria, a stricter diagnostic definition."
+  },
+  {
+    "term": "IOM / NAM criteria",
+    "meaning": "The 2015 US Institute of Medicine (now National Academy of Medicine) diagnostic criteria."
+  },
+  {
+    "term": "Fukuda criteria",
+    "meaning": "An older, broad definition of CFS that doesn't require PEM."
+  },
+  {
+    "term": "Bell score",
+    "meaning": "A 0–100 disability scale used in ME/CFS. Lower means more disabled."
+  },
+  {
+    "term": "RCT",
+    "meaning": "Randomised controlled trial. The strongest kind of evidence."
+  },
+  {
+    "term": "Placebo",
+    "meaning": "A dummy treatment used for comparison. In ME/CFS, 20–40%+ of people feel better on placebo."
+  },
+  {
+    "term": "Open-label",
+    "meaning": "A study where everyone knows what treatment they're getting. There's no placebo, so results are less reliable."
+  },
+  {
+    "term": "Off-label",
+    "meaning": "Using an approved drug for a condition it isn't officially approved for."
+  },
+  {
+    "term": "Biomarker",
+    "meaning": "A measurable sign of disease, like a blood test result."
+  },
+  {
+    "term": "Polygenic",
+    "meaning": "Influenced by many genes, each with a small effect."
+  },
+  {
+    "term": "ANZCTR",
+    "meaning": "Australian New Zealand Clinical Trials Registry."
+  },
+  {
+    "term": "NCNED",
+    "meaning": "National Centre for Neuroimmunology and Emerging Diseases, Griffith University."
+  },
+  {
+    "term": "TGA",
+    "meaning": "Therapeutic Goods Administration, Australia's medicines regulator."
+  },
+  {
+    "term": "NHMRC",
+    "meaning": "National Health and Medical Research Council, Australia's main medical research funder."
+  },
+  {
+    "term": "NICE",
+    "meaning": "National Institute for Health and Care Excellence (UK). Its 2021 ME/CFS guideline rejected GET."
+  },
+  {
+    "term": "OT",
+    "meaning": "Occupational therapist. Helps with pacing, energy management and daily living."
+  }
 ]

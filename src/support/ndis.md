@@ -81,7 +81,7 @@ The NDIS is in the middle of its biggest overhaul since it began. Key dates:{% r
 ### Framing tips from ME/CFS organisations
 
 - **Use the name "myalgic encephalomyelitis (ME)"** throughout, not "chronic fatigue syndrome", which is often confused with the *symptom* of chronic fatigue.{% ref "emerge-ndis-factsheet-2023" %}
-- **Ask your doctor to state that GET and CBT are not best practice** for ME/CFS and are likely to worsen it. Without this, an assessor may treat them as "available treatment" you haven't tried.{% ref "emerge-ndis-factsheet-2023" %}
+- **Ask your doctor to state that GET and CBT are not recommended treatments** for ME/CFS under current international guidelines (Emerge also suggests noting they may worsen it). Without this, an assessor may treat them as "available treatment" you haven't tried.{% ref "emerge-ndis-factsheet-2023" %}
 - **Describe each of the six areas concretely:** how far you can walk before resting, what aids you use, whether you can cook, clean, manage bills and appointments, hold a conversation, or tolerate heat and cold.{% ref "emerge-ndis-gp" %}
 - **Describe the aftermath, not just the activity:** what happens the day after a shower, an outing or an appointment.
 - **Make sure the primary disability is recorded as physical or neurological ("Other")**, not psychosocial.{% ref "mega-ndis-access" %}

@@ -75,4 +75,4 @@ One of the biggest lessons of 2026 was that treatments tested on *everyone* with
 
 - Laziness, weakness or a lack of willpower
 - Being unfit (deconditioning)
-- "False illness beliefs." This idea underpinned graded exercise and CBT-as-cure approaches, which are now discredited for ME/CFS.
+- "False illness beliefs." This idea underpinned graded exercise and CBT-as-cure approaches, which are no longer recommended for ME/CFS.

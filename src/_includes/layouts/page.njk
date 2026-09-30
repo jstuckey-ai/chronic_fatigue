@@ -22,7 +22,6 @@
     {% if description %}<p class="lead">{{ description }}</p>{% endif %}
     <p class="page-meta">
       {% if not hideReadTime %}<span>{{ content | readingTime }} read</span>{% endif %}
-      <span>By {{ site.author }}</span>
       <span>Last reviewed {{ (reviewed or site.lastReviewed) | readableDate }}</span>
     </p>
   </div>

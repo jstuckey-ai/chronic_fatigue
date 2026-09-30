@@ -131,8 +131,7 @@ export default function (eleventyConfig) {
     const site = readData("site");
     const nav = readData("nav");
     const abs = site.url + url;
-    const author = { "@type": "Person", name: site.author, url: `${site.url}/support/about/` };
-    const website = { "@type": "WebSite", "@id": `${site.url}/#website`, url: `${site.url}/`, name: site.name, description: site.tagline, inLanguage: site.lang, author };
+    const website = { "@type": "WebSite", "@id": `${site.url}/#website`, url: `${site.url}/`, name: site.name, description: site.tagline, inLanguage: site.lang };
     const graph = [];
 
     const pageNode = {
@@ -146,10 +145,8 @@ export default function (eleventyConfig) {
       isPartOf: { "@id": `${site.url}/#website` },
       about: CONDITION,
       audience: [{ "@type": "Patient" }, { "@type": "PeopleAudience", audienceType: "Carers and family" }],
-      author,
       lastReviewed: isoDate(reviewed || site.lastReviewed),
       dateModified: isoDate(reviewed || site.lastReviewed),
-      reviewedBy: author,
     };
 
     if (url === "/") {

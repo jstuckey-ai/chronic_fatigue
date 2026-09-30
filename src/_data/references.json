@@ -3116,5 +3116,262 @@
   "url": "https://news.griffith.edu.au/2023/04/19/largest-medical-research-grant-to-help-me-cfs-and-long-covid-research/",
   "type": "news",
   "note": "$6.4 million over five years from the Stafford Fox Medical Research Foundation"
+ },
+ "larun-2019": {
+  "title": "Exercise therapy for chronic fatigue syndrome",
+  "author": "Larun L, Brurberg KG, Odgaard-Jensen J, Price JR",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2019,
+  "url": "https://doi.org/10.1002/14651858.CD003200.pub9",
+  "type": "rct",
+  "note": "8 trials, 1,518 people, all using Oxford or CDC-1994 criteria. Fatigue benefit at end of treatment rated moderate certainty (about 3 points on a 33-point scale); long-term effects very low certainty; harms uncertain. Re-issued 2024; planned update discontinued"
+ },
+ "white-2011": {
+  "title": "Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy, and specialist medical care for chronic fatigue syndrome (PACE): a randomised trial",
+  "author": "White PD et al.",
+  "journal": "The Lancet",
+  "year": 2011,
+  "url": "https://doi.org/10.1016/S0140-6736(11)60096-2",
+  "type": "rct",
+  "note": "641 people (Oxford criteria). At 52 weeks GET reduced fatigue by 3.2 points and improved the 6-minute walk by 35 m versus usual care; adaptive pacing did no better than usual care. Serious adverse events 8% with GET vs 4% with usual care, judged unrelated to treatment"
+ },
+ "mccrone-2012": {
+  "title": "Adaptive pacing, cognitive behaviour therapy, graded exercise, and specialist medical care for chronic fatigue syndrome: a cost-effectiveness analysis",
+  "author": "McCrone P et al.",
+  "journal": "PLoS One",
+  "year": 2012,
+  "url": "https://doi.org/10.1371/journal.pone.0040808",
+  "type": "rct",
+  "note": "PACE trial: no differences in lost work time or benefit receipt between treatments"
+ },
+ "sharpe-2019": {
+  "title": "Response to the reanalysis of the PACE trial",
+  "author": "Sharpe M, Goldsmith K, Chalder T",
+  "journal": "BMC Psychology",
+  "year": 2019,
+  "url": "https://doi.org/10.1186/s40359-019-0288-x",
+  "type": "news",
+  "note": "The PACE authors' reply defending their outcome changes and disputing the reanalysis"
+ },
+ "sharpe-2022": {
+  "title": "Evidence-based care for people with chronic fatigue syndrome and myalgic encephalomyelitis",
+  "author": "Sharpe M, Chalder T, White PD",
+  "journal": "Journal of General Internal Medicine",
+  "year": 2022,
+  "url": "https://doi.org/10.1007/s11606-021-07188-4",
+  "type": "news"
+ },
+ "clark-2017": {
+  "title": "Guided graded exercise self-help plus specialist medical care versus specialist medical care alone for chronic fatigue syndrome (GETSET): a pragmatic randomised controlled trial",
+  "author": "Clark LV et al.",
+  "journal": "The Lancet",
+  "year": 2017,
+  "url": "https://doi.org/10.1016/S0140-6736(16)32589-2",
+  "type": "rct",
+  "note": "211 people meeting NICE 2007 criteria (which required post-exertional fatigue or malaise). Fatigue improved at 12 weeks; no serious adverse reactions"
+ },
+ "clark-2021": {
+  "title": "Graded exercise self-help plus specialist medical care for chronic fatigue syndrome (GETSET): long-term follow-up",
+  "author": "Clark LV et al.",
+  "journal": "Journal of Psychosomatic Research",
+  "year": 2021,
+  "url": "https://doi.org/10.1016/j.jpsychores.2021.110484",
+  "type": "rct",
+  "note": "At about 15 months the groups no longer differed"
+ },
+ "white-etherington-2021": {
+  "title": "Adverse outcomes in trials of graded exercise therapy for adult patients with chronic fatigue syndrome",
+  "author": "White PD, Etherington J",
+  "journal": "Journal of Psychosomatic Research",
+  "year": 2021,
+  "url": "https://doi.org/10.1016/j.jpsychores.2021.110533",
+  "type": "rct",
+  "note": "Pooled 10 trials, 1,279 people: 4% 'much worse' with GET vs 8% controls; low certainty. Written by a PACE author"
+ },
+ "white-2023": {
+  "title": "Anomalies in the review process and interpretation of the evidence in the NICE guideline for chronic fatigue syndrome and myalgic encephalomyelitis",
+  "author": "White P, Abbey S, Angus B et al. (51 authors)",
+  "journal": "Journal of Neurology, Neurosurgery & Psychiatry",
+  "year": 2023,
+  "url": "https://doi.org/10.1136/jnnp-2022-330463",
+  "type": "news",
+  "note": "Argues NICE misapplied its evidence-grading method and that the trials never prescribed fixed increments. Co-authors include PACE authors and Prof Andrew Lloyd (UNSW)"
+ },
+ "royal-colleges-2021": {
+  "title": "Joint statement on the NICE ME/CFS guideline",
+  "author": "Royal College of Physicians, Royal College of General Practitioners, Royal College of Psychiatrists and others",
+  "journal": null,
+  "year": 2021,
+  "url": "https://www.rcgp.org.uk/representing-you/policy-areas/guidance-on-me-cfs",
+  "type": "guideline",
+  "note": "'Graded Exercise Therapy as defined in the guidance is not reflective of the personalised paced exercise programmes that are currently used in the NHS' and 'this terminology should be dropped'"
+ },
+ "nice-evidence-g": {
+  "title": "NICE NG206 evidence review G: non-pharmacological management of ME/CFS",
+  "author": "National Institute for Health and Care Excellence (UK)",
+  "journal": null,
+  "year": 2021,
+  "url": "https://www.nice.org.uk/guidance/ng206/evidence/g-nonpharmacological-management-of-mecfs-pdf-9265183028",
+  "type": "report",
+  "note": "12 GET trials; no outcome rated better than low quality, mainly because of unblinded, self-reported outcomes and populations not required to have PEM"
+ },
+ "ahrq-2016": {
+  "title": "Diagnosis and treatment of ME/CFS: addendum",
+  "author": "Smith MEB et al. (US Agency for Healthcare Research and Quality)",
+  "journal": null,
+  "year": 2016,
+  "url": "https://doi.org/10.23970/AHRQEPCERTA219",
+  "type": "report",
+  "note": "Excluding trials using the Oxford criteria left insufficient evidence on GET for any outcome"
+ },
+ "iqwig-2023": {
+  "title": "ME/CFS: current state of knowledge (final report N21-01)",
+  "author": "Institute for Quality and Efficiency in Health Care (IQWiG, Germany)",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.iqwig.de/en/presse/press-releases/press-releases-detailpage_93184.html",
+  "type": "report",
+  "note": "For GET, benefits and harms could not be weighed because serious harm could not be ruled out; the draft report's 'hint of benefit' was withdrawn. CBT: weakest 'hint' of short-term benefit"
+ },
+ "gaunt-2024": {
+  "title": "Graded exercise therapy versus activity management for paediatric CFS/ME (MAGENTA): a randomised trial",
+  "author": "Gaunt DM et al.",
+  "journal": "European Journal of Pediatrics",
+  "year": 2024,
+  "url": "https://doi.org/10.1007/s00431-024-05458-x",
+  "type": "rct",
+  "note": "241 children: GET no better than activity management; deterioration 27% vs 17% (not statistically significant)"
+ },
+ "keller-2024": {
+  "title": "Cardiopulmonary and metabolic responses during a 2-day CPET in ME/CFS: translating reduced oxygen consumption to impairment status to treatment considerations",
+  "author": "Keller B et al.",
+  "journal": "Journal of Translational Medicine",
+  "year": 2024,
+  "url": "https://doi.org/10.1186/s12967-024-05410-5",
+  "type": "observational",
+  "note": "84 patients vs 71 sedentary controls; patients failed to reproduce day-one performance, even compared with controls matched for fitness"
+ },
+ "mancini-2026": {
+  "title": "Two-day cardiopulmonary exercise testing in ME/CFS",
+  "author": "Mancini DM et al. (Natelson BH)",
+  "journal": "Frontiers in Physiology",
+  "year": 2026,
+  "url": "https://doi.org/10.3389/fphys.2026.1816082",
+  "type": "observational",
+  "note": "58 patients vs 25 controls; found no day-two decline and argues two-day testing should not be used to define PEM"
+ },
+ "tryfonos-2024": {
+  "title": "Functional limitations and exercise intolerance in patients with post-COVID condition: a randomized crossover clinical trial",
+  "author": "Tryfonos A et al.",
+  "journal": "JAMA Network Open",
+  "year": 2024,
+  "url": "https://doi.org/10.1001/jamanetworkopen.2024.4386",
+  "type": "rct",
+  "note": "31 Long COVID patients with PEM: single exercise sessions did not worsen fatigue more than in controls at 48 hours; small study, single sessions"
+ },
+ "gloeckl-2024": {
+  "title": "Practical recommendations for exercise training in patients with long COVID with or without post-exertional malaise: a best practice proposal",
+  "author": "Gloeckl R et al. (incl. Scheibenbogen C)",
+  "journal": "Sports Medicine – Open",
+  "year": 2024,
+  "url": "https://doi.org/10.1186/s40798-024-00695-8",
+  "type": "guideline",
+  "note": "Screen for PEM first; conventional training if no PEM, modified programme for mild to moderate PEM, pacing for severe PEM"
+ },
+ "recover-energize": {
+  "title": "RECOVER-ENERGIZE: platform trial of rehabilitation and pacing in long COVID, stratified by PEM (NCT06404047)",
+  "author": "NIH RECOVER Initiative",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT06404047",
+  "type": "registry",
+  "note": "Results not yet available"
+ },
+ "cotler-2018": {
+  "title": "A brief questionnaire to assess post-exertional malaise (DSQ-PEM)",
+  "author": "Cotler J, Holtzman C, Dudun C, Jason LA",
+  "journal": "Diagnostics",
+  "year": 2018,
+  "url": "https://doi.org/10.3390/diagnostics8030066",
+  "type": "guideline"
+ },
+ "racp-2002": {
+  "title": "Chronic fatigue syndrome: clinical practice guidelines 2002",
+  "author": "Royal Australasian College of Physicians working group",
+  "journal": "Medical Journal of Australia",
+  "year": 2002,
+  "url": "https://www.mja.com.au/system/files/issues/cfs2_2.pdf",
+  "type": "guideline",
+  "note": "Says graded exercise 'may be effective'; not updated since 2002"
+ },
+ "emerge-guidelines-position": {
+  "title": "Clinical guidelines position statement",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/clinical-guidelines-position-statement/",
+  "type": "guideline"
+ },
+ "emerge-exercise": {
+  "title": "Exercise as treatment for ME/CFS and long COVID",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/exercise-as-treatment-for-me-cfs-and-long-covid/",
+  "type": "guideline",
+  "note": "'GET is not an effective treatment for ME/CFS or long COVID, when post-exertional malaise (PEM) is present'; some people may choose gentle movement under a PEM-aware professional"
+ },
+ "bacme-2025": {
+  "title": "Guide to therapy 2025",
+  "author": "British Association of Clinicians in ME/CFS (BACME)",
+  "journal": null,
+  "year": 2025,
+  "url": "https://bacme.info/wp-content/uploads/2025/09/BACME-Guide-to-Therapy-2025.pdf",
+  "type": "guideline",
+  "note": "Distinguishes slow, self-paced 'pacing up' that allows stepping back from GET"
+ },
+ "bateman-2021": {
+  "title": "Myalgic encephalomyelitis/chronic fatigue syndrome: essentials of diagnosis and management",
+  "author": "Bateman L et al. (US ME/CFS Clinician Coalition)",
+  "journal": "Mayo Clinic Proceedings",
+  "year": 2021,
+  "url": "https://doi.org/10.1016/j.mayocp.2021.07.004",
+  "type": "guideline"
+ },
+ "cdc-disruptive": {
+  "title": "Treating the most disruptive symptoms first and preventing worsening of symptoms",
+  "author": "US Centers for Disease Control and Prevention",
+  "journal": null,
+  "year": 2024,
+  "url": "https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html",
+  "type": "guideline",
+  "note": "'deconditioning is also harmful'; 'when patients improve, activities can be cautiously increased with monitoring'"
+ },
+ "norway-draft-2026": {
+  "title": "National guideline for long-term fatigue including ME/CFS (consultation draft)",
+  "author": "Helsedirektoratet (Norwegian Directorate of Health)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.helsedirektoratet.no/retningslinjer/utmattelse-langvarig-utmattelse-inkl.me-cfs-horingsutkast/utredning-behandling-og-oppfolging",
+  "type": "guideline",
+  "note": "Recommends individualised 'activity regulation', not rigid fixed stepwise increases; final version not yet published"
+ },
+ "dutch-hc-2018": {
+  "title": "ME/CFS: advisory report",
+  "author": "Health Council of the Netherlands",
+  "journal": null,
+  "year": 2018,
+  "url": "https://www.gezondheidsraad.nl/site/binaries/site-content/collections/documents/2018/03/19/me-cvs/kernadvies-ME-CVS.pdf",
+  "type": "guideline",
+  "note": "'No reason to recommend' GET"
+ },
+ "who-pcc-guideline": {
+  "title": "Post COVID-19 condition: clinical management",
+  "author": "World Health Organization",
+  "journal": null,
+  "year": 2023,
+  "url": "https://www.who.int/teams/health-care-readiness/post-covid-19-condition",
+  "type": "guideline",
+  "note": "Pacing for post-exertional symptom exacerbation; exercise training only when it is absent"
  }
 }

@@ -58,7 +58,7 @@ Lost income and out-of-pocket costs for tests, supplements, allied health and ai
 For decades, many people with ME/CFS were told their illness was psychological, or that they needed to exercise more. Many still are. This has real consequences:
 
 - **Delayed diagnosis:** years of uncertainty, often while unknowingly making the illness worse
-- **Harmful advice:** graded exercise therapy, now recognised as harmful, was standard for decades
+- **Unhelpful advice:** rigid graded exercise therapy was standard for decades; it's no longer recommended, and many patients report being made worse by it
 - **Isolation:** not being believed by doctors, employers or family
 - **Mental health strain:** the grief and isolation of a serious illness that others dismiss
 

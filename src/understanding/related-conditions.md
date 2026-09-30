@@ -23,7 +23,7 @@ brief:
 **Where things stand now:** modern criteria, such as the US Institute of Medicine (2015) and the Canadian Consensus Criteria, **require post-exertional malaise**.{% ref "iom-2015" %} That brings "CFS" much closer to what was always meant by "ME". The 2015 report even proposed a new name, *systemic exertion intolerance disease* (SEID), but it didn't catch on.
 
 {% callout "note", "Why it matters which definition a study used" %}
-When you read about a treatment or trial, check which criteria it used. Studies using the broad **Fukuda** definition (which doesn't require PEM) may include people with depression or other fatiguing illnesses. That's one reason old trials of graded exercise and CBT looked better than they should have.
+When you read about a treatment or trial, check which criteria it used. Studies using the broad **Fukuda** definition (which doesn't require PEM) may include people with depression or other fatiguing illnesses. That's one reason the results of older trials of graded exercise and CBT are disputed: people with PEM may respond differently.
 {% endcallout %}
 
 ## "Chronic fatigue" vs "chronic fatigue syndrome"
