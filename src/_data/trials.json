@@ -452,7 +452,7 @@
     "summary": "Tests **pyridostigmine** and **LDN**, alone and together, in people with ME/CFS who also have orthostatic intolerance. The idea is to treat both circulation and immune/inflammation drivers.",
     "intervention": "Pyridostigmine and/or LDN vs placebo (four groups)",
     "phase": "Phase 2, randomised, double-blind, placebo-controlled (target 160)",
-    "status": "unknown",
+    "status": "recruiting",
     "condition": "ME/CFS",
     "typeList": [
       "Drug trial"
@@ -470,7 +470,7 @@
     "registry_id": "NCT06366724",
     "registry_url": "https://clinicaltrials.gov/study/NCT06366724",
     "verified": true,
-    "notes": "The registry says recruiting but hasn't been updated since October 2025, and completion was expected around September 2026. Recruitment has probably closed."
+    "notes": "Recruiting until about September 2027; results expected after December 2027."
   },
   {
     "id": "nih-effort",
@@ -517,7 +517,7 @@
     "sponsor": "University of California, San Francisco",
     "contact_name": "CHIIME program manager",
     "contact_email": "chiime@ucsf.edu",
-    "contact_phone": "+1 415 502 2449",
+    "contact_phone": "",
     "contact_url": "",
     "registry_id": "NCT07227441",
     "registry_url": "https://clinicaltrials.gov/study/NCT07227441",
@@ -686,7 +686,7 @@
     "summary": "Collects saliva, blood and urine samples linked to clinical information, for ME/CFS, POTS and Long COVID research.",
     "intervention": "Samples at three visits, 3 months apart",
     "phase": "Biobank",
-    "status": "recruiting",
+    "status": "active",
     "condition": "ME/CFS + POTS + Long COVID",
     "typeList": [
       "Registry"
@@ -704,7 +704,7 @@
     "registry_id": "",
     "registry_url": "",
     "verified": true,
-    "notes": ""
+    "notes": "Recruitment has closed (confirmed by the Bateman Horne Center, October 2026). No date for results has been announced yet. BHC expects to start new research studies later in 2026."
   },
   {
     "id": "simmaron-rapamycin",
