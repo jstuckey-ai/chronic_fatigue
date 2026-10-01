@@ -236,7 +236,7 @@
     "registry_id": "NCT07724834",
     "registry_url": "https://clinicaltrials.gov/study/NCT07724834",
     "verified": true,
-    "notes": "Expected to start December 2026."
+    "notes": "Expected to start January 2027."
   },
   {
     "id": "pais-arise",
@@ -267,10 +267,10 @@
   {
     "id": "impact-charite",
     "name": "IMPACT: immunoadsorption in autoantibody-positive ME/CFS",
-    "summary": "Follows people with post-infectious ME/CFS who test positive for certain autoantibodies and receive **immunoadsorption** (5 days of blood filtering to remove antibodies) as part of their care. This is the patient-selection approach researchers now favour.",
-    "intervention": "Immunoadsorption as part of routine care",
-    "phase": "Observational (target 50)",
-    "status": "recruiting",
+    "summary": "Follows people with post-infectious ME/CFS who test positive for certain autoantibodies and receive **immunoadsorption** (5 days of blood filtering to remove antibodies), an **experimental procedure**. Selecting patients by autoantibodies is the approach researchers now favour.",
+    "intervention": "Immunoadsorption (experimental), funded by the German government",
+    "phase": "Observational (target 40, recruitment almost complete)",
+    "status": "invite",
     "condition": "ME/CFS",
     "typeList": [
       "Observational study"
@@ -279,7 +279,7 @@
       "Germany"
     ],
     "locations": "Charité, Berlin",
-    "eligibility": "Age 18–65, Canadian Consensus Criteria, PEM lasting 14+ hours, Bell score below 60, positive for certain autoantibodies, and immunoadsorption covered by German health insurance.",
+    "eligibility": "**Only patients already diagnosed at Charité's ME/CFS clinic**, chosen by the team from their biomarker data. Age 18–65, Canadian Consensus Criteria, PEM lasting 14+ hours, Bell score 30–60, and positive for certain autoantibodies.",
     "sponsor": "Charité – Universitätsmedizin Berlin",
     "contact_name": "Dr Elisa Stein",
     "contact_email": "elisa.stein@charite.de",
@@ -288,7 +288,7 @@
     "registry_id": "NCT07529197",
     "registry_url": "https://clinicaltrials.gov/study/NCT07529197",
     "verified": true,
-    "notes": "Mainly relevant to people in Germany."
+    "notes": "Please don't contact the team to request a place: participants are selected from Charité's own clinic patients. Immunoadsorption is funded by the German government, not health insurance. Charité's upcoming trials (AIM-ME, PIONEER and TAME ME) are also only for patients already seen at its clinic."
   },
   {
     "id": "access-hannover",
