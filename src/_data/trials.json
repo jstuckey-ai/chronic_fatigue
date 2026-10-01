@@ -106,6 +106,33 @@
     "notes": "When calling, **press 3** for research and biobank (Tue–Thu, 8am–3:30pm AEDT)."
   },
   {
+    "id": "unisc-cnic",
+    "name": "CNIC Study: brain inflammation imaging in ME/CFS (Sunshine Coast)",
+    "title": "The Chronic Neuroinflammation in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) Study",
+    "summary": "An Australian study using advanced **MRI** to look for signs of long-term brain inflammation in ME/CFS. It also measures the brain's waste-clearance (glymphatic) system and inflammation markers in blood. People with and without ME/CFS are needed.",
+    "intervention": "None (observational): online questionnaires, one 40-minute MRI, blood and saliva samples, an optional 14-day activity monitor, and two telehealth interviews",
+    "phase": "Observational",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "Thompson Institute, Birtinya, Sunshine Coast QLD (in person)",
+    "eligibility": "Aged 18–65, with or without ME/CFS; able to communicate in English; no neurological or active psychiatric illness; able to have an MRI and give blood.",
+    "sponsor": "University of the Sunshine Coast · Thompson Institute",
+    "contact_name": "Register interest via the UniSC study page",
+    "contact_email": "",
+    "contact_phone": "",
+    "contact_url": "https://www.unisc.edu.au/thompson-institute/research-at-the-thompson-institute/fatigue-conditions-research-at-the-thompson-institute/cnic-study",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": "Participants receive $50 and an image of their brain scan. The MRI visit is in person, so plan rest around it."
+  },
+  {
     "id": "nalcovid",
     "name": "NALCOVID: low-dose naltrexone for Long COVID",
     "summary": "Griffith University's placebo-controlled trial of LDN for Long COVID brain fog, sleep problems and pain. **People previously diagnosed with ME/CFS are excluded.**",
@@ -399,7 +426,7 @@
     "summary": "The follow-on to DecodeME: reading the **full genomes** of up to 9,000 people with ME/CFS and 9,000 with Long COVID to find rare genetic variants.",
     "intervention": "Whole-genome sequencing",
     "phase": "Genetic study (not a clinical trial)",
-    "status": "invite",
+    "status": "not-yet",
     "condition": "ME/CFS + Long COVID",
     "typeList": [
       "Genetics"
@@ -417,7 +444,7 @@
     "registry_id": "",
     "registry_url": "",
     "verified": true,
-    "notes": "Action for ME will announce how to register interest for the Long COVID arm. People outside the UK are unlikely to be able to take part."
+    "notes": "No new sign-ups for ME/CFS: the study will use samples already collected through DecodeME. The Long COVID arm isn't open yet; UK residents will be able to register interest once it is, and people outside the UK are unlikely to be eligible."
   },
   {
     "id": "omf-studyme",

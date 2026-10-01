@@ -53,6 +53,8 @@ It found:
 - **Only a tentative link to the HLA genes** usually tied to classic autoimmune disease: a single HLA variant appeared protective and needs confirming. This suggests ME/CFS isn't a typical autoimmune illness, though autoimmunity may matter in some subgroups.
 - **No shared genetic variants with depression or anxiety**
 
+An Australian study of 464 people followed after an infection (the Dubbo study) agrees: a genetic tendency to depression did not predict who went on to develop post-infective fatigue.{% ref "ruseva-2026-dubbo-prs" %}
+
 The next phase, **Sequence ME & Long Covid**, will read the full genomes of up to 9,000 people with ME/CFS and 9,000 with Long COVID. It's on our [trials page](/research/trials/).
 
 ## What keeps it going?

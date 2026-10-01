@@ -2,7 +2,7 @@
 title: ME/CFS in children and teenagers
 seoTitle: "ME/CFS in Children and Teenagers: Symptoms, Diagnosis, School & Recovery (Australia)"
 description: How ME/CFS shows up in children and teenagers, how it's diagnosed, what recovery looks like, and how to handle school, exams and family supports in Australia.
-reviewed: 2026-09-30
+reviewed: 2026-10-01
 brief:
   - 'ME/CFS affects roughly **1 in 200 children and teenagers**, most often starting between **11 and 19**, and very often after glandular fever.'
   - 'Young people **want to go to school** but physically can''t. ME/CFS is not school refusal or anxiety, and it''s often mistaken for both.'
@@ -30,7 +30,7 @@ Other triggers include other viral infections (CMV in about 10% of the Melbourne
 
 The core features are the same as in adults ([post-exertional malaise](/understanding/symptoms/#post-exertional-malaise-in-detail), unrefreshing sleep, brain fog, feeling worse upright), but some things stand out:{% ref "rowe-pc-2017", "jason-2006-peds", "cdc-peds" %}
 
-- **Dizziness on standing (orthostatic intolerance) is very prominent.** In one study, 96% of adolescents with ME/CFS showed POTS or a drop in blood pressure on a standing test.{% ref "iom-2015-peds" %} About 60% of adolescents with ME/CFS have hypermobile joints, compared with about 20% of healthy teenagers.{% ref "rowe-pc-2017" %}
+- **Dizziness on standing (orthostatic intolerance) is very prominent.** In one study, 96% of adolescents with ME/CFS showed POTS or a drop in blood pressure on a standing test.{% ref "iom-2015-peds" %} In a small 2026 German study, 7 of 18 teenagers with ME/CFS (39%) met the criteria for POTS, compared with none of 18 healthy teenagers.{% ref "leone-2026-pots-adolescents" %} About 60% of adolescents with ME/CFS have hypermobile joints, compared with about 20% of healthy teenagers.{% ref "rowe-pc-2017" %}
 - **Headaches, sleep disturbance and cognitive difficulties** are the commonest complaints after fatigue. Abdominal pain and rashes are more common than in adults.
 - **Symptoms vary enormously** from day to day and from child to child, which is part of why it's so often missed.
 - **School and thinking:** problems with attention, processing speed and recall, made worse by poor sleep.

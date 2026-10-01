@@ -99,7 +99,7 @@ Used for brain fog. A small Yale case series in Long COVID (12 people, 8 improve
 | **Stellate ganglion block** | {% ev "adjacent" %} Trials starting | Long COVID only. NIH's Block-LC is expected to open later in 2026. |
 | **rTMS** (magnetic brain stimulation) | {% ev "adjacent" %} Small pilot | Long COVID, 10 people, no results published{% ref "rtms-nct" %} |
 | **EECP** (external counterpulsation) | {% ev "adjacent" %} Small data | Long COVID, no control group{% ref "sathyamoorthy-2022" %} |
-| **Wearable magnetic device** (Fareon) | {% ev "adjacent" %} Small sham-controlled trial (30 people); pilot planned | Improved working memory and wellbeing in Long COVID; preprint only{% ref "canori-2026", "fareon-2026" %} |
+| **Wearable magnetic device** (Fareon) | {% ev "adjacent" %} Small sham-controlled pilot (30 people), published Sept 2026 | Small improvements on some memory and attention tests in Long COVID; a larger trial is needed{% ref "canori-2026", "fareon-2026" %} |
 | **Intermittent hypoxia-hyperoxia** (IHHT) | Placebo-controlled trial starting | REenergizeME, Aarhus, Denmark (women with ME/CFS){% ref "reenergizeme-nct" %} |
 
 See all [current trials](/research/trials/) and [2026 results](/research/results/).

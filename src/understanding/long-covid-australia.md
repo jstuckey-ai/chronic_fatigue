@@ -2,7 +2,7 @@
 title: Long COVID in Australia
 seoTitle: "Long COVID in Australia: Definition, How Common It Is, Clinics, Research & Support (2026)"
 description: What long COVID is, how many Australians have it, its overlap with ME/CFS, where to get care now that most clinics have closed, current Australian research, and how to reduce your risk.
-reviewed: 2026-09-30
+reviewed: 2026-10-01
 brief:
   - '**Long COVID** means new or ongoing symptoms **3 months after COVID-19** that last at least 2 months and aren''t explained by anything else.'
   - 'Australian estimates range from **5% to 18%** of people infected, depending on how it''s measured. Modelling suggested up to **1.4 million** Australians at the late-2022 peak.'
@@ -92,9 +92,9 @@ Australian long COVID research is growing thanks to the MRFF funding. Studies an
 
 ## Reducing your risk
 
-**Vaccination.** A 2025 meta-analysis of 31 studies found vaccination is associated with about **23% lower odds** of long COVID, and boosters lower it further, although the evidence quality is low.{% ref "green-2025" %} Large European cohorts found vaccinated people had roughly 30–50% lower risk.{% ref "catala-2024" %} In Australia, COVID vaccines are free; current advice is a booster every 12 months for most adults (every 6 months over 75).{% ref "health-vaccination" %} If you already have ME/CFS, discuss timing with your doctor, since some people react strongly.
+**Vaccination.** A 2025 meta-analysis of 31 studies found vaccination is associated with about **23% lower odds** of long COVID, and boosters lower it further, although the evidence quality is low.{% ref "green-2025" %} Large European cohorts found vaccinated people had roughly 30–50% lower risk.{% ref "catala-2024" %} In Australia, from 1 October 2026, free COVID-19 vaccines are only available to certain groups at higher risk of severe illness. Ask your GP or pharmacist whether you are eligible.{% ref "emerge-2026-vaccine", "health-vaccination" %} If you already have ME/CFS, discuss timing with your doctor, since some people react strongly.
 
-**Antivirals.** Paxlovid does **not** treat established long COVID: two randomised trials found no benefit.{% ref "geng-2024", "pax-lc-2025" %} Whether taking it during the acute infection *prevents* long COVID is unclear, with mixed observational evidence and no trial in low-risk people. In Australia it's PBS-subsidised for higher-risk groups if started within 5 days of symptoms.
+**Antivirals.** Paxlovid does **not** treat established long COVID. Several randomised trials have found no benefit, including RECOVER-VITAL (959 people, 2026), which tested courses of up to 25 days.{% ref "geng-2024", "pax-lc-2025", "baden-2026-recover-vital" %} Whether taking it during the acute infection *prevents* long COVID is unclear, with mixed observational evidence and no trial in low-risk people. In Australia it's PBS-subsidised for higher-risk groups if started within 5 days of symptoms.
 
 **Reinfection.** Each infection carries a fresh risk. In a UK community study, 4% developed new long COVID after a first infection and 2.4% after a reinfection.{% ref "ons-reinfection-2023" %} In children, reinfection roughly **doubled** the risk of a long COVID diagnosis.{% ref "zhang-2026-reinfection" %} For people who already have long COVID or ME/CFS, a new infection is the most common trigger for a serious relapse. Masks in crowded indoor spaces, ventilation and staying away from sick contacts are reasonable precautions. See [Pacing](/living/pacing/#avoiding-infections).
 

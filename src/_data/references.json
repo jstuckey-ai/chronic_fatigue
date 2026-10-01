@@ -210,13 +210,13 @@
   "note": "Sham-controlled pilot NCT06739668, n=30, Long COVID"
  },
  "canori-2026": {
-  "title": "Microtesla magnetic therapy for cognitive impairment in Long COVID: a sham-controlled pilot study (preprint)",
+  "title": "Microtesla magnetic therapy for cognitive impairment in long COVID: a randomized pilot study",
   "author": "Canori A et al. (Putrino D)",
-  "journal": "medRxiv",
+  "journal": "Brain Communications",
   "year": 2026,
-  "url": "https://doi.org/10.64898/2026.03.18.26348530",
+  "url": "https://doi.org/10.1093/braincomms/fcag364",
   "type": "rct",
-  "note": "Preprint; not yet peer reviewed"
+  "note": "30 people, 2:1 active vs sham: active beat sham on some memory and attention tests (p=0.026–0.049); feasibility pilot"
  },
  "reenergizeme-nct": {
   "title": "REenergizeME: intermittent hypoxia-hyperoxia treatment in ME/CFS (NCT07317401)",
@@ -3373,5 +3373,58 @@
   "url": "https://www.who.int/teams/health-care-readiness/post-covid-19-condition",
   "type": "guideline",
   "note": "Pacing for post-exertional symptom exacerbation; exercise training only when it is absent"
+ },
+ "baden-2026-recover-vital": {
+  "title": "Nirmatrelvir–ritonavir targeting viral persistence in post-COVID-19 condition (long COVID) in the USA (RECOVER-VITAL): a randomised, double-blind, placebo-controlled, phase 2 trial",
+  "author": "Baden LR et al.",
+  "journal": "Lancet Infectious Diseases",
+  "year": 2026,
+  "url": "https://recovercovid.org/news/recover-vital-clinical-trial-finds-no-benefit-extended-duration-paxlovid-long-covid",
+  "type": "rct",
+  "note": "959 adults: 15 or 25 days of Paxlovid gave no benefit over placebo"
+ },
+ "ruseva-2026-dubbo-prs": {
+  "title": "Can Depression Polygenic Risk Score Predict Postinfective Fatigue Syndrome (PIFS) in the Dubbo Infection Outcomes Study (DIOS)?",
+  "author": "Ruseva AG et al.",
+  "journal": "Twin Research and Human Genetics",
+  "year": 2026,
+  "url": "https://doi.org/10.1017/thg.2026.10098",
+  "type": "observational",
+  "note": "464 Australians after infection (89 with PIFS): depression genetic score did not predict post-infective fatigue (adjusted OR 0.99)"
+ },
+ "leone-2026-pots-adolescents": {
+  "title": "Postural orthostatic tachycardia syndrome in adolescents with ME/CFS — a case control study",
+  "author": "Leone A et al.",
+  "journal": "Frontiers in Pediatrics",
+  "year": 2026,
+  "url": "https://doi.org/10.3389/fped.2026.1836407",
+  "type": "observational",
+  "note": "Definite POTS in 7 of 18 (39%) teenagers with ME/CFS vs 0 of 18 controls"
+ },
+ "unisc-cnic": {
+  "title": "CNIC Study: Chronic Neuroinflammation in ME/CFS",
+  "author": "University of the Sunshine Coast, Thompson Institute",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.unisc.edu.au/thompson-institute/research-at-the-thompson-institute/fatigue-conditions-research-at-the-thompson-institute/cnic-study",
+  "type": "registry"
+ },
+ "emerge-2026-vaccine": {
+  "title": "Access to COVID-19 vaccine is changing",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/news/access-to-covid-19-vaccine-is-changing/",
+  "type": "news",
+  "note": "From 1 October 2026, free COVID-19 vaccines only for specific groups at higher risk of severe illness"
+ },
+ "emerge-2026-funding": {
+  "title": "The Australian: 600,000 patients risk losing care over $220k grant",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/news/the-australian-600000-patients-risk-losing-care-over-220k-grant/",
+  "type": "news",
+  "note": "Federal funding for Emerge's patient services reported to end 30 November 2026"
  }
 }

@@ -21,7 +21,7 @@ Conference recordings (with English slides and subtitles) are at [events.mecfs-r
 
 | Result | What happened |
 |---|---|
-| **Bezisterim** (BioVie), Sept 2026 {% ev "rct" %} {% ev "adjacent" %}{% ref "biovie-2026" %} | 203-patient Long COVID trial. Oral, crosses into the brain, thought to reduce inflammation. **Missed significance in the overall group** (though 21 of 22 measures leaned in its favour), but helped significantly in pre-planned subgroups with high fatigue, brain fog and/or PEM (about 78% of those enrolled). A Phase 3 trial is planned. The most relevant readout of 2026 for ME/CFS, because PEM-heavy patients responded. |
+| **Bezisterim** (BioVie), Sept 2026 {% ev "rct" %} {% ev "adjacent" %}{% ref "biovie-2026" %} | 203-patient Long COVID trial. Oral, crosses into the brain, thought to reduce inflammation. **Missed significance in the overall group** (though 21 of 22 measures leaned in its favour), but helped significantly in pre-planned subgroups with high fatigue, brain fog and/or PEM (about 78% of those enrolled). These are the company's own topline results and haven't been peer-reviewed yet; many outcomes were tested, so the subgroup findings need confirming. A Phase 3 trial is planned. The most relevant readout of 2026 for ME/CFS, because PEM-heavy patients responded. |
 | **Low-dose rapamycin** (Simmaron) {% ev "open" %}{% ref "ruan-2025" %} | 74% of 70 patients improved in fatigue, PEM and orthostatic symptoms. No placebo group. See [Medications](/treatment/medications/#low-dose-rapamycin-sirolimus). |
 | **Hyperbaric oxygen** (Charité) {% ev "observational" %}{% ref "kim-2026-hbot" %} | Benefit with 40 sessions; the 20-session comparison presented at the conference showed less |
 | **Rovunaptabin (BC007) in autoantibody-positive patients** {% ev "rct" %} {% ev "adjacent" %}{% ref "hohberger-2025" %} | A 30-person placebo-controlled trial in Erlangen (published July 2025) that selected Long COVID patients by autoantibody improved fatigue and function |
@@ -38,7 +38,7 @@ Conference recordings (with English slides and subtitles) are at [events.mecfs-r
 | **Myoflame-19** (prednisolone + losartan, 279 patients) {% ev "rct" %} {% ev "adjacent" %}{% ref "puntmann-2026" %} | No benefit |
 | **BC007 BLOC trial** (2024, 119 unselected patients) {% ev "rct" %}{% ref "altea-bc007", "sicktimes-bc007-2025" %} | No better than placebo. The company went insolvent; APTA Therapeutics has since acquired its assets and plans a new trial.{% ref "apta-2025" %} |
 | **Ivabradine** (RECOVER-AUTONOMIC, 181 people with Long COVID POTS) {% ev "rct" %} {% ev "adjacent" %}{% ref "recover-autonomic-2026" %} | Lowered heart rate on standing, but symptoms didn't improve |
-| **Paxlovid, temelimab, high-dose CoQ10** (Long COVID) {% ev "rct" %} {% ev "adjacent" %}{% ref "geng-2024", "nehme-2026", "hansen-2023" %} | No benefit |
+| **Paxlovid, temelimab, high-dose CoQ10** (Long COVID) {% ev "rct" %} {% ev "adjacent" %}{% ref "geng-2024", "baden-2026-recover-vital", "nehme-2026", "hansen-2023" %} | No benefit. For Paxlovid this includes RECOVER-VITAL (959 people, Aug 2026), which tested courses of up to 25 days. |
 | **Charité multidisciplinary care and rehabilitation programme** (182 people, published Sept 2026) {% ev "controlled" %}{% ref "peters-2026" %} | No difference in physical function at 12 months versus usual care. On the Bell disability scale, **42 of 94 (45%) got worse** after rehabilitation and only 13 (14%) improved. |
 
 ## Key science findings of 2026

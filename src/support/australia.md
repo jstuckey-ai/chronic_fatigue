@@ -36,6 +36,10 @@ brief:
 
 ### Emerge Australia contact details
 
+{% callout "warn", "Services may change after 30 November 2026" %}
+Emerge Australia says the federal funding for its telehealth and support service ends on 30 November 2026, with no certainty yet of new funding. Check [emerge.org.au](https://emerge.org.au) for current services.{% ref "emerge-2026-funding" %}
+{% endcallout %}
+
 - **Phone:** [1800 865 321](tel:1800865321) or (03) 9529 1344
   - **Press 1:** nurse support & telehealth (Mon–Fri, 9am–4:30pm AEDT, free)
   - **Press 3:** research, biobank and clinical education (Tue–Thu, 8am–3:30pm AEDT)
