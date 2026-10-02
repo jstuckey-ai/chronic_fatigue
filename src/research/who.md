@@ -34,7 +34,7 @@ No major pharmaceutical company is developing an ME/CFS drug. The work is being 
 | **APTA Therapeutics** (Germany) | Rovunaptabin (formerly BC007), an autoantibody neutraliser{% ref "apta-2025", "hohberger-2025" %} | Acquired Berlin Cures' assets after the company's insolvency; new Long COVID trial planned in Coimbra, Portugal |
 | **Mitodicure** (Germany) | MDC002, targeting muscle energy and PEM{% ref "mitodicure" %} | Preclinical; no human trials yet |
 | **AIM ImmunoTech** | Ampligen (rintatolimod), IV | 30+ years of development; not approved anywhere for ME/CFS |
-| **Fareon** (Mount Sinai spin-out) | Wearable magnetic device | Long COVID randomised trial completed; pilot planned |
+| **Fareon** (Mount Sinai spin-out) | Wearable magnetic device | Long COVID randomised pilot published Sept 2026; invite-only follow-up pilot; larger trial planned for early 2027 |
 
 ## Funders
 

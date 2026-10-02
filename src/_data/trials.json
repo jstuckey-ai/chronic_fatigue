@@ -466,10 +466,10 @@
     "contact_name": "Open Medicine Foundation",
     "contact_email": "studyme@omf.ngo",
     "contact_phone": "",
-    "contact_url": "https://www.omf.ngo/signup-studyme/",
+    "contact_url": "https://www.omf.ngo/studyme/",
     "registry_id": "",
     "registry_url": "",
-    "verified": false,
+    "verified": true,
     "notes": "A good way for people outside the US and Europe to hear about new studies."
   },
   {
@@ -609,7 +609,7 @@
     "summary": "A pilot of a **head-worn microtesla magnetic device** used at home twice a week. An earlier randomised trial of the technology in Long COVID reported improved thinking and wellbeing.",
     "intervention": "Fareon microtesla magnetic therapy device",
     "phase": "Open-label pilot, single group (target 30). Not a randomised trial.",
-    "status": "not-yet",
+    "status": "invite",
     "condition": "Long COVID / cognitive impairment",
     "typeList": [
       "Device trial"
@@ -627,7 +627,7 @@
     "registry_id": "NCT07600320",
     "registry_url": "https://clinicaltrials.gov/study/NCT07600320",
     "verified": true,
-    "notes": "ME/CFS is mentioned but isn't a formal entry requirement."
+    "notes": "Invite-only: there's no open enrolment (confirmed by Mount Sinai, October 2026). Mount Sinai plans a larger trial of the device in early 2027. ME/CFS is mentioned but isn't a formal entry requirement."
   },
   {
     "id": "lumbrokinase",
@@ -727,11 +727,11 @@
     "contact_name": "BHC research coordinators",
     "contact_email": "research@batemanhornecenter.org",
     "contact_phone": "+1 801 532 8311",
-    "contact_url": "https://batemanhornecenter.org/research/",
+    "contact_url": "https://batemanhornecenter.jotform.com/253157340776966",
     "registry_id": "",
     "registry_url": "",
     "verified": true,
-    "notes": "Recruitment has closed (confirmed by the Bateman Horne Center, October 2026). No date for results has been announced yet. BHC expects to start new research studies later in 2026."
+    "notes": "Recruitment has closed (confirmed by the Bateman Horne Center, October 2026). No date for results has been announced yet. BHC expects to start new research studies later in 2026. To hear about future BHC studies, fill in their research interest form (the ‘Study website’ link below)."
   },
   {
     "id": "simmaron-rapamycin",
