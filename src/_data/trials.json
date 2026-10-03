@@ -852,16 +852,16 @@
       "Israel"
     ],
     "locations": "Sagol Center for Hyperbaric Medicine, Shamir Medical Center",
-    "eligibility": "Adults with mild to moderate ME/CFS diagnosed 1+ years ago. Severe excluded. Many clinic visits needed.",
+    "eligibility": "Adults with mild to moderate ME/CFS diagnosed 1+ years ago, who are **fluent in reading and speaking Hebrew** (all study documents and questionnaires are in Hebrew only). Severe excluded. Many clinic visits needed.",
     "sponsor": "Shamir Medical Center",
     "contact_name": "Dr Eli Kravchik",
     "contact_email": "elikr@shamir.gov.il",
-    "contact_phone": "+972 8 977 9241",
+    "contact_phone": "",
     "contact_url": "",
     "registry_id": "NCT07621068",
     "registry_url": "https://clinicaltrials.gov/study/NCT07621068",
     "verified": true,
-    "notes": ""
+    "notes": "Only suitable for Hebrew speakers who can attend in Israel."
   },
   {
     "id": "rituximab-japan",
