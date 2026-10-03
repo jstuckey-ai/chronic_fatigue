@@ -1,6 +1,6 @@
 ---
 title: Long COVID in Australia
-seoTitle: "Long COVID in Australia: Definition, How Common It Is, Clinics, Research & Support (2026)"
+seoTitle: "Long COVID in Australia: Clinics, Research & Support (2026)"
 description: What long COVID is, how many Australians have it, its overlap with ME/CFS, where to get care now that most clinics have closed, current Australian research, and how to reduce your risk.
 reviewed: 2026-10-01
 brief:

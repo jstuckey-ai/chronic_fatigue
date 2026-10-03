@@ -1,5 +1,5 @@
 ---
-seoTitle: "What to Avoid With ME/CFS: Push-Through Exercise, Exercise Testing & Hype"
+seoTitle: "What to Avoid With ME/CFS: Push-Through Exercise & Hype"
 title: What to avoid
 description: Treatments, tests and habits that can make ME/CFS worse, and how to spot hype.
 brief:

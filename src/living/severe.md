@@ -1,6 +1,6 @@
 ---
 title: Severe & very severe ME/CFS
-seoTitle: "Severe and Very Severe ME/CFS: Care at Home and in Hospital (Australia)"
+seoTitle: "Severe ME/CFS: Care at Home and in Hospital (Australia)"
 description: What severe and very severe ME/CFS look like, the principles of good care at home, how to prepare for a hospital admission, feeding and nutrition, and support for carers in Australia.
 reviewed: 2026-09-30
 brief:

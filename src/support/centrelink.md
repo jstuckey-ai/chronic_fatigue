@@ -1,6 +1,6 @@
 ---
 title: Centrelink & the Disability Support Pension
-seoTitle: "ME/CFS and Centrelink: Disability Support Pension (DSP), JobSeeker & Carer Payments"
+seoTitle: "ME/CFS and Centrelink: DSP, JobSeeker & Carer Payments"
 description: How the Disability Support Pension works for ME/CFS in Australia, what evidence you need, JobSeeker with a medical exemption, carer payments, and where to get free help if you're refused.
 reviewed: 2026-09-30
 brief:

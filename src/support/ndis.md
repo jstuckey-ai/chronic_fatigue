@@ -1,6 +1,6 @@
 ---
 title: ME/CFS and the NDIS
-seoTitle: "ME/CFS and the NDIS: Eligibility, Evidence, Application & Appeals (2026 Rules)"
+seoTitle: "ME/CFS and the NDIS: Eligibility, Evidence & Appeals (2026)"
 description: Can ME/CFS qualify for the NDIS? The eligibility rules as they stand in 2026, the changes coming in 2027 and 2028, what evidence works, what gets funded, and what to do if you're refused.
 reviewed: 2026-09-30
 brief:

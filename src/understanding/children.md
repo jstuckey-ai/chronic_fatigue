@@ -1,6 +1,6 @@
 ---
 title: ME/CFS in children and teenagers
-seoTitle: "ME/CFS in Children and Teenagers: Symptoms, Diagnosis, School & Recovery (Australia)"
+seoTitle: "ME/CFS in Children & Teens: Symptoms, School & Recovery"
 description: How ME/CFS shows up in children and teenagers, how it's diagnosed, what recovery looks like, and how to handle school, exams and family supports in Australia.
 reviewed: 2026-10-01
 brief:
