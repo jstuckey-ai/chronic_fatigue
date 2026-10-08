@@ -2,7 +2,7 @@
 title: Long COVID in Australia
 seoTitle: "Long COVID in Australia: Clinics, Research & Support (2026)"
 description: What long COVID is, how many Australians have it, its overlap with ME/CFS, where to get care now that most clinics have closed, current Australian research, and how to reduce your risk.
-reviewed: 2026-10-01
+reviewed: 2026-10-09
 brief:
   - '**Long COVID** means new or ongoing symptoms **3 months after COVID-19** that last at least 2 months and aren''t explained by anything else.'
   - 'Australian estimates range from **5% to 18%** of people infected, depending on how it''s measured. Modelling suggested up to **1.4 million** Australians at the late-2022 peak.'
@@ -82,7 +82,7 @@ Lung Foundation Australia and COVERSE keep clinic lists.{% ref "lungfoundation-l
 
 Australian long COVID research is growing thanks to the MRFF funding. Studies and trials with public contacts include:
 
-- **NALCOVID (Griffith University):** placebo-controlled trial of low-dose naltrexone for long COVID brain fog, sleep and pain. Recruiting Australia-wide by post; (07) 5678 9283. See [trials](/research/trials/#nalcovid).
+- **NALCOVID (Griffith University):** placebo-controlled trial of low-dose naltrexone for long COVID brain fog, sleep and pain. **Now completed.** Griffith's next LDN trial, **TreatMELC** (ME/CFS and long COVID), opens on 18 October 2026. See [trials](/research/trials/?country=Australia).
 - **ADAPT (St Vincent's Sydney / Kirby Institute):** long-term observational cohort; SVHS.ADAPT@svha.org.au.{% ref "svhs-adapt" %}
 - **SAGE trial (UNSW, from 2026):** a $3 million trial of a scalable GP and allied health model for long COVID in primary care.{% ref "unsw-lc-2026" %}
 - **HEAL APT (Burnet Institute):** a planned adaptive platform trial testing several treatments, in partnership with Emerge Australia and the Australian POTS Foundation; not yet recruiting.{% ref "burnet-heal" %}

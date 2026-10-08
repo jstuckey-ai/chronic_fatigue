@@ -55,7 +55,7 @@ It found:
 
 An Australian study of 464 people followed after an infection (the Dubbo study) agrees: a genetic tendency to depression did not predict who went on to develop post-infective fatigue.{% ref "ruseva-2026-dubbo-prs" %}
 
-The next phase, **Sequence ME & Long Covid**, will read the full genomes of up to 9,000 people with ME/CFS and 9,000 with Long COVID. It's on our [trials page](/research/trials/).
+The next phase, **Sequence ME & Long Covid**, will read the full genomes of people with ME/CFS (from samples already given to DecodeME) and people with Long COVID. Current funding covers up to 6,000 samples, with the aim of reaching 9,000. It's on our [trials page](/research/trials/).
 
 ## What keeps it going?
 

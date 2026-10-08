@@ -16,7 +16,7 @@ No major pharmaceutical company is developing an ME/CFS drug. The work is being 
 
 | Organisation | Focus | Status (Sept 2026) |
 |---|---|---|
-| **Griffith University NCNED** (Gold Coast, Australia) | TRPM3 ion channel research; LDN trials; brain waste clearance | TreatMELC LDN trial starting; mechanism studies recruiting |
+| **Griffith University NCNED** (Gold Coast, Australia) | TRPM3 ion channel research; LDN trials; brain waste clearance | TreatMELC LDN trial opening 18 October 2026; mechanism studies recruiting |
 | **Deakin University / Barwon Health** (Geelong, Australia) | TRI-ME trimetazidine trial | Recruiting in Victoria |
 | **Charité** (Berlin, Germany) | Immunoadsorption, HBOT, inebilizumab (PIONEER), aripiprazole (PAIS-AriSE), rehab | The largest clinical trial hub in the field; German government funded |
 | **Haukeland University Hospital** (Bergen, Norway) | Daratumumab (RESETME) | 66-patient trial under way, closed to new applicants |

@@ -41,7 +41,7 @@
     "countries": [
       "Australia"
     ],
-    "locations": "Recruiting from NSW, QLD and VIC",
+    "locations": "NSW and QLD (October 2026 to September 2027), then VIC (June 2027 to December 2027)",
     "eligibility": "Age 18–65, BMI 18.5–29.9. Either ME/CFS diagnosed by a doctor and meeting the Canadian and/or International Consensus Criteria, **or** Long COVID with brain fog, sleep problems and/or body pain. You're likely to be ineligible if you already take LDN.",
     "sponsor": "Griffith University · funded by the Stafford Fox Medical Research Foundation",
     "contact_name": "Prof Sonya Marshall-Gradisnik",
@@ -51,7 +51,7 @@
     "registry_id": "ACTRN12624001162505",
     "registry_url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=387311",
     "verified": true,
-    "notes": "NCNED confirmed in September 2026 that this trial **hasn't started yet**. To hear when it opens, join the [NCNED research registry](https://redcap.link/NCNEDresearchregistry). The general NCNED line, (07) 5678 9283 or ncned@griffith.edu.au, can also help."
+    "notes": "Recruitment opens **18 October 2026** (confirmed by NCNED, October 2026). To hear when it opens, join the [NCNED research registry](https://redcap.link/NCNEDresearchregistry). The general NCNED line, (07) 5678 9283 or ncned@griffith.edu.au, can also help."
   },
   {
     "id": "ncned-studies",
@@ -138,7 +138,7 @@
     "summary": "Griffith University's placebo-controlled trial of LDN for Long COVID brain fog, sleep problems and pain. **People previously diagnosed with ME/CFS are excluded.**",
     "intervention": "LDN 1.5 mg/day, increasing to 4–6 mg/day, nightly for 12 weeks vs placebo",
     "phase": "Phase 1, placebo-controlled (target 56 people)",
-    "status": "unknown",
+    "status": "completed",
     "condition": "Long COVID",
     "typeList": [
       "Drug trial"
@@ -156,7 +156,7 @@
     "registry_id": "ACTRN12623001042639",
     "registry_url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=386522",
     "verified": true,
-    "notes": "The registry still says recruiting but hasn't been updated since June 2024, so recruitment has probably finished. Placebo participants can start LDN afterwards."
+    "notes": "This trial has finished (confirmed by NCNED, October 2026), so it's no longer recruiting. We'll add the results when they're published."
   },
   {
     "id": "reverse-lc",
@@ -423,7 +423,7 @@
   {
     "id": "sequence-me",
     "name": "Sequence ME & Long Covid",
-    "summary": "The follow-on to DecodeME: reading the **full genomes** of up to 9,000 people with ME/CFS and 9,000 with Long COVID to find rare genetic variants.",
+    "summary": "The follow-on to DecodeME: reading the **full genomes** of people with ME/CFS and Long COVID to find rare genetic variants. Current funding covers up to 6,000 DecodeME samples, with the aim of reaching 9,000 if more funding is found.",
     "intervention": "Whole-genome sequencing",
     "phase": "Genetic study (not a clinical trial)",
     "status": "not-yet",
@@ -435,8 +435,8 @@
       "United Kingdom"
     ],
     "locations": "University of Edinburgh (lead)",
-    "eligibility": "ME/CFS: **existing DecodeME participants only**. Long COVID: UK residents, criteria still being set.",
-    "sponsor": "University of Edinburgh, EMBL-EBI, Action for ME · £4.75m UK government funding",
+    "eligibility": "ME/CFS: **no new recruitment**. The study uses samples already given to DecodeME, with consent provided through DecodeME. Long COVID: UK residents; recruitment depends on securing funding, and expressions of interest are expected to open in the next few months.",
+    "sponsor": "University of Edinburgh, EMBL-EBI, Action for ME · funded by the UK Government, Action for ME, Solve M.E., CODA, We&ME and the Schmidt Initiative for Long Covid",
     "contact_name": "Action for ME Information & Support",
     "contact_email": "infosupport@actionforme.org.uk",
     "contact_phone": "+44 117 927 9551",
@@ -444,7 +444,7 @@
     "registry_id": "",
     "registry_url": "",
     "verified": true,
-    "notes": "No new sign-ups for ME/CFS: the study will use samples already collected through DecodeME. The Long COVID arm isn't open yet; UK residents will be able to register interest once it is, and people outside the UK are unlikely to be eligible."
+    "notes": "To hear when Long COVID expressions of interest open, check the Action for ME website or sign up to its newsletter. People outside the UK are unlikely to be eligible."
   },
   {
     "id": "omf-studyme",
