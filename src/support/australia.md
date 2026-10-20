@@ -15,7 +15,7 @@ brief:
 <li><strong>Find an experienced GP.</strong> See our <a href="/support/find-a-doctor/">Find a doctor</a> list (mainly south-east Queensland and northern NSW), or ask Emerge Australia.</li>
 <li><strong>Contact Emerge Australia.</strong> They're the national ME/CFS organisation. Their registered nurses offer free support and telehealth, and they can help you find an ME/CFS-experienced GP or specialist.</li>
 <li><strong>See your GP</strong> for the tests that rule out other conditions and the extra ME/CFS-relevant tests. Take our <a href="/treatment/testing/#a-script-for-your-gp-appointment">GP script</a>.</li>
-<li><strong>Ask about a Chronic Condition Management Plan</strong> to get Medicare-subsidised allied health sessions, most usefully an occupational therapist experienced in pacing.</li>
+<li><strong>Ask about a Chronic Condition Management Plan</strong> to get Medicare-subsidised allied health sessions, most usefully an occupational therapist experienced in pacing. From 1 November 2026, your GP can prepare or review the plan <strong>by phone</strong>, which helps if you're too unwell to get to the clinic.{% ref "mbs-2026-ccm-phone" %}</li>
 <li><strong>Get referrals where needed:</strong> a <a href="/living/sleep/">sleep study</a>, and cardiology or an autonomic clinic for <a href="/living/orthostatic-intolerance/">dizziness on standing</a>.</li>
 <li><strong>Consider research participation.</strong> Studies can include free immune testing or MRI. See <a href="/research/trials/?country=Australia">trials in Australia</a>.</li>
 </ol>
@@ -41,7 +41,7 @@ Emerge Australia says the federal funding for its telehealth and support service
 {% endcallout %}
 
 - **Phone:** [1800 865 321](tel:1800865321) or (03) 9529 1344
-  - **Press 1:** nurse support & telehealth (Mon–Fri, 9am–4:30pm AEDT, free)
+  - **Press 1:** nurse support & telehealth (Mon–Fri, 9am–4:30pm AEDT, free). Telehealth calls can be booked with a free interpreter (TIS).{% ref "emerge-tis" %}
   - **Press 3:** research, biobank and clinical education (Tue–Thu, 8am–3:30pm AEDT)
 - **Email:** [information@emerge.org.au](mailto:information@emerge.org.au)
 - **Web:** [emerge.org.au](https://emerge.org.au)
@@ -63,7 +63,7 @@ Some programmes still include **graded exercise therapy** or CBT framed as a cur
 
 ## New Australian guidelines
 
-The Federal Government has funded ($1.1 million) the NHMRC to develop **Australia's first clinical guideline for ME/CFS**. The evidence review runs to 2027, with a draft for public consultation expected in late 2027 and release around the end of 2027 or 2028.{% ref "butler-2024", "nhmrc-guideline-dev" %} Until then, many Australian clinicians follow the UK's NICE guideline (2021) and the US CDC guidance, both of which move away from graded exercise.{% ref "nice-ng206", "cdc-mecfs" %}
+The Federal Government has funded ($1.1 million) the NHMRC to develop **Australia's first clinical guideline for ME/CFS**. The evidence review runs to 2027, with a draft for public consultation expected in late 2027 and release around the end of 2027 or 2028.{% ref "butler-2024", "nhmrc-guideline-dev" %} In July 2026 the guideline committee agreed on **20 questions** the guideline will answer, covering diagnosis, management and care pathways, and discussed how it will cover young people.{% ref "nhmrc-2026-gdc-july" %} Until then, many Australian clinicians follow the UK's NICE guideline (2021) and the US CDC guidance, both of which move away from graded exercise.{% ref "nice-ng206", "cdc-mecfs" %}
 
 ## In a crisis
 

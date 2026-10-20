@@ -46,7 +46,7 @@ Also tell your doctor about any **recent infections** (COVID reinfection is a ve
 
 ### "Everything came back normal"
 
-That's useful information. **Very low CRP and ESR (no general inflammation) with otherwise normal bloods is the classic ME/CFS picture.** It helps rule out other illnesses, and it doesn't mean nothing is wrong.
+That's useful information. **Very low CRP and ESR (no general inflammation) with otherwise normal bloods is the classic ME/CFS picture.** It helps rule out other illnesses, and it doesn't mean nothing is wrong. Similarly, a 2026 study of 564 people with Long COVID found that none of 89 routine blood tests could tell symptom patterns apart or predict who would improve.{% ref "oberhauser-2026-routine-labs" %}
 
 ### LD (lactate dehydrogenase)
 

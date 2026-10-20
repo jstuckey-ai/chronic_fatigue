@@ -33,7 +33,7 @@
     "summary": "A placebo-controlled trial of **low-dose naltrexone (LDN)** from Griffith University's NCNED, the team behind the TRPM3 ion channel research. It will also look at immune, ion channel and brain measures to find a treatment biomarker. Capsules are posted to participants.",
     "intervention": "LDN starting at 1.5 mg/day, increasing weekly to 4.5–6 mg/day, for 12 weeks vs placebo",
     "phase": "Phase 1, placebo-controlled (target 56 people)",
-    "status": "not-yet",
+    "status": "recruiting",
     "condition": "ME/CFS + Long COVID",
     "typeList": [
       "Drug trial"
@@ -51,7 +51,7 @@
     "registry_id": "ACTRN12624001162505",
     "registry_url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=387311",
     "verified": true,
-    "notes": "Recruitment opens **18 October 2026** (confirmed by NCNED, October 2026). To hear when it opens, join the [NCNED research registry](https://redcap.link/NCNEDresearchregistry). The general NCNED line, (07) 5678 9283 or ncned@griffith.edu.au, can also help."
+    "notes": "NCNED told us recruitment would open on **18 October 2026**; the ANZCTR registry hasn't been updated yet. To take part, join the [NCNED research registry](https://redcap.link/NCNEDresearchregistry) or contact the team. The general NCNED line, (07) 5678 9283 or ncned@griffith.edu.au, can also help."
   },
   {
     "id": "ncned-studies",
@@ -159,6 +159,33 @@
     "notes": "This trial has finished (confirmed by NCNED, October 2026), so it's no longer recruiting. We'll add the results when they're published."
   },
   {
+    "id": "nz-long-covid-registry",
+    "name": "Long COVID Registry Aotearoa New Zealand",
+    "title": "Long COVID Registry (Aotearoa New Zealand): a registry-based cohort study",
+    "summary": "The University of Auckland's registry collects information from New Zealanders living with Long COVID about symptoms, quality of life, work, caring and costs. Everything is done **online or by phone**, and you **don't need a formal diagnosis**.",
+    "intervention": "None (online surveys: a short monthly survey and a longer follow-up at six months)",
+    "phase": "Registry",
+    "status": "recruiting",
+    "condition": "Long COVID",
+    "typeList": [
+      "Registry"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "locations": "Online or by phone, anywhere in New Zealand",
+    "eligibility": "Adults 18+ in New Zealand with self-reported Long COVID. People who have recovered, or whose symptoms are now explained by another condition, are also invited.",
+    "sponsor": "University of Auckland · Ministry of Health (NZ) and EuroQol Foundation",
+    "contact_name": "Prof Paula Lorgelly",
+    "contact_email": "paula.lorgelly@auckland.ac.nz",
+    "contact_phone": "0800 532 150",
+    "contact_url": "https://www.lcregistry.auckland.ac.nz/",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": "Joining online needs a Google account to log in; if you can't use the internet, phone 0800 532 150 to register by phone interview. Suits people who are too unwell to travel."
+  },
+  {
     "id": "reverse-lc",
     "name": "REVERSE-LC: baricitinib for Long COVID",
     "summary": "A large NIH-funded trial of **baricitinib**, an anti-inflammatory drug (JAK inhibitor), mainly for Long COVID thinking and memory problems. Researchers note that EBV reactivation is linked to Long COVID fatigue.",
@@ -262,7 +289,7 @@
     "registry_id": "NCT07714213",
     "registry_url": "https://clinicaltrials.gov/study/NCT07714213",
     "verified": true,
-    "notes": "Expected to start October 2026. ME/CFS isn't a formal entry requirement."
+    "notes": "Planned to start in October 2026, but the registry still showed it as not yet recruiting in mid-October. ME/CFS isn't a formal entry requirement."
   },
   {
     "id": "impact-charite",
@@ -288,7 +315,7 @@
     "registry_id": "NCT07529197",
     "registry_url": "https://clinicaltrials.gov/study/NCT07529197",
     "verified": true,
-    "notes": "Please don't contact the team to request a place: participants are selected from Charité's own clinic patients. Immunoadsorption is funded by the German government, not health insurance. Charité's upcoming trials (AIM-ME, PIONEER and TAME ME) are also only for patients already seen at its clinic."
+    "notes": "Please don't contact the team to request a place: participants are selected from Charité's own clinic patients. Immunoadsorption is funded by the German government, not health insurance. Charité's upcoming trials (AIM-ME, PIONEER and TAME ME) are also only for patients already seen at its clinic. (The ClinicalTrials.gov record lists the study as recruiting, but only existing Charité patients are eligible.)"
   },
   {
     "id": "access-hannover",
@@ -575,7 +602,7 @@
     "registry_id": "NCT07285473",
     "registry_url": "https://clinicaltrials.gov/study/NCT07285473",
     "verified": true,
-    "notes": "Planned start October 2026."
+    "notes": "Planned start: November 2026 (registry, updated 8 October 2026)."
   },
   {
     "id": "mayo-voice",

@@ -37,7 +37,7 @@ The core features are the same as in adults ([post-exertional malaise](/understa
 
 ### "It's not school refusal"
 
-This is the most important thing for parents, teachers and doctors to understand. In an Australian study, adolescents with ME/CFS missed on average **42% of the school term**, compared with 5% for healthy peers.{% ref "knight-2018" %} UK data suggest ME/CFS is the single most common cause of long-term school absence.{% ref "rowe-pc-2017" %}
+This is the most important thing for parents, teachers and doctors to understand. In an Australian study, adolescents with ME/CFS missed on average **42% of the school term**, compared with 5% for healthy peers.{% ref "knight-2018" %} UK data suggest ME/CFS is the single most common cause of long-term school absence.{% ref "rowe-pc-2017" %} In a 2026 US CDC study of 40 teenagers with ME/CFS, **nearly 9 in 10 had missed school** and almost two-thirds were being taught at home; their core symptoms, including post-exertional malaise, were the same as in adults.{% ref "weaver-2026-mcam-pediatric" %}
 
 But the pattern is the opposite of school refusal. **Young people with ME/CFS usually want to attend school** and keep up their hobbies, and are prevented by physical limits. With school refusal, symptoms improve once the child is allowed to stay home and disappear on weekends and holidays. With ME/CFS they don't.{% ref "rowe-pc-2017", "jason-2006-peds", "emerge-school-flyer" %}
 

@@ -3426,5 +3426,95 @@
   "url": "https://emerge.org.au/news/the-australian-600000-patients-risk-losing-care-over-220k-grant/",
   "type": "news",
   "note": "Federal funding for Emerge's patient services reported to end 30 November 2026"
+ },
+ "peluso-2026-aer002": {
+  "title": "SARS-CoV-2-specific monoclonal antibody AER002 in Long COVID: an exploratory randomized phase 2a mechanistic trial",
+  "author": "Peluso MJ et al.",
+  "journal": "Nature Communications",
+  "year": 2026,
+  "url": "https://doi.org/10.1038/s41467-026-77925-y",
+  "type": "rct",
+  "note": "36 people, randomised 2:1: one AER002 infusion did not beat placebo on physical health at day 90 or secondary outcomes"
+ },
+ "weaver-2026-mcam-pediatric": {
+  "title": "Characterizing Pediatric ME/CFS: Symptom Burden, Functional Impairment, and Comparison With Adults in the Multi-Site Clinical Assessment of ME/CFS (MCAM) Study",
+  "author": "Weaver SS et al.",
+  "journal": "Journal of Pediatrics",
+  "year": 2026,
+  "url": "https://doi.org/10.1016/j.jpeds.2026.115361",
+  "type": "observational",
+  "note": "40 adolescents with ME/CFS: 89% missed school, 64% homebound or homeschooled; core symptoms including PEM as in 595 adults"
+ },
+ "jiang-2026-cbt-meta": {
+  "title": "Rehabilitative efficacy of cognitive behavioral therapy-based intervention for chronic fatigue syndrome: a systematic review and meta-analysis",
+  "author": "Jiang X et al.",
+  "journal": "Medicine (Baltimore)",
+  "year": 2026,
+  "url": "https://doi.org/10.1097/MD.0000000000050765",
+  "type": "rct",
+  "note": "15 RCTs (2,270 people): small improvements in self-reported fatigue (Chalder SMD -0.44) and physical function (SMD 0.32); unblinded trials"
+ },
+ "chen-2026-exercise-long-covid": {
+  "title": "Exercise effectiveness on fatigue in Long-COVID: systematic review and meta-analysis",
+  "author": "Chen YC et al.",
+  "journal": "Annals of Behavioral Medicine",
+  "year": 2026,
+  "url": "https://doi.org/10.1093/abm/kaag048",
+  "type": "rct",
+  "note": "14 RCTs: fatigue SMD -0.59, certainty moderate to very low; authors advise preventing post-exertional malaise"
+ },
+ "oberhauser-2026-routine-labs": {
+  "title": "Routine laboratory data are decoupled from symptom phenotype and prognosis in Long COVID: within-cohort variation is dominated by age",
+  "author": "Oberhauser V et al.",
+  "journal": "Clinical Chemistry and Laboratory Medicine",
+  "year": 2026,
+  "url": "https://doi.org/10.1515/cclm-2026-1238",
+  "type": "observational",
+  "note": "564 Long COVID outpatients: none of 89 routine blood tests distinguished symptom patterns or predicted recovery"
+ },
+ "ctgov-stronger": {
+  "title": "STRONGER: atorvastatin for neurological long COVID (NCT04904536)",
+  "author": "The George Institute for Global Health",
+  "journal": "ClinicalTrials.gov",
+  "year": 2025,
+  "url": "https://clinicaltrials.gov/study/NCT04904536",
+  "type": "registry",
+  "note": "Active, not recruiting; 190 enrolled (actual); no results posted"
+ },
+ "cyda-2026-ndis-changes": {
+  "title": "Securing the NDIS: what is changing and when",
+  "author": "Children and Young People with Disability Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://cyda.org.au/?p=24522",
+  "type": "report",
+  "note": "Updated 1 Oct 2026: budget reductions, plan suspensions, 90-day claims from 1 Dec 2026, plan renewal from 1 Feb 2027"
+ },
+ "nhmrc-2026-gdc-july": {
+  "title": "ME/CFS Guideline Development Committee: summary of meeting, July 2026",
+  "author": "National Health and Medical Research Council",
+  "journal": null,
+  "year": 2026,
+  "url": "https://nhmrc.gov.au/health-advice/me-cfs/governance/guideline-development-committee/summary-meeting-july2026",
+  "type": "guideline",
+  "note": "Committee endorsed 20 guideline questions covering care principles, diagnosis, management and care pathways"
+ },
+ "mbs-2026-ccm-phone": {
+  "title": "MBS changes from 1 November 2026: phone items for GP chronic condition management plans",
+  "author": "Department of Health, Disability and Ageing (MBS Online)",
+  "journal": null,
+  "year": 2026,
+  "url": "https://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/news-20261101",
+  "type": "guideline",
+  "note": "Items 92033, 92034, 92063, 92064: GP chronic condition management plans prepared or reviewed by phone"
+ },
+ "emerge-tis": {
+  "title": "Telehealth service",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/telehealth-service/",
+  "type": "report",
+  "note": "Telehealth calls can now be booked with a free TIS interpreter"
  }
 }

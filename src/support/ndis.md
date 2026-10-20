@@ -2,7 +2,7 @@
 title: ME/CFS and the NDIS
 seoTitle: "ME/CFS and the NDIS: Eligibility, Evidence & Appeals (2026)"
 description: Can ME/CFS qualify for the NDIS? The eligibility rules as they stand in 2026, the changes coming in 2027 and 2028, what evidence works, what gets funded, and what to do if you're refused.
-reviewed: 2026-09-30
+reviewed: 2026-10-20
 brief:
   - '**Yes, people with ME/CFS can get NDIS support**, but only on the basis of individual functional impact. There is no ME/CFS-specific policy, and ME/CFS is not on any automatic-entry list.'
   - 'The law says **fluctuating or episodic impairments can still be permanent**. That protection is written into the NDIS Act.'
@@ -12,7 +12,7 @@ brief:
 ---
 
 {% callout "note", "About this page" %}
-The NDIS is changing quickly. This page reflects the law and NDIS policy as at **30 September 2026**, and links every point to the official page or legislation so you can check the current version. It is general information, not legal advice. Free expert help is listed [at the bottom](#free-help).
+The NDIS is changing quickly. This page reflects the law and NDIS policy as at **20 October 2026**, and links every point to the official page or legislation so you can check the current version. It is general information, not legal advice. Free expert help is listed [at the bottom](#free-help).
 {% endcallout %}
 
 ## Can ME/CFS qualify?
@@ -60,7 +60,8 @@ The NDIS is in the middle of its biggest overhaul since it began. Key dates:{% r
 | **3 Oct 2024** | A legal list of what is and isn't an "NDIS support"; funding tied to the impairments that got you in |
 | **1 Jan 2025** | New applicants receive an **impairment notice** listing the categories of impairment that met the access test{% ref "ndis-impairment-notice" %} |
 | **27 Aug 2026** | New legal definition of **functional capacity** (above); tighter rules on unscheduled plan changes (only for "significant and ongoing" changes; the NDIA has 90 days to decide) |
-| **1 Oct 2026** | **Budget cuts** to new and renewed plans: "social, economic and community participation" supports cut by 50%, "improved daily living skills" (where OT and other allied health sit) cut by 10%. **Not affected:** in-home help with daily living, personal care, cleaning and laundry, nursing and medication, mobility equipment and transport, home modifications, high-intensity supports.{% ref "ndis-budgets-2026" %} |
+| **1 Oct 2026** | **Budget cuts** to new and reassessed plans (and to renewed plans from 1 February 2027): "social, economic and community participation" supports cut by 50%, "improved daily living skills" (where OT and other allied health sit) cut by 10%. **Not affected:** in-home help with daily living, personal care, cleaning and laundry, nursing and medication, mobility equipment and transport, home modifications, high-intensity supports. The cuts are to the overall budget for these categories, so your own funding won't necessarily drop by the same amount. The NDIA can also now **suspend a plan** if you don't respond to repeated requests for information; if you're often too unwell to reply, tell the NDIA who can respond for you.{% ref "ndis-budgets-2026", "cyda-2026-ndis-changes" %} |
+| **1 Dec 2026** | Claims for supports must be made **within 90 days** of the support being delivered (participants and plan managers).{% ref "cyda-2026-ndis-changes" %} |
 | **1 Feb 2027** | Tighter assessment of "reasonable and necessary" supports rolled out progressively |
 | **1 Apr 2027 to 2030** | Existing adult participants move to **new framework plans** built on a standardised support-needs assessment by a trained NDIA assessor, with a total funding amount |
 | **1 Jan 2028** | **A stricter permanence test for new applicants.** Impairments won't count as permanent unless you've "undertaken all appropriate treatment" and they're "likely to persist for the person's lifetime". "Appropriate treatment" must be evidence-based, able to "reliably be expected to materially improve, reverse, or alleviate" the impairment, and regularly performed in Australia. Existing participants will be progressively reassessed over three years.{% ref "ndis-amend-2026" %} |

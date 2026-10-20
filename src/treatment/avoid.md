@@ -17,7 +17,7 @@ Programmes that increase activity **on a schedule regardless of symptoms**, or t
 This is **not** the same as a slow, symptom-led programme that lets you step back when you flare. Some guidelines allow that. See [Is exercise ever OK?](/living/pacing/#is-exercise-ever-ok) and [the debate](#the-debate-about-graded-exercise-therapy) below.
 {% endcallout %}
 
-- **CBT framed as a *cure*.** Supportive counselling for coping with a serious illness can help. Programmes that claim ME/CFS is maintained by "unhelpful beliefs", and that changing them will cure you, are not supported.
+- **CBT framed as a *cure*.** Supportive counselling for coping with a serious illness can help. Programmes that claim ME/CFS is maintained by "unhelpful beliefs", and that changing them will cure you, are not supported. A 2026 review of 15 CBT trials reported small improvements in self-reported fatigue, but the trials couldn't be blinded and relied on questionnaires, and reviewers have raised concerns about how some trials were counted. It doesn't show that CBT treats the illness itself.{% ref "jiang-2026-cbt-meta" %}
 - **High-dose steroids.** The PoCoVIT trial was **stopped early after five serious blood clotting events**, with no benefit.{% ref "pocovit-nct", "sicktimes-berlin-2026" %}
 - **Immunoadsorption outside a trial.** It showed no benefit in unselected patients (Charité, 2026).{% ref "iapacs-nct", "sicktimes-berlin-2026" %} It may help some people with specific autoantibodies,{% ref "stein-2025" %} but only in a research setting for now.
 - **Expensive "protocols" and clinics** that promise recovery, especially with upfront packages.

@@ -307,9 +307,10 @@
     "audience": "Families and students",
     "organiser": "Emerge Australia with MissingSchool",
     "url": "https://emerge.org.au/learn-with-emerge-australia-lea/",
-    "patient_access": "Free. Not recorded.",
+    "patient_access": "Free. A recording is available on the Emerge news page.",
     "verified": true,
-    "notes": "For families of children and teenagers with ME/CFS or Long COVID who are missing school. See [ME/CFS in children](/understanding/children/)."
+    "notes": "For families of children and teenagers with ME/CFS or Long COVID who are missing school. See [ME/CFS in children](/understanding/children/).",
+    "recordings_url": "https://emerge.org.au/news/navigating-disability-supports-qa-session-with-missingschool/"
   },
   {
     "name": "Emerge Australia: Disability Support Pension Q&A",
