@@ -28,11 +28,11 @@ Conference recordings (with English slides and subtitles) are at [events.mecfs-r
 | **Fluvoxamine; a synbiotic** {% ev "rct" %} {% ev "adjacent" %}{% ref "reis-2026", "lau-2024" %} | Modest fatigue improvements in Long COVID trials (399 and 463 people) |
 | **RESETME pilot (daratumumab)**, Norway {% ev "open" %}{% ref "fluge-2025" %} | 6 of 10 responded, some walking 10,000+ steps a day; 5 remained well at 12–24 months (and, per the researchers' conference update, 2–3 years). A 66-person placebo-controlled trial is now under way (closed to new applicants).{% ref "resetme-ctis" %} |
 
-## Negative results (worth knowing so you don't chase them)
+## Negative results
 
 | Trial | Result |
 |---|---|
-| **Canadian LDN trial** (160 enrolled, 137 analysed; post-COVID fatigue) {% ev "rct" %} {% ev "adjacent" %}{% ref "nacul-nct", "sicktimes-berlin-2026" %} | Missed its fatigue goal. More than 40% of the placebo group reportedly improved. See [LDN](/treatment/medications/#low-dose-naltrexone-ldn). |
+| **Canadian LDN trial** (160 enrolled, 137 analysed; post-COVID fatigue) {% ev "rct" %} {% ev "adjacent" %}{% ref "nacul-nct", "sicktimes-berlin-2026" %} | Missed its fatigue goal. More than 40% of the placebo group reportedly improved. **Long COVID only:** people who had ME/CFS before COVID were excluded, so it doesn't answer whether LDN helps ME/CFS. See [LDN](/treatment/medications/#low-dose-naltrexone-ldn). |
 | **Charité immunoadsorption** (44 treated vs 21 sham) {% ev "rct" %}{% ref "iapacs-nct", "sicktimes-berlin-2026" %} | No significant difference in fatigue at 60 days. Criticised for not selecting autoantibody-positive patients; in a separate open-label series of 20 autoantibody-positive patients, 14 responded.{% ref "stein-2025" %} |
 | **PoCoVIT** (methylprednisolone) {% ev "rct" %}{% ref "pocovit-nct", "sicktimes-berlin-2026" %} | **Stopped early after five serious clotting events.** No benefit. |
 | **Myoflame-19** (prednisolone + losartan, 279 patients) {% ev "rct" %} {% ev "adjacent" %}{% ref "puntmann-2026" %} | No benefit |

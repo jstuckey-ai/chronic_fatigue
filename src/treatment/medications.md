@@ -4,7 +4,7 @@ title: Medications
 description: Off-label medications used in ME/CFS (low-dose naltrexone, rapamycin, pyridostigmine, aripiprazole and more) and what the evidence really shows.
 brief:
   - '**No drug is approved** specifically for ME/CFS. All of these are **off-label** and need a doctor.'
-  - '**Low-dose naltrexone (LDN)** is cheap and generally safe, but the **first large placebo-controlled trial (2026) missed its main goal**. Some people still respond.'
+  - '**Low-dose naltrexone (LDN)** is cheap and generally safe. It **hasn''t yet been tested against a placebo in ME/CFS**. The first large placebo-controlled trial, in **Long COVID** (2026), didn''t beat placebo on fatigue. Many people with ME/CFS report benefit, and Australian trials are now under way.'
   - '**Low-dose rapamycin** has the strongest early signal (74% improved), but **without a placebo group**.'
   - '**Pyridostigmine** has placebo-controlled data and is most relevant for **dizziness on standing**.'
 ---
@@ -53,7 +53,7 @@ Naltrexone at full dose (50 mg) blocks opioids and is used for alcohol and opioi
 - LDN is **cheap, generally safe and reversible**.
 
 {% callout "note", "Our summary" %}
-LDN is probably a small-effect drug overall, with a minority of clear responders we can't yet identify in advance. A **three-month personal trial with a symptom log** is reasonable to discuss with your doctor. Set expectations at "maybe", not "83% chance". Don't let anyone sell it as *the* answer.
+**Unproven but promising in ME/CFS.** We won't know how well it works until placebo-controlled ME/CFS trials report. Some people clearly respond, and we can't yet predict who. A **three-month personal trial with a symptom log** is reasonable to discuss with your doctor. Set expectations at "maybe", not "83% chance". Don't let anyone sell it as *the* answer.
 {% endcallout %}
 
 ### Practicalities (Australia)
@@ -64,7 +64,7 @@ LDN is probably a small-effect drug overall, with a minority of clear responders
 - **Judge after 2–3 months** at the target dose. A two-week pause afterwards shows whether it was doing anything.
 - **It blocks opioid painkillers** (codeine, tramadol, oxycodone). Tell every doctor and dentist, and stop it before planned surgery as advised.
 - Many GPs haven't prescribed it. See our [Find a doctor](/support/find-a-doctor/?tag=ldn) list of LDN prescribers, or ask **Emerge Australia**.
-- Griffith University is starting a **placebo-controlled LDN trial (TreatMELC)** in Australia. See [trials](/research/trials/?country=Australia). Note that you're usually not eligible if you're already taking LDN.
+- Griffith University's **placebo-controlled LDN trial (TreatMELC)**, which includes people with ME/CFS, opened in October 2026. See [trials](/research/trials/?country=Australia). Note that you're usually not eligible if you're already taking LDN.
 
 ## Low-dose rapamycin (sirolimus) {% ev "open" %}
 
