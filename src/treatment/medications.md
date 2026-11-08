@@ -4,7 +4,7 @@ title: Medications
 description: Off-label medications used in ME/CFS (low-dose naltrexone, rapamycin, pyridostigmine, aripiprazole and more) and what the evidence really shows.
 brief:
   - '**No drug is approved** specifically for ME/CFS. All of these are **off-label** and need a doctor.'
-  - '**Low-dose naltrexone (LDN)** is cheap and generally safe. It **hasn''t yet been tested against a placebo in ME/CFS**. The first large placebo-controlled trial, in **Long COVID** (2026), didn''t beat placebo on fatigue. Many people with ME/CFS report benefit, and Australian trials are now under way.'
+  - '**Low-dose naltrexone (LDN)** is cheap and generally safe. It **hasn''t yet been tested against a placebo in ME/CFS**. The first large placebo-controlled trial, in **Long COVID**, didn''t beat placebo on fatigue or any other outcome (full results October 2026). Many people with ME/CFS report benefit, and Australian trials are now under way.'
   - '**Low-dose rapamycin** has the strongest early signal (74% improved), but **without a placebo group**.'
   - '**Pyridostigmine** has placebo-controlled data and is most relevant for **dizziness on standing**.'
 ---
@@ -35,21 +35,19 @@ Naltrexone at full dose (50 mg) blocks opioids and is used for alcohol and opioi
 | Griffith lab studies, 2021–2025{% ref "cabanas-2021", "eaton-fitch-2022", "sasso-2025" %} | {% ev "lab" %} | TRPM3 function restored. Patients reported improved thinking and immune symptoms, but **not pain, sleep or dizziness**. |
 | Small fibromyalgia trials{% ref "younger-2013" %} | {% ev "rct" %} {% ev "adjacent" %} | Positive for pain and fatigue (31 people) |
 | FINAL trial, Denmark (99 women with fibromyalgia){% ref "duebruun-2024" %} | {% ev "rct" %} {% ev "adjacent" %} | Missed on pain; some signal for memory |
-| **Canadian post-COVID trial (UBC), May 2026**{% ref "nacul-nct", "sicktimes-berlin-2026" %} | {% ev "rct" %} {% ev "adjacent" %} | **Missed its main goal (reducing fatigue).** See below. |
+| **Canadian post-COVID trial (UBC), 2026**{% ref "nacul-nct", "naik-2026-ldn-postcovid" %} | {% ev "rct" %} {% ev "adjacent" %} | **No better than placebo** on fatigue or any other outcome. See below. |
 
 ### The Canadian trial
 
 - Led by Dr Luis Nacul at the University of British Columbia and funded by the Canadian Institutes of Health Research and the UK ME Association.
 - A Phase 2 trial in **post-COVID fatigue syndrome** (Long COVID with ME/CFS-type fatigue). **People who had ME/CFS before COVID were excluded.** 160 people enrolled; LDN was built up to 4.5 mg/day over 16 weeks. Registry: [NCT05430152](https://clinicaltrials.gov/study/NCT05430152).
-- **LDN did not reduce fatigue more than placebo.** Of 137 people analysed (66 on LDN, 71 on placebo), the fatigue endpoint was not met.{% ref "sicktimes-berlin-2026" %}
+- **LDN did not reduce fatigue more than placebo.** The first results were presented at a conference in May 2026.{% ref "sicktimes-berlin-2026" %} The full results, posted in October 2026 (81 people on LDN, 79 on placebo), found **no benefit on fatigue, pain, overall symptoms, daily step counts or quality of life**. LDN was well tolerated. The paper hasn't been peer-reviewed yet.{% ref "naik-2026-ldn-postcovid" %}
 - **More than 40% of the placebo group felt better.** This is why open-label figures like "74%" or "83%" can't be taken at face value.
-- Detailed results (e.g. on pain, sleep, dizziness and subgroups) aren't published yet. Figures reported so far come from conference coverage; the ME Association describes the preliminary results as negative and says they're being submitted for publication.{% ref "mea-ldn-2026" %}
 
 ### Why LDN is still worth discussing
 
 - The Canadian trial only included **post-COVID** illness. People with classic ME/CFS, e.g. after glandular fever, may respond differently. It counts against LDN in Long COVID more than in ME/CFS.
-- It measured **fatigue**. If LDN helps a subgroup with brain fog or sleep, a fatigue-focused trial could miss that.
-- It was too small to detect a benefit in a subgroup.
+- It was too small to detect a benefit in a subgroup. Its other measures (pain, symptoms, steps, quality of life) didn't improve either, so this is a hope rather than a reason to expect benefit.
 - LDN is **cheap, generally safe and reversible**.
 
 {% callout "note", "Our summary" %}

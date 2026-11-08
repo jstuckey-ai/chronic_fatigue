@@ -3285,7 +3285,7 @@
   "year": 2026,
   "url": "https://clinicaltrials.gov/study/NCT06404047",
   "type": "registry",
-  "note": "Results not yet available"
+  "note": "Structured pacing results posted October 2026 (see NCT06404073); exercise results not yet available"
  },
  "cotler-2018": {
   "title": "A brief questionnaire to assess post-exertional malaise (DSQ-PEM)",
@@ -3516,5 +3516,68 @@
   "url": "https://emerge.org.au/telehealth-service/",
   "type": "report",
   "note": "Telehealth calls can now be booked with a free TIS interpreter"
+ },
+ "naik-2026-ldn-postcovid": {
+  "title": "Low Dose Naltrexone for Post-COVID Fatigue Syndrome: A Randomized Controlled Trial",
+  "author": "Naik H, Nacul L et al.",
+  "journal": "medRxiv (preprint)",
+  "year": 2026,
+  "url": "https://doi.org/10.64898/2026.10.22.26363582",
+  "type": "rct",
+  "note": "Full results of NCT05430152, posted 26 Oct 2026, not yet peer-reviewed: 160 people (81 LDN, 79 placebo), up to 4.5 mg/day for 16 weeks; no difference in fatigue (-0.76, 95% CI -4.18 to 2.67), pain, symptoms, daily steps or quality of life"
+ },
+ "gagyor-2026-previtacov": {
+  "title": "Low-dose prednisolone and B vitamins for post-COVID-19 syndrome in Germany: the PreVitaCOV randomised clinical trial",
+  "author": "Gágyor I, Klug A, Kaduszkiewicz H et al.",
+  "journal": "eClinicalMedicine",
+  "year": 2026,
+  "url": "https://doi.org/10.1016/j.eclinm.2026.104264",
+  "type": "rct",
+  "note": "323 people, 28 days of treatment: prednisolone improved symptom score by 1.4 points (below the pre-set 3-point threshold for a meaningful change); B vitamins -0.1 (no effect)"
+ },
+ "ctgov-lc-energize-pacing": {
+  "title": "RECOVER-ENERGIZE Appendix B: Structured Pacing (NCT06404073), results",
+  "author": "NIH RECOVER Initiative, Duke University",
+  "journal": "ClinicalTrials.gov",
+  "year": 2026,
+  "url": "https://clinicaltrials.gov/study/NCT06404073?tab=results",
+  "type": "rct",
+  "note": "Results posted 6 Oct 2026, not peer-reviewed: 300 people with Long COVID and PEM; structured pacing reduced PEM frequency (-0.46, 95% CI -0.65 to -0.27) and severity (-0.47, -0.65 to -0.30) on a 0-4 scale vs usual care at 12 weeks; unblinded"
+ },
+ "fraser-2026-no-microclots": {
+  "title": "No evidence of hypercoagulability, altered fibrinolysis, or increased fibrin(ogen) microaggregates in never-hospitalized long COVID",
+  "author": "Fraser E, Ariëns R, Shapiro S et al.",
+  "journal": "HemaSphere",
+  "year": 2026,
+  "url": "https://doi.org/10.1002/hem3.70501",
+  "type": "observational",
+  "note": "117 people with specialist-confirmed Long COVID vs 34 recovered controls: no clotting or fibrinolysis abnormality; microaggregates (measured in 55) no different; authors say antithrombotic therapy is not justified outside trials"
+ },
+ "achleitner-2026-gpcr": {
+  "title": "Receptor-binding autoantibodies are not associated with post-COVID fatigue",
+  "author": "Achleitner M, Steenblock C et al.",
+  "journal": "Brain, Behavior, & Immunity - Health",
+  "year": 2026,
+  "url": "https://doi.org/10.1016/j.bbih.2026.101393",
+  "type": "observational",
+  "note": "206 people after COVID: autoantibodies binding 13 receptors (including GPCRs) didn't differ by fatigue status or severity; doesn't test whether the antibodies affect receptor function"
+ },
+ "nilforoshan-2026-claims": {
+  "title": "Revised estimates of types and duration of long COVID symptoms based on claims records from 245 million US patients",
+  "author": "Nilforoshan H, Leskovec J et al.",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "year": 2026,
+  "url": "https://doi.org/10.1073/pnas.2604414123",
+  "type": "observational",
+  "note": "Comparing test-positive with test-negative people: 43 conditions attributable to COVID at 30-119 days, 5 at 120-359 days, 0 at 360-719 days; authors say this doesn't mean later symptoms aren't genuine"
+ },
+ "emerge-2026-ndis-changing": {
+  "title": "The NDIS is changing: what you need to know",
+  "author": "Emerge Australia",
+  "journal": null,
+  "year": 2026,
+  "url": "https://emerge.org.au/news/the-ndis-is-changing-what-you-need-to-know/",
+  "type": "report",
+  "note": "22 Oct 2026: plan managers from a government-approved list from 1 Oct 2027; support coordination changes from 1 Jul 2028; existing participants reassessed between Jan 2028 and Dec 2030"
  }
 }

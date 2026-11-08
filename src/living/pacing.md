@@ -18,7 +18,7 @@ The most consistent message in ME/CFS care is a cautionary one: **doing more tha
 - **Graded exercise therapy (GET)**, standard advice for decades, is no longer recommended by the UK's NICE guideline or the US CDC.{% ref "nice-ng206", "stat-cdc-2017" %} In patient surveys of more than 16,000 people, **54–81% reported getting worse** after GET.{% ref "geraghty-2019", "oxford-brookes-2019", "mea-survey-2015" %} Surveys can over-represent people who had bad experiences, and some clinics still use gentler, symptom-led versions. See [Is exercise ever OK?](#is-exercise-ever-ok) and [the debate about GET](/treatment/avoid/#the-debate-about-graded-exercise-therapy).
 
 {% callout "key", "Rest is treatment" %}
-Rest isn't laziness or giving up. Pacing hasn't been proven in large trials either (in the PACE trial, a formal pacing programme did no better than usual care{% ref "white-2011" %}), but avoiding crashes is the principle that ME/CFS guidelines and patient organisations share. During a decline, **cut your total load now**, not once you're bedbound. Having others take over admin and life logistics is itself part of treatment.
+Rest isn't laziness or giving up. Avoiding crashes is the principle that ME/CFS guidelines and patient organisations share. The trial evidence for pacing itself is still thin: in the PACE trial, a formal pacing programme did no better than usual care.{% ref "white-2011" %} But in October 2026 the US RECOVER-ENERGIZE trial (300 people with Long COVID and PEM) reported that **structured pacing reduced how often and how badly people crashed** compared with usual care over 12 weeks. Participants knew which group they were in, and the results aren't peer-reviewed yet.{% ref "ctgov-lc-energize-pacing" %} During a decline, **cut your total load now**, not once you're bedbound. Having others take over admin and life logistics is itself part of treatment.
 {% endcallout %}
 
 ## Your energy envelope
@@ -81,7 +81,7 @@ This is the single most important question, and the evidence splits along it:{% 
 - **Without PEM** (fatigue that doesn't crash you a day or two after effort), conventional exercise that builds up gradually is generally appropriate. The World Health Organization takes this line for Long COVID.
 - **With PEM**, pace and stabilise first. Only then consider small, reversible increases, ideally with a physiotherapist or exercise physiologist who understands PEM.
 
-A short standard questionnaire, the **DSQ-PEM**, can help a clinician check.{% ref "cotler-2018" %} The first large trial to test exercise advice separately for people with and without PEM (the NIH's RECOVER-ENERGIZE) hasn't reported yet.{% ref "recover-energize" %}
+A short standard questionnaire, the **DSQ-PEM**, can help a clinician check.{% ref "cotler-2018" %} The first large trial to test exercise advice separately for people with and without PEM (the NIH's RECOVER-ENERGIZE) hasn't reported its exercise results yet; its pacing results are [above](#why-pacing-comes-first).{% ref "recover-energize" %}
 
 ### What a careful programme looks like
 

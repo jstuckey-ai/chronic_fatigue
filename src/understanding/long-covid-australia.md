@@ -2,7 +2,7 @@
 title: Long COVID in Australia
 seoTitle: "Long COVID in Australia: Clinics, Research & Support (2026)"
 description: What long COVID is, how many Australians have it, its overlap with ME/CFS, where to get care now that most clinics have closed, current Australian research, and how to reduce your risk.
-reviewed: 2026-10-20
+reviewed: 2026-11-08
 brief:
   - '**Long COVID** means new or ongoing symptoms **3 months after COVID-19** that last at least 2 months and aren''t explained by anything else.'
   - 'Australian estimates range from **5% to 18%** of people infected, depending on how it''s measured. Modelling suggested up to **1.4 million** Australians at the late-2022 peak.'
@@ -26,7 +26,14 @@ Long COVID is an **umbrella term**. Some people have lasting lung, heart or clot
 - Griffith University found that people with long COVID and people with ME/CFS had **the same quality-of-life and disability scores** over 12 months, both far below healthy controls.{% ref "griffith-lc-2024" %}
 - The Australian Government's 2026 research round now specifically funds studies **comparing PASC with ME/CFS, POTS and fibromyalgia**.{% ref "mrff-2026" %}
 
-Emerge Australia's position is that management should be the same: **pacing, rest and stepwise symptom management**, with a warning that graded exercise can harm people with PEM.{% ref "emerge-lc-position" %} A 2026 review of 14 trials found exercise reduced fatigue in some Long COVID studies, but the evidence was of low certainty and the authors themselves warned about post-exertional malaise. If you have PEM, pacing remains the safer approach.{% ref "chen-2026-exercise-long-covid" %} See [After COVID vs glandular fever](/understanding/triggers-compared/) and [ME, CFS, POTS & related conditions](/understanding/related-conditions/).
+Emerge Australia's position is that management should be the same: **pacing, rest and stepwise symptom management**, with a warning that graded exercise can harm people with PEM.{% ref "emerge-lc-position" %} A 2026 review of 14 trials found exercise reduced fatigue in some Long COVID studies, but the evidence was of low certainty and the authors themselves warned about post-exertional malaise. If you have PEM, pacing remains the safer approach.{% ref "chen-2026-exercise-long-covid" %} In October 2026 the first large randomised trial of **structured pacing** (US RECOVER, 300 people with PEM) reported fewer and milder crashes than usual care, although participants knew which group they were in and the results aren't peer-reviewed yet.{% ref "ctgov-lc-energize-pacing" %}
+
+### Recent treatment trials
+
+- **Low-dose naltrexone (LDN):** a 160-person Canadian trial found it no better than placebo on fatigue or any other outcome (full results October 2026, not yet peer-reviewed).{% ref "naik-2026-ldn-postcovid" %} See [Medications](/treatment/medications/#low-dose-naltrexone-ldn).
+- **Low-dose prednisolone (a steroid):** a 4-week course eased symptoms slightly in a German trial of 323 people, but by less than a noticeable amount. B vitamins didn't help.{% ref "gagyor-2026-previtacov" %}
+- **"Microclots":** a UK study of 117 people who were never in hospital found no clotting abnormality, and the authors say blood thinners aren't justified outside trials.{% ref "fraser-2026-no-microclots" %}
+- More results are on [2026 results](/research/results/). See [After COVID vs glandular fever](/understanding/triggers-compared/) and [ME, CFS, POTS & related conditions](/understanding/related-conditions/).
 
 ## How many Australians have it?
 
@@ -41,6 +48,8 @@ The honest answer is that nobody knows precisely, because Australia has no natio
 | Young Victorians aged 15–29 (2023 survey){% ref "engelberts-2025" %} | **11%** reported long COVID; only about 1 in 10 had a formal diagnosis; 79% reported difficulties with work or study |
 
 In other words: somewhere between a few hundred thousand and over a million Australians, with women, people aged 40–69 and people with pre-existing conditions at higher risk.{% ref "woldegiorgis-2024" %}
+
+You may see reports of a very large US insurance-claims study (October 2026) suggesting earlier estimates overstated how many health conditions COVID causes in the long term. It compared people who tested positive with people who tested negative. Claims records capture fatigue and brain fog poorly, and the authors say their findings don't mean later symptoms aren't genuine, so it tells us little about ME/CFS-type Long COVID.{% ref "nilforoshan-2026-claims" %}
 
 ## What the government has done
 
@@ -82,7 +91,7 @@ Lung Foundation Australia and COVERSE keep clinic lists.{% ref "lungfoundation-l
 
 Australian long COVID research is growing thanks to the MRFF funding. Studies and trials with public contacts include:
 
-- **NALCOVID (Griffith University):** placebo-controlled trial of low-dose naltrexone for long COVID brain fog, sleep and pain. **Now completed.** Griffith's next LDN trial, **TreatMELC** (ME/CFS and long COVID), opens on 18 October 2026. See [trials](/research/trials/?country=Australia).
+- **NALCOVID (Griffith University):** placebo-controlled trial of low-dose naltrexone for long COVID brain fog, sleep and pain. **Now completed.** Griffith's next LDN trial, **TreatMELC** (ME/CFS and long COVID), opened in October 2026. See [trials](/research/trials/?country=Australia).
 - **ADAPT (St Vincent's Sydney / Kirby Institute):** long-term observational cohort; SVHS.ADAPT@svha.org.au.{% ref "svhs-adapt" %}
 - **SAGE trial (UNSW, from 2026):** a $3 million trial of a scalable GP and allied health model for long COVID in primary care.{% ref "unsw-lc-2026" %}
 - **HEAL APT (Burnet Institute):** a planned adaptive platform trial testing several treatments, in partnership with Emerge Australia and the Australian POTS Foundation; not yet recruiting.{% ref "burnet-heal" %}
