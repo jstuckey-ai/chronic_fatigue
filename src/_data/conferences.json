@@ -9,9 +9,10 @@
     "audience": "Patients welcome",
     "organiser": "Solve M.E.",
     "url": "https://solvecfs.org/sign-up-for-the-solve-m-e-2026-community-address-shaping-what-comes-next/",
-    "patient_access": "Free and open to everyone. Registration required.",
+    "patient_access": "Free recording on YouTube, plus a written summary.",
     "verified": true,
-    "notes": "Solve M.E. usually posts webinar recordings on its website and YouTube."
+    "notes": "US-focused. A written summary is on [Solve M.E.'s website](https://solvecfs.org/2026-state-of-the-mecfs-union/).",
+    "recordings_url": "https://youtu.be/IQIECrbw8EE"
   },
   {
     "name": "RECOVER-TLC Third Annual Workshop",
@@ -115,17 +116,17 @@
   },
   {
     "name": "International ME/CFS Conference 2027 (Berlin)",
-    "dates": "Expected May 2027; exact date to be announced towards the end of 2026",
+    "dates": "May 2027; exact dates to be announced towards the end of 2026",
     "start_date": "2027-05-01",
     "date_precise": false,
-    "location": "Berlin, Germany",
-    "format": "Hybrid (expected)",
+    "location": "Charité Fatigue Centre, Berlin, Germany",
+    "format": "To be announced (2026 was hybrid)",
     "audience": "Patients & professionals",
     "organiser": "Charité Fatigue Centrum & ME/CFS Research Foundation",
-    "url": "https://mecfs-research.org/en/news-events/events/",
+    "url": "https://mecfs-research.org/en/news-events/events-mecfsresearchfoundation/",
     "patient_access": "In past years: free online attendance, a German-language patient symposium, and free videos afterwards.",
-    "verified": false,
-    "notes": "The organiser says the 2027 date will be announced towards the end of 2026. This is the field's largest meeting; 2026 had more than 7,300 participants."
+    "verified": true,
+    "notes": "The organiser has confirmed May 2027 at the Charité Fatigue Centre. This is the field's largest meeting; 2026 had more than 7,300 participants."
   },
   {
     "name": "Stanford / OMF Community Symposium on the Molecular Basis of ME/CFS 2027",

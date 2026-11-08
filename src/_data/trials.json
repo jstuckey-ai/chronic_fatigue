@@ -133,6 +133,60 @@
     "notes": "Participants receive $50 and an image of their brain scan. The MRI visit is in person, so plan rest around it."
   },
   {
+    "id": "baker-friends",
+    "name": "FRIENDS: heart and brain study in women with Long COVID, ME/CFS or POTS (Melbourne)",
+    "title": "FRIENDS study (Baker Heart and Diabetes Institute)",
+    "summary": "The Baker Institute is studying how the **heart and brain** are affected in women with Long COVID, ME/CFS or POTS. Participants, and healthy women for comparison, attend **two visits in Melbourne** (about 5 hours in total).",
+    "intervention": "None (observational): blood test, tilt-table test with ultrasound, memory and thinking tests, exercise test, brain MRI with nerve activity recording and lower body negative pressure, heart rate monitoring",
+    "phase": "Observational",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "Baker Specialist Clinics and Melbourne Brain Centre Imaging Unit, Melbourne VIC (in person)",
+    "eligibility": "Women aged 18 and over with Long COVID, ME/CFS or POTS, or healthy women with none of these conditions",
+    "sponsor": "Baker Heart and Diabetes Institute",
+    "contact_name": "FRIENDS study team",
+    "contact_email": "friends@baker.edu.au",
+    "contact_phone": "",
+    "contact_url": "https://www.baker.edu.au/research/clinical-trials/friends-study",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": "Baker's study page asks for participants and has an \"Apply to participate\" form. We couldn't find a registry entry. The visits include an **exercise test and a tilt test**, so if you have PEM, plan rest before and after, and ask the team what each test involves before you agree."
+  },
+  {
+    "id": "swinburne-diet",
+    "name": "Diet, immune function and fatigue in ME/CFS (Swinburne, Melbourne)",
+    "title": "Examining Diet, Immune Function, and Fatigue in Chronic Fatigue Syndrome/Myalgic Encephalomyelitis patients",
+    "summary": "A Swinburne University study of how diet, inflammation and fatigue are linked in ME/CFS. You attend **one appointment in Hawthorn**, then the rest is done from home. People with ME/CFS are compared with healthy adults.",
+    "intervention": "None (observational): one blood test, questionnaires, wearing a Fitbit and keeping a food diary at home",
+    "phase": "Observational (target 100)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "locations": "Swinburne University of Technology, Hawthorn VIC (one visit); the rest from home",
+    "eligibility": "Adults aged **18–40** diagnosed with CFS/ME, or healthy adults with no current illness. Must be able to attend one appointment in Hawthorn. Other exclusions apply, so check with the team.",
+    "sponsor": "Swinburne University of Technology",
+    "contact_name": "Lisa Rapley",
+    "contact_email": "lrapley@swin.edu.au",
+    "contact_phone": "03 9214 5922",
+    "contact_url": "https://www.cfsdietstudy.com/contact",
+    "registry_id": "ACTRN12625001369415",
+    "registry_url": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12625001369415",
+    "verified": true,
+    "notes": "The study website is taking **expressions of interest**. The registry still says \"Not yet recruiting\" (last updated June 2026), but its planned enrolment period runs until **1 December 2026**, so get in touch soon."
+  },
+  {
     "id": "nalcovid",
     "name": "NALCOVID: low-dose naltrexone for Long COVID",
     "summary": "Griffith University's placebo-controlled trial of LDN for Long COVID brain fog, sleep problems and pain. **People previously diagnosed with ME/CFS are excluded.**",
@@ -184,6 +238,33 @@
     "registry_url": "",
     "verified": true,
     "notes": "Joining online needs a Google account to log in; if you can't use the internet, phone 0800 532 150 to register by phone interview. Suits people who are too unwell to travel."
+  },
+  {
+    "id": "pvranz-auckland",
+    "name": "PVRANZ immune study: blood samples from people with Long COVID or ME/CFS (Auckland and Otago, NZ)",
+    "title": "Immunity and Molecular studies of SARS-CoV-2 infection, post-viral conditions and COVID-19 vaccination",
+    "summary": "Researchers at the Universities of Auckland and Otago are studying the immune system in Long COVID and ME/CFS. You fill in a screening questionnaire and give a **blood sample**. Giving more samples later is optional.",
+    "intervention": "None (observational): screening questionnaire and blood sample, with optional repeat samples",
+    "phase": "Observational",
+    "status": "recruiting",
+    "condition": "ME/CFS + Long COVID",
+    "typeList": [
+      "Observational study"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "locations": "University of Auckland / University of Otago (ask the team where samples are collected)",
+    "eligibility": "People aged 16 and over who have had COVID-19, have Long COVID, **have ME/CFS (with or without a past COVID infection)**, or are healthy. Not eligible: terminal illness, pregnancy or breastfeeding, or a current cold or flu.",
+    "sponsor": "University of Auckland (Post-Viral Research Aotearoa New Zealand, PVRANZ)",
+    "contact_name": "Dr Anna Brooks",
+    "contact_email": "pvranz@auckland.ac.nz",
+    "contact_phone": "",
+    "contact_url": "https://www.auckland.ac.nz/en/science/our-research/research-study-recruitment/long-covid.html",
+    "registry_id": "",
+    "registry_url": "",
+    "verified": true,
+    "notes": "The university's page says the study is \"currently recruiting\". It isn't on a trial registry; it runs under ethics approval 2021 EXP 10976."
   },
   {
     "id": "reverse-lc",
@@ -605,6 +686,34 @@
     "notes": "Planned start: November 2026 (registry, updated 8 October 2026)."
   },
   {
+    "id": "uab-brain-fog",
+    "name": "Brain training for ME/CFS brain fog (University of Alabama at Birmingham, USA)",
+    "title": "Brain Training for Chronic, Post-viral, Brain Fog: Study A (ME/CFS Brain Fog: Cognitive Rehabilitation Trial)",
+    "summary": "A small randomised trial comparing two **brain-training programmes** for ME/CFS brain fog. Both include vagus nerve stimulation through the ear, at higher or lower strength. Training totals about **30 hours over 2–4 weeks**, mostly by Zoom, plus **three visits** to UAB for blood tests and brain scans.",
+    "intervention": "Constraint-induced cognitive therapy with high-intensity ear vagus nerve stimulation vs a brain-fitness programme with low-intensity stimulation",
+    "phase": "Randomised (target 30)",
+    "status": "recruiting",
+    "condition": "ME/CFS",
+    "typeList": [
+      "Behavioural programme",
+      "Device trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "University of Alabama at Birmingham, Birmingham AL (3 visits; the rest remote)",
+    "eligibility": "Adults 18+ with ME/CFS diagnosed before their thinking problems began, at least mild cognitive impairment and moderate brain fog. Must be able to travel to UAB and have internet access. Not eligible: diagnosed POTS, fainting or seizures, heart attack, implanted devices, pregnancy, or unable to have an MRI.",
+    "sponsor": "University of Alabama at Birmingham · Posit Science Corporation",
+    "contact_name": "Madeline Rathz",
+    "contact_email": "mgrathz@uab.edu",
+    "contact_phone": "205-934-9768",
+    "contact_url": "https://clinicaltrials.gov/study/NCT07523113",
+    "registry_id": "NCT07523113",
+    "registry_url": "https://clinicaltrials.gov/study/NCT07523113",
+    "verified": true,
+    "notes": "Second contact: Helen Bliss, hmbliss@uab.edu, 205-934-0433. The company that makes the training software is a collaborator. About 30 hours of training in a few weeks is a big load if you have PEM."
+  },
+  {
     "id": "mayo-voice",
     "name": "Voice analysis to diagnose and track ME/CFS (Mayo Clinic)",
     "summary": "Tests whether **smartphone voice recordings** can help diagnose and monitor ME/CFS. It's done entirely through an app, with no travel.",
@@ -785,6 +894,33 @@
     "registry_url": "https://clinicaltrials.gov/study/NCT06257420",
     "verified": true,
     "notes": "Enrolment is by invitation through participating clinicians. Email trials@simmaron.com to ask about adding your clinician."
+  },
+  {
+    "id": "mount-sinai-sirolimus",
+    "name": "Low-dose sirolimus (rapamycin) vs placebo for Long COVID with PEM (New York)",
+    "title": "Low Dose Sirolimus in People With Post-Acute Sequelae of COVID-19 (PASC) Long COVID-19",
+    "summary": "A **placebo-controlled** trial of low-dose sirolimus (rapamycin), the drug in the Simmaron ME/CFS study. To join, you need Long COVID with at least moderate fatigue and **at least moderate post-exertional malaise**. People diagnosed with ME/CFS before 2020 can't join.",
+    "intervention": "Low-dose oral sirolimus vs placebo",
+    "phase": "Phase 3 (as registered); randomised, placebo-controlled (target 80)",
+    "status": "recruiting",
+    "condition": "Long COVID",
+    "typeList": [
+      "Drug trial"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "locations": "Cohen Center for Recovery from Complex Chronic Illness, Mount Sinai, New York NY (study visits needed)",
+    "eligibility": "Adults 18+ with doctor-diagnosed Long COVID for at least 6 months, at least moderate fatigue and PEM. Not eligible: a pre-2020 diagnosis of ME/CFS or another post-infection syndrome, autoimmune disease, lung or liver transplant, liver or kidney problems, pregnancy.",
+    "sponsor": "Icahn School of Medicine at Mount Sinai · PolyBio Research Foundation",
+    "contact_name": "David Putrino / Mackenzie Doerstling",
+    "contact_email": "CoreResearch@mountsinai.org",
+    "contact_phone": "212-241-7658",
+    "contact_url": "https://clinicaltrials.gov/study/NCT06960928",
+    "registry_id": "NCT06960928",
+    "registry_url": "https://clinicaltrials.gov/study/NCT06960928",
+    "verified": true,
+    "notes": "Main results are due at the end of 2026, so recruitment may close soon. It's for Long COVID, but its results will matter for ME/CFS because PEM is required to join. See [low-dose rapamycin](/treatment/medications/#low-dose-rapamycin-sirolimus)."
   },
   {
     "id": "jhu-bbb",

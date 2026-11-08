@@ -2,7 +2,7 @@
 title: ME/CFS and the NDIS
 seoTitle: "ME/CFS and the NDIS: Eligibility, Evidence & Appeals (2026)"
 description: Can ME/CFS qualify for the NDIS? The eligibility rules as they stand in 2026, the changes coming in 2027 and 2028, what evidence works, what gets funded, and what to do if you're refused.
-reviewed: 2026-10-20
+reviewed: 2026-11-08
 brief:
   - '**Yes, people with ME/CFS can get NDIS support**, but only on the basis of individual functional impact. There is no ME/CFS-specific policy, and ME/CFS is not on any automatic-entry list.'
   - 'The law says **fluctuating or episodic impairments can still be permanent**. That protection is written into the NDIS Act.'
@@ -64,7 +64,9 @@ The NDIS is in the middle of its biggest overhaul since it began. Key dates:{% r
 | **1 Dec 2026** | Claims for supports must be made **within 90 days** of the support being delivered (participants and plan managers).{% ref "cyda-2026-ndis-changes" %} |
 | **1 Feb 2027** | Tighter assessment of "reasonable and necessary" supports rolled out progressively |
 | **1 Apr 2027 to 2030** | Existing adult participants move to **new framework plans** built on a standardised support-needs assessment by a trained NDIA assessor, with a total funding amount |
-| **1 Jan 2028** | **A stricter permanence test for new applicants.** Impairments won't count as permanent unless you've "undertaken all appropriate treatment" and they're "likely to persist for the person's lifetime". "Appropriate treatment" must be evidence-based, able to "reliably be expected to materially improve, reverse, or alleviate" the impairment, and regularly performed in Australia. Existing participants will be progressively reassessed over three years.{% ref "ndis-amend-2026" %} |
+| **1 Oct 2027** | If you use a plan manager, you'll need to choose one from a **government-approved list**{% ref "emerge-2026-ndis-changing" %} |
+| **1 Jan 2028** | **A stricter permanence test for new applicants.** Impairments won't count as permanent unless you've "undertaken all appropriate treatment" and they're "likely to persist for the person's lifetime". "Appropriate treatment" must be evidence-based, able to "reliably be expected to materially improve, reverse, or alleviate" the impairment, and regularly performed in Australia. Existing participants **won't be reassessed under the new rules before 1 January 2028**; reassessments will run between January 2028 and December 2030.{% ref "ndis-amend-2026", "emerge-2026-ndis-changing" %} |
+| **1 Jul 2028** | Support coordination and connection services will be funded and delivered differently{% ref "emerge-2026-ndis-changing" %} |
 
 **What this means for ME/CFS:** the Government says "you will never be expected to undergo treatment that ... is not recommended for your impairment ... or could cause serious long-term side effects".{% ref "health-ndis-changes" %} Emerge Australia's view is that because no ME/CFS treatment meets all three "appropriate treatment" tests, the 2028 rules risk leaving people in "an indefinite limbo of expected treatment compliance with nothing to comply with", and it is lobbying for the guidance to say so explicitly.{% ref "emerge-ndis-submission-2026" %} If you're thinking of applying, **the current rules apply until 1 January 2028.**
 

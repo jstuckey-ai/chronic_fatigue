@@ -23,7 +23,7 @@ description: The studies, organisations and news sources behind this site, and w
 - ME Research UK: [Highlights from the International ME/CFS Conference 2026](https://www.meresearch.org.uk/highlights-from-the-international-me-cfs-conference-2026-including-decode-me-pet/)
 - International ME/CFS Conference 2026: [videos](https://events.mecfs-research.org/en/events/conference_2026/videos)
 
-### Trial registries (checked 29 September 2026)
+### Trial registries (checked 3 November 2026)
 
 Every trial on our [trials page](/research/trials/) links to its official registry entry: ANZCTR, ClinicalTrials.gov, ISRCTN or the EU Clinical Trials Register.
 

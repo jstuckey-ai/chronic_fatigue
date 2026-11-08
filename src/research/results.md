@@ -21,7 +21,8 @@ Conference recordings (with English slides and subtitles) are at [events.mecfs-r
 
 | Result | What happened |
 |---|---|
-| **Bezisterim** (BioVie), Sept 2026 {% ev "rct" %} {% ev "adjacent" %}{% ref "biovie-2026" %} | 203-patient Long COVID trial. Oral, crosses into the brain, thought to reduce inflammation. **Missed significance in the overall group** (though 21 of 22 measures leaned in its favour), but helped significantly in pre-planned subgroups with high fatigue, brain fog and/or PEM (about 78% of those enrolled). These are the company's own topline results, presented as a conference poster in October 2026, and haven't been peer-reviewed yet; many outcomes were tested, so the subgroup findings need confirming. A Phase 3 trial is planned. The most relevant readout of 2026 for ME/CFS, because PEM-heavy patients responded. |
+| **Bezisterim** (BioVie), Sept 2026 {% ev "rct" %} {% ev "adjacent" %}{% ref "biovie-2026" %} | 203-patient Long COVID trial. Oral, crosses into the brain, thought to reduce inflammation. **Missed significance in the overall group** (though 21 of 22 measures leaned in its favour), but helped significantly in subgroups with high fatigue, brain fog and/or PEM (about 78% of those enrolled). The company describes these subgroups as pre-planned. These are the company's own topline results, presented as a conference poster in October 2026, and haven't been peer-reviewed yet; many outcomes were tested, so the subgroup findings need confirming. A Phase 3 trial is planned. The most relevant readout of 2026 for ME/CFS, because PEM-heavy patients responded. |
+| **Structured pacing** (RECOVER-ENERGIZE, 300 people with Long COVID and PEM, Oct 2026) {% ev "rct" %} {% ev "adjacent" %}{% ref "ctgov-lc-energize-pacing" %} | Over 12 weeks, a structured pacing programme reduced **how often and how badly people had PEM** compared with usual care. The first randomised evidence for pacing in people with PEM. Participants knew which group they were in and the results are self-reported and not yet peer-reviewed. See [Pacing](/living/pacing/). |
 | **Low-dose rapamycin** (Simmaron) {% ev "open" %}{% ref "ruan-2025" %} | 74% of 70 patients improved in fatigue, PEM and orthostatic symptoms. No placebo group. See [Medications](/treatment/medications/#low-dose-rapamycin-sirolimus). |
 | **Hyperbaric oxygen** (Charité) {% ev "observational" %}{% ref "kim-2026-hbot" %} | Benefit with 40 sessions; the 20-session comparison presented at the conference showed less |
 | **Rovunaptabin (BC007) in autoantibody-positive patients** {% ev "rct" %} {% ev "adjacent" %}{% ref "hohberger-2025" %} | A 30-person placebo-controlled trial in Erlangen (published July 2025) that selected Long COVID patients by autoantibody improved fatigue and function |
@@ -32,10 +33,11 @@ Conference recordings (with English slides and subtitles) are at [events.mecfs-r
 
 | Trial | Result |
 |---|---|
-| **Canadian LDN trial** (160 enrolled, 137 analysed; post-COVID fatigue) {% ev "rct" %} {% ev "adjacent" %}{% ref "nacul-nct", "sicktimes-berlin-2026" %} | Missed its fatigue goal. More than 40% of the placebo group reportedly improved. **Long COVID only:** people who had ME/CFS before COVID were excluded, so it doesn't answer whether LDN helps ME/CFS. See [LDN](/treatment/medications/#low-dose-naltrexone-ldn). |
+| **Canadian LDN trial** (160 people; post-COVID fatigue) {% ev "rct" %} {% ev "adjacent" %}{% ref "nacul-nct", "sicktimes-berlin-2026", "naik-2026-ldn-postcovid" %} | No better than placebo on fatigue, pain, symptoms, daily steps or quality of life (full results October 2026, not yet peer-reviewed). More than 40% of the placebo group reportedly improved. **Long COVID only:** people who had ME/CFS before COVID were excluded, so it doesn't answer whether LDN helps ME/CFS. See [LDN](/treatment/medications/#low-dose-naltrexone-ldn). |
 | **Charité immunoadsorption** (44 treated vs 21 sham) {% ev "rct" %}{% ref "iapacs-nct", "sicktimes-berlin-2026" %} | No significant difference in fatigue at 60 days. Criticised for not selecting autoantibody-positive patients; in a separate open-label series of 20 autoantibody-positive patients, 14 responded.{% ref "stein-2025" %} |
 | **PoCoVIT** (methylprednisolone) {% ev "rct" %}{% ref "pocovit-nct", "sicktimes-berlin-2026" %} | **Stopped early after five serious clotting events.** No benefit. |
 | **Myoflame-19** (prednisolone + losartan, 279 patients) {% ev "rct" %} {% ev "adjacent" %}{% ref "puntmann-2026" %} | No benefit |
+| **PreVitaCOV** (low-dose prednisolone and/or B vitamins for 4 weeks, 323 people with Long COVID, Oct 2026) {% ev "rct" %} {% ev "adjacent" %}{% ref "gagyor-2026-previtacov" %} | Prednisolone eased symptoms slightly, but **by less than the amount the researchers had set as a noticeable difference**. B vitamins did nothing. |
 | **BC007 BLOC trial** (2024, 119 unselected patients) {% ev "rct" %}{% ref "altea-bc007", "sicktimes-bc007-2025" %} | No better than placebo. The company went insolvent; APTA Therapeutics has since acquired its assets and plans a new trial.{% ref "apta-2025" %} |
 | **Ivabradine** (RECOVER-AUTONOMIC, 181 people with Long COVID POTS) {% ev "rct" %} {% ev "adjacent" %}{% ref "recover-autonomic-2026" %} | Lowered heart rate on standing, but symptoms didn't improve |
 | **AER002 antibody** (Long COVID, 36 people, Oct 2026) {% ev "rct" %} {% ev "adjacent" %}{% ref "peluso-2026-aer002" %} | No difference from placebo on physical health or any secondary outcome. A hint that some people may respond needs a new trial to test. |
@@ -48,6 +50,8 @@ Conference recordings (with English slides and subtitles) are at [events.mecfs-r
 - **Muscles, not brain:** a Stanford whole-body PET study found inflammation-type signals in muscle, not brain (May).
 - **Blood flow without a racing heart:** Brigham & Women's found blood flow to the brain drops when upright even when heart rate is normal (January).
 - **Sickness response:** the Komaroff review set out how a normal "sickness" programme in the brain may fail to switch off (September).
+- **No sign of "microclots" in Long COVID:** a careful UK study of 117 people who were never in hospital found no clotting abnormality and no extra fibrin "microaggregates" compared with people who had recovered from COVID. The authors say blood thinners aren't justified outside trials (October).{% ref "fraser-2026-no-microclots" %}
+- **GPCR autoantibodies not linked to fatigue:** in a German study of 206 people after COVID, levels of autoantibodies against 13 receptors were no different in people with post-COVID fatigue (October). The test measured binding, not whether the antibodies do anything.{% ref "achleitner-2026-gpcr" %}
 
 More detail on [The science](/understanding/science/).
 
@@ -57,5 +61,6 @@ More detail on [The science](/understanding/science/).
 - **RESETME** (daratumumab) placebo-controlled results{% ref "resetme-ctis" %}
 - **Griffith LDN trials** in ME/CFS and Long COVID
 - **REVERSE-LC** (baricitinib) results, expected 2027
-- **Full publication of the Canadian LDN trial**, including subgroups
+- **Peer-reviewed publication of the Canadian LDN trial** (posted as a preprint in October 2026)
+- **RECOVER-ENERGIZE exercise results**, which test exercise advice separately for people with and without PEM
 - **Australia's new NHMRC ME/CFS clinical guidelines**

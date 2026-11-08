@@ -19,6 +19,7 @@ This is **not** the same as a slow, symptom-led programme that lets you step bac
 
 - **CBT framed as a *cure*.** Supportive counselling for coping with a serious illness can help. Programmes that claim ME/CFS is maintained by "unhelpful beliefs", and that changing them will cure you, are not supported. A 2026 review of 15 CBT trials reported small improvements in self-reported fatigue, but the trials couldn't be blinded and relied on questionnaires, and reviewers have raised concerns about how some trials were counted. It doesn't show that CBT treats the illness itself.{% ref "jiang-2026-cbt-meta" %}
 - **High-dose steroids.** The PoCoVIT trial was **stopped early after five serious blood clotting events**, with no benefit.{% ref "pocovit-nct", "sicktimes-berlin-2026" %}
+- **Blood thinners or blood-filtering (apheresis) for "microclots".** A careful UK study of 117 people with Long COVID who were never in hospital found no clotting abnormality and no extra fibrin "microaggregates" compared with people who had recovered from COVID. The authors say blood thinners aren't justified outside clinical trials unless you have another reason to take them.{% ref "fraser-2026-no-microclots" %}
 - **Immunoadsorption outside a trial.** It showed no benefit in unselected patients (Charité, 2026).{% ref "iapacs-nct", "sicktimes-berlin-2026" %} It may help some people with specific autoantibodies,{% ref "stein-2025" %} but only in a research setting for now.
 - **Expensive "protocols" and clinics** that promise recovery, especially with upfront packages.
 
@@ -63,6 +64,7 @@ Some Australian clinics still describe graded exercise as well supported by evid
 ## Tests
 
 - **VO₂ max or other maximal exercise testing** is a known PEM trigger. The exception is a formal two-day CPET done specifically to document ME/CFS, and only if you decide the trade-off is worth it.
+- **Private "GPCR autoantibody" tests used to diagnose ME/CFS or Long COVID or to choose a treatment.** In a 2026 German study of 206 people after COVID, these antibody levels were no different in people with post-COVID fatigue.{% ref "achleitner-2026-gpcr" %} They're a research tool, not a diagnostic test.
 - **Private panels sold as an ME/CFS workup.** They usually miss the tests that matter. See [Tests](/treatment/testing/#private-longevity-blood-panels).
 
 ## Apps and devices
